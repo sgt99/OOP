@@ -1,0 +1,360 @@
+James Jones
+MIA
+12
+6.5
+1.1
+1.1
+13
+13
+1.000
+Thabo Sefolosha
+OKC
+17
+4.6
+0.8
+0.8
+13
+13
+1.000
+Jason Richardson
+ORL
+5
+10.0
+1.6
+1.6
+8
+8
+1.000
+Kyle Korver
+CHI
+16
+6.6
+0.4
+0.4
+7
+7
+1.000
+Gary Neal
+SA
+6
+7.7
+1.2
+1.2
+7
+7
+1.000
+Ryan Anderson
+ORL
+6
+4.7
+1.0
+1.0
+6
+6
+1.000
+Toney Douglas
+NY
+4
+10.8
+1.5
+1.5
+6
+6
+1.000
+Marco Belinelli
+NO
+6
+9.7
+0.7
+0.7
+4
+4
+1.000
+Daequan Cook
+OKC
+17
+3.8
+0.2
+0.2
+4
+4
+1.000
+Chauncey Billups
+NY
+1
+10.0
+2.0
+2.0
+2
+2
+1.000
+Anthony Carter
+NY
+4
+4.8
+0.5
+0.5
+2
+2
+1.000
+Quentin Richardson
+ORL
+6
+3.8
+0.3
+0.3
+2
+2
+1.000
+Chris Duhon
+ORL
+1
+5.0
+2.0
+2.0
+2
+2
+1.000
+Nate Robinson
+OKC
+3
+2.7
+0.7
+0.7
+2
+2
+1.000
+Evan Turner
+PHI
+5
+8.0
+0.4
+0.4
+2
+2
+1.000
+Chris Johnson
+POR
+4
+1.0
+0.5
+0.5
+2
+2
+1.000
+Kirk Hinrich
+ATL
+6
+10.2
+0.2
+0.2
+1
+1
+1.000
+Ray Allen
+BOS
+9
+18.9
+2.7
+2.8
+24
+25
+.960
+Dirk Nowitzki
+DAL
+21
+27.7
+8.3
+8.9
+175
+186
+.941
+Brandon Bass
+ORL
+6
+7.3
+2.0
+2.2
+12
+13
+.923
+Carl Landry
+NO
+6
+15.8
+5.5
+6.0
+33
+36
+.917
+Ty Lawson
+DEN
+5
+15.6
+4.2
+4.6
+21
+23
+.913
+Jermaine O'Neal
+BOS
+9
+5.8
+1.1
+1.2
+10
+11
+.909
+C.J. Watson
+CHI
+16
+3.2
+0.6
+0.7
+10
+11
+.909
+Udonis Haslem
+MIA
+12
+5.3
+0.8
+0.8
+9
+10
+.900
+A.J. Price
+IND
+5
+8.4
+1.8
+2.0
+9
+10
+.900
+Tyler Hansbrough
+IND
+5
+11.2
+3.2
+3.6
+16
+18
+.889
+Dahntay Jones
+IND
+3
+8.7
+2.7
+3.0
+8
+9
+.889
+Paul Pierce
+BOS
+9
+20.8
+3.3
+3.8
+30
+34
+.882
+Gerald Wallace
+POR
+6
+15.2
+4.7
+5.3
+28
+32
+.875
+Danny Granger
+IND
+5
+21.6
+2.8
+3.2
+14
+16
+.875
+Arron Afflalo
+DEN
+3
+11.3
+2.3
+2.7
+7
+8
+.875
+Paul George
+IND
+5
+6.0
+1.4
+1.6
+7
+8
+.875
+George Hill
+SA
+6
+11.7
+4.3
+5.0
+26
+30
+.867
+Carmelo Anthony
+NY
+4
+26.0
+7.3
+8.5
+29
+34
+.853
+Russell Westbrook
+OKC
+17
+23.8
+7.1
+8.4
+121
+142
+.852
+Shawn Marion
+DAL
+21
+11.9
+1.9
+2.2
+40
+47
+.851
+Jason Terry
+DAL
+21
+17.5
+3.3
+4.0
+70
+83
+.843
+Wesley Matthews
+POR
+6
+13.0
+2.7
+3.2
+16
+19
+.842
+Luol Deng
+CHI
+16
+16.9
+3.3
+3.9
+52
+62
+.839

@@ -1,0 +1,360 @@
+Steve Nash
+PHX
+81
+16.5
+2.6
+2.8
+211
+225
+.938
+Dirk Nowitzki
+DAL
+81
+25.0
+6.6
+7.2
+536
+586
+.915
+Ray Allen
+BOS
+80
+16.3
+2.9
+3.2
+231
+253
+.913
+Chauncey Billups
+DEN
+73
+19.5
+6.4
+7.0
+466
+512
+.910
+Luke Ridnour
+MIL
+82
+10.4
+1.5
+1.7
+127
+140
+.907
+Kevin Durant
+OKC
+82
+30.1
+9.2
+10.2
+756
+840
+.900
+Mo Williams
+CLE
+69
+15.8
+2.6
+2.9
+177
+198
+.894
+Randy Foye
+WSH
+70
+10.1
+1.8
+2.1
+129
+145
+.890
+Stephen Curry
+GS
+80
+17.5
+2.2
+2.5
+177
+200
+.885
+Kevin Martin
+HOU/SAC
+46
+20.6
+6.5
+7.4
+298
+340
+.876
+Manu Ginobili
+SA
+75
+16.5
+4.1
+4.7
+309
+355
+.870
+Courtney Lee
+NJ
+71
+12.5
+1.9
+2.2
+133
+153
+.869
+Jason Terry
+DAL
+77
+16.6
+3.0
+3.5
+232
+268
+.866
+David West
+NO
+81
+19.0
+3.7
+4.2
+296
+342
+.865
+Drew Gooden
+DAL/LAC
+70
+10.9
+2.7
+3.1
+186
+216
+.861
+Ben Gordon
+DET
+62
+13.8
+3.2
+3.7
+198
+230
+.861
+JJ Redick
+ORL
+82
+9.6
+2.3
+2.7
+191
+222
+.860
+Jamal Crawford
+ATL
+79
+18.0
+3.4
+4.0
+270
+315
+.857
+Paul Pierce
+BOS
+71
+18.3
+5.2
+6.1
+369
+433
+.852
+Darren Collison
+NO
+76
+12.4
+1.9
+2.3
+148
+174
+.851
+Danny Granger
+IND
+62
+24.1
+5.9
+6.9
+363
+428
+.848
+Chris Paul
+NO
+45
+18.7
+3.6
+4.2
+161
+190
+.847
+Chris Douglas-Roberts
+NJ
+67
+9.8
+2.0
+2.3
+133
+157
+.847
+Richard Hamilton
+DET
+46
+18.1
+4.4
+5.2
+204
+241
+.846
+Jarrett Jack
+TOR
+82
+11.4
+2.5
+2.9
+203
+241
+.842
+Mike Dunleavy
+IND
+67
+9.9
+2.0
+2.4
+133
+158
+.842
+Vince Carter
+ORL
+75
+16.6
+3.4
+4.1
+257
+306
+.840
+Caron Butler
+DAL/WSH
+74
+16.3
+3.6
+4.3
+264
+315
+.838
+Kevin Garnett
+BOS
+69
+14.3
+2.7
+3.2
+185
+221
+.837
+Corey Maggette
+GS
+70
+19.8
+6.6
+7.9
+460
+551
+.835
+Rodney Stuckey
+DET
+73
+16.6
+4.1
+4.9
+299
+359
+.833
+Jerryd Bayless
+POR
+74
+8.5
+2.7
+3.3
+201
+242
+.831
+Carmelo Anthony
+DEN
+69
+28.2
+7.4
+8.9
+508
+612
+.830
+John Salmons
+CHI/MIL
+81
+15.4
+3.1
+3.8
+253
+305
+.830
+Wesley Matthews
+UTAH
+82
+9.4
+2.0
+2.4
+160
+193
+.829
+Brad Miller
+CHI
+82
+8.8
+2.2
+2.7
+182
+220
+.827
+Kyle Lowry
+HOU
+68
+9.1
+3.2
+3.8
+215
+260
+.827
+Jonny Flynn
+MIN
+81
+13.5
+2.8
+3.3
+223
+270
+.826
+Lou Williams
+PHI
+64
+14.0
+3.0
+3.6
+192
+233
+.824
+Aaron Brooks
+HOU
+82
+19.6
+3.0
+3.6
+245
+298
+.822
