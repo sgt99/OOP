@@ -1,0 +1,360 @@
+Dahntay Jones
+CLE
+1
+42.0
+0
+0.0
+0.0
+0.00
+0.00
+Nate Robinson
+NO
+2
+11.5
+0
+0.0
+0.0
+0.00
+0.00
+Alex Stepheson
+LAC/MEM
+8
+9.1
+0
+0.0
+0.0
+0.00
+0.00
+Erick Green
+DEN/UTAH
+9
+4.7
+0
+0.0
+0.0
+0.00
+0.00
+Cory Jefferson
+PHX
+8
+6.3
+0
+0.0
+0.0
+0.00
+0.00
+Duje Dukan
+SAC
+1
+24.0
+0
+0.0
+0.0
+0.00
+0.00
+J.J. O'Brien
+UTAH
+2
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Branden Dawson
+LAC
+6
+4.8
+0
+0.0
+0.0
+0.00
+0.00
+Rakeem Christmas
+IND
+1
+6.0
+0
+0.0
+0.0
+0.00
+0.00
+Jarnell Stokes
+MIA/MEM
+7
+2.6
+0
+0.0
+0.0
+0.00
+0.00
+Sam Dekker
+HOU
+3
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Thanasis Antetokounmpo
+NY
+2
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Jarell Eddie
+WSH
+26
+5.7
+1
+0.0
+0.3
+5.00
+5.00
+Jordan Mickey
+BOS
+16
+3.6
+1
+0.1
+0.8
+1.00
+0.00
+CJ Wilcox
+LAC
+23
+7.3
+2
+0.1
+0.6
+5.00
+5.00
+Steve Novak
+MIL/OKC
+10
+4.4
+1
+0.1
+1.1
+0.00
+0.00
+Matt Bonner
+SA
+30
+6.9
+3
+0.1
+0.7
+3.00
+2.00
+Joel Anthony
+DET
+19
+5.1
+2
+0.1
+1.0
+0.50
+1.00
+Christian Wood
+PHI
+17
+8.5
+2
+0.1
+0.7
+1.50
+2.50
+Cliff Alexander
+POR
+8
+4.5
+1
+0.1
+1.3
+0.00
+1.00
+Udonis Haslem
+MIA
+37
+7.0
+5
+0.1
+0.9
+2.80
+1.00
+Alan Anderson
+WSH
+13
+14.8
+2
+0.2
+0.5
+7.00
+2.00
+James Young
+BOS
+29
+6.9
+5
+0.2
+1.2
+1.80
+1.20
+Rasual Butler
+SA
+46
+9.4
+8
+0.2
+0.9
+3.00
+1.63
+Caron Butler
+SAC
+17
+10.4
+3
+0.2
+0.8
+3.33
+3.00
+Aaron Harrison
+CHA
+21
+4.4
+4
+0.2
+2.1
+0.50
+1.50
+Elliot Williams
+MEM
+5
+9.0
+1
+0.2
+1.1
+4.00
+0.00
+Joe Harris
+CLE
+5
+3.0
+1
+0.2
+3.2
+2.00
+0.00
+Kevon Looney
+GS
+5
+4.2
+1
+0.2
+2.3
+0.00
+0.00
+Anthony Bennett
+TOR
+19
+4.4
+4
+0.2
+2.3
+0.00
+1.25
+Reggie Bullock
+DET
+37
+11.6
+8
+0.2
+0.9
+3.38
+1.25
+Cameron Bairstow
+CHI
+18
+5.7
+4
+0.2
+1.9
+1.50
+0.50
+Jeremy Evans
+DAL
+30
+8.4
+7
+0.2
+1.3
+0.29
+0.86
+Chris Copeland
+MIL
+24
+6.5
+6
+0.3
+1.8
+1.83
+0.33
+Devyn Marble
+ORL
+28
+8.9
+7
+0.3
+1.3
+1.71
+1.86
+Anthony Morrow
+OKC
+68
+13.6
+17
+0.3
+0.9
+1.41
+1.29
+James Jones
+CLE
+48
+9.6
+13
+0.3
+1.3
+1.08
+0.85
+Tyler Hansbrough
+CHA
+44
+7.8
+12
+0.3
+1.7
+0.67
+1.00
+Sasha Kaun
+CLE
+25
+3.8
+7
+0.3
+3.5
+0.43
+0.57
+Axel Toupane
+DEN
+21
+14.5
+6
+0.3
+0.9
+2.50
+1.17

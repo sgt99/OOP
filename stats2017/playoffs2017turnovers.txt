@@ -1,0 +1,360 @@
+Kris Humphries
+ATL
+1
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Brandon Bass
+LAC
+1
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Thabo Sefolosha
+ATL
+4
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+Bobby Brown
+HOU
+5
+4.4
+0
+0.0
+0.0
+0.00
+0.00
+Anthony Morrow
+CHI
+3
+9.7
+0
+0.0
+0.0
+0.00
+0.00
+Wesley Johnson
+LAC
+3
+3.7
+0
+0.0
+0.0
+0.00
+0.00
+Kyle Singler
+OKC
+1
+10.0
+0
+0.0
+0.0
+0.00
+0.00
+Malcolm Delaney
+ATL
+1
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Jeff Withey
+UTAH
+3
+7.0
+0
+0.0
+0.0
+0.00
+0.00
+Shabazz Napier
+POR
+4
+11.8
+0
+0.0
+0.0
+0.00
+0.00
+Pat Connaughton
+POR
+3
+8.0
+0
+0.0
+0.0
+0.00
+0.00
+Trey Burke
+WSH
+3
+6.7
+0
+0.0
+0.0
+0.00
+0.00
+Kyle Wiltjer
+HOU
+1
+5.0
+0
+0.0
+0.0
+0.00
+0.00
+Jake Layman
+POR
+2
+8.0
+0
+0.0
+0.0
+0.00
+0.00
+Semaj Christon
+OKC
+2
+10.5
+0
+0.0
+0.0
+0.00
+0.00
+Joel Bolomboy
+UTAH
+2
+4.5
+0
+0.0
+0.0
+0.00
+0.00
+Glenn Robinson III
+IND
+3
+10.3
+0
+0.0
+0.0
+0.00
+0.00
+Sam Dekker
+HOU
+4
+7.8
+0
+0.0
+0.0
+0.00
+0.00
+Alex Abrines
+OKC
+5
+16.0
+0
+0.0
+0.0
+0.00
+0.00
+Lucas Nogueira
+TOR
+3
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+Isaiah Taylor
+HOU
+3
+3.3
+0
+0.0
+0.0
+0.00
+0.00
+Jarell Martin
+MEM
+3
+3.3
+0
+0.0
+0.0
+0.00
+0.00
+Damian Jones
+GS
+4
+5.3
+0
+0.0
+0.0
+0.00
+0.00
+Jakob Poeltl
+TOR
+6
+4.3
+0
+0.0
+0.0
+0.00
+0.00
+Wade Baldwin IV
+MEM
+3
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Rashad Vaughn
+MIL
+3
+3.3
+0
+0.0
+0.0
+0.00
+0.00
+Pascal Siakam
+TOR
+2
+5.0
+0
+0.0
+0.0
+0.00
+0.00
+Domantas Sabonis
+OKC
+2
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Deyonta Davis
+MEM
+3
+3.7
+0
+0.0
+0.0
+0.00
+0.00
+Tim Quarterman
+POR
+2
+3.5
+0
+0.0
+0.0
+0.00
+0.00
+James Young
+BOS
+10
+3.9
+1
+0.1
+1.2
+3.00
+0.00
+James Michael McAdoo
+GS
+9
+4.9
+1
+0.1
+1.1
+0.00
+1.00
+Dahntay Jones
+CLE
+7
+3.3
+1
+0.1
+2.1
+1.00
+0.00
+Sheldon McClellan
+WSH
+7
+2.4
+1
+0.1
+2.8
+0.00
+0.00
+Fred VanVleet
+TOR
+7
+4.1
+1
+0.1
+1.7
+4.00
+1.00
+Mike Muscala
+ATL
+6
+13.5
+1
+0.2
+0.6
+2.00
+1.00
+Channing Frye
+CLE
+11
+13.0
+2
+0.2
+0.7
+6.00
+1.50
+Doug McDermott
+OKC
+5
+13.2
+1
+0.2
+0.7
+1.00
+1.00
+Tomas Satoransky
+WSH
+10
+3.6
+2
+0.2
+2.7
+3.00
+0.50
+Patrick McCaw
+GS
+10
+14.7
+2
+0.2
+0.7
+7.00
+4.00
