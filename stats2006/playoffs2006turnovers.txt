@@ -1,0 +1,360 @@
+Brian Cardinal
+MEM
+3
+7.3
+0
+0.0
+0.0
+0.00
+0.00
+Kelvin Cato
+DET
+4
+3.8
+0
+0.0
+0.0
+0.00
+0.00
+Jeff Foster
+IND
+4
+20.0
+0
+0.0
+0.0
+0.00
+0.00
+Devean George
+LAL
+7
+17.3
+0
+0.0
+0.0
+0.00
+0.00
+Brian Grant
+PHX
+5
+2.4
+0
+0.0
+0.0
+0.00
+0.00
+Othella Harrington
+CHI
+3
+5.0
+0
+0.0
+0.0
+0.00
+0.00
+Alan Henderson
+CLE
+2
+4.5
+0
+0.0
+0.0
+0.00
+0.00
+Jermaine Jackson
+MIL
+2
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Walter McCarty
+LAC
+8
+1.3
+0
+0.0
+0.0
+0.00
+0.00
+Aaron McKie
+LAL
+1
+8.0
+0
+0.0
+0.0
+0.00
+0.00
+Scott Padgett
+NJ
+3
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Eric Piatkowski
+CHI
+6
+4.7
+0
+0.0
+0.0
+0.00
+0.00
+Vitaly Potapenko
+SAC
+4
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+Kurt Thomas
+PHX
+1
+6.0
+0
+0.0
+0.0
+0.00
+0.00
+Etan Thomas
+WSH
+3
+6.0
+0
+0.0
+0.0
+0.00
+0.00
+Corliss Williamson
+SAC
+3
+3.7
+0
+0.0
+0.0
+0.00
+0.00
+Dan Gadzuric
+MIL
+4
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Bostjan Nachbar
+NJ
+1
+1.0
+0
+0.0
+0.0
+0.00
+0.00
+Jiri Welsch
+MIL
+4
+3.8
+0
+0.0
+0.0
+0.00
+0.00
+Pat Burke
+PHX
+3
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+Jason Kapono
+MIA
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Sasha Pavlovic
+CLE
+3
+1.3
+0
+0.0
+0.0
+0.00
+0.00
+Antonio Burks
+MEM
+2
+6.5
+0
+0.0
+0.0
+0.00
+0.00
+Billy Thomas
+WSH
+3
+4.7
+0
+0.0
+0.0
+0.00
+0.00
+Andrew Bynum
+LAL
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Daniel Ewing
+LAC
+6
+0.8
+0
+0.0
+0.0
+0.00
+0.00
+Francisco Garcia
+SAC
+6
+6.8
+0
+0.0
+0.0
+0.00
+0.00
+Linas Kleiza
+DEN
+3
+4.7
+0
+0.0
+0.0
+0.00
+0.00
+Antoine Wright
+NJ
+5
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Ronnie Price
+SAC
+4
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+Donell Taylor
+WSH
+1
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+James Singleton
+LAC
+7
+1.7
+0
+0.0
+0.0
+0.00
+0.00
+Darrell Armstrong
+DAL
+11
+4.3
+1
+0.1
+1.0
+2.00
+3.00
+Maurice Evans
+DET
+16
+6.3
+2
+0.1
+1.0
+1.50
+0.50
+Josh Powell
+DAL
+6
+4.2
+1
+0.2
+1.9
+1.00
+0.00
+Greg Buckner
+DEN
+5
+27.4
+1
+0.2
+0.4
+6.00
+3.00
+Ira Newble
+CLE
+5
+2.2
+1
+0.2
+4.4
+0.00
+1.00
+Joe Smith
+MIL
+5
+21.2
+1
+0.2
+0.5
+3.00
+2.00
+Rasho Nesterovic
+SA
+9
+12.7
+2
+0.2
+0.8
+0.50
+1.00
+Damon Jones
+CLE
+13
+13.9
+3
+0.2
+0.8
+4.00
+0.67
