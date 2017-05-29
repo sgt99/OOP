@@ -1,0 +1,200 @@
+James Harden
+HOU
+6
+263
+43.8
+Jimmy Butler
+CHI
+5
+218
+43.6
+Kevin Durant
+OKC
+19
+815
+42.9
+Marc Gasol
+MEM
+7
+299
+42.7
+Damian Lillard
+POR
+11
+466
+42.4
+Stephen Curry
+GS
+7
+296
+42.3
+Joakim Noah
+CHI
+5
+210
+42.0
+Nicolas Batum
+POR
+11
+459
+41.7
+Chandler Parsons
+HOU
+6
+250
+41.7
+Bradley Beal
+WSH
+11
+458
+41.6
+Paul George
+IND
+19
+781
+41.1
+DeMar DeRozan
+TOR
+7
+282
+40.3
+LaMarcus Aldridge
+POR
+11
+441
+40.1
+Joe Johnson
+BKN
+12
+469
+39.1
+Zach Randolph
+MEM
+6
+234
+39.0
+Wesley Matthews
+POR
+11
+426
+38.7
+Kyle Lowry
+TOR
+7
+271
+38.7
+Russell Westbrook
+OKC
+19
+735
+38.7
+Dwight Howard
+HOU
+6
+231
+38.5
+Josh McRoberts
+CHA
+4
+154
+38.5
+Kemba Walker
+CHA
+4
+153
+38.3
+John Wall
+WSH
+11
+420
+38.2
+LeBron James
+MIA
+20
+763
+38.2
+Paul Millsap
+ATL
+7
+267
+38.1
+Mike Conley
+MEM
+7
+267
+38.1
+Dirk Nowitzki
+DAL
+7
+263
+37.6
+Lance Stephenson
+IND
+19
+705
+37.1
+Trevor Ariza
+WSH
+11
+407
+37.0
+Blake Griffin
+LAC
+13
+478
+36.8
+Klay Thompson
+GS
+7
+257
+36.7
+Chris Paul
+LAC
+13
+472
+36.3
+David West
+IND
+19
+687
+36.2
+George Hill
+IND
+19
+687
+36.2
+Kyle Korver
+ATL
+7
+250
+35.7
+Deron Williams
+BKN
+12
+428
+35.7
+Monta Ellis
+DAL
+7
+249
+35.6
+Andre Iguodala
+GS
+7
+248
+35.4
+Al Jefferson
+CHA
+3
+106
+35.3
+DeMarre Carroll
+ATL
+7
+246
+35.1
+Marcin Gortat
+WSH
+11
+382
+34.7

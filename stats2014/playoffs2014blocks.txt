@@ -1,0 +1,360 @@
+Dwight Howard
+HOU
+6
+38.5
+17
+25
+2.83
+3.53
+0.68
+DeAndre Jordan
+LAC
+13
+34.0
+33
+45
+2.54
+3.58
+0.73
+Serge Ibaka
+OKC
+17
+34.2
+42
+54
+2.47
+3.47
+0.78
+Taj Gibson
+CHI
+5
+30.8
+12
+12
+2.40
+3.74
+1.00
+Paul Millsap
+ATL
+7
+38.1
+13
+25
+1.86
+2.34
+0.52
+Robin Lopez
+POR
+11
+33.4
+20
+40
+1.82
+2.62
+0.50
+Draymond Green
+GS
+7
+32.6
+12
+33
+1.71
+2.53
+0.36
+Al Jefferson
+CHA
+3
+35.3
+5
+7
+1.67
+2.26
+0.71
+LaMarcus Aldridge
+POR
+11
+40.1
+18
+40
+1.64
+1.96
+0.45
+Samuel Dalembert
+DAL
+7
+19.3
+10
+15
+1.43
+3.56
+0.67
+Joakim Noah
+CHI
+5
+42.0
+7
+19
+1.40
+1.60
+0.37
+Roy Hibbert
+IND
+19
+28.5
+26
+62
+1.37
+2.30
+0.42
+Steven Adams
+OKC
+18
+18.4
+24
+48
+1.33
+3.48
+0.50
+Kevin Durant
+OKC
+19
+42.9
+25
+41
+1.32
+1.47
+0.61
+Marcin Gortat
+WSH
+11
+34.7
+14
+22
+1.27
+1.76
+0.64
+Tim Duncan
+SA
+23
+32.7
+29
+52
+1.26
+1.85
+0.56
+Dorell Wright
+POR
+8
+11.0
+9
+8
+1.13
+4.91
+1.13
+Nene Hilario
+WSH
+10
+32.5
+11
+36
+1.10
+1.62
+0.31
+Blake Griffin
+LAC
+13
+36.8
+14
+54
+1.08
+1.41
+0.26
+Chris Bosh
+MIA
+20
+34.3
+20
+51
+1.00
+1.40
+0.39
+Chris Andersen
+MIA
+18
+17.6
+18
+34
+1.00
+2.73
+0.53
+Trevor Booker
+WSH
+9
+16.2
+9
+25
+1.00
+2.96
+0.36
+Jonas Valanciunas
+TOR
+7
+28.6
+7
+22
+1.00
+1.68
+0.32
+Brandan Wright
+DAL
+6
+15.0
+6
+8
+1.00
+3.20
+0.75
+Elton Brand
+ATL
+7
+11.6
+6
+10
+0.86
+3.56
+0.60
+Dirk Nowitzki
+DAL
+7
+37.6
+6
+20
+0.86
+1.10
+0.30
+Marc Gasol
+MEM
+7
+42.7
+6
+27
+0.86
+0.96
+0.22
+Ian Mahinmi
+IND
+19
+12.7
+16
+38
+0.84
+3.19
+0.42
+David West
+IND
+19
+36.2
+15
+57
+0.79
+1.05
+0.26
+Kemba Walker
+CHA
+4
+38.3
+3
+6
+0.75
+0.94
+0.50
+Cody Zeller
+CHA
+4
+13.3
+3
+3
+0.75
+2.72
+1.00
+Danny Green
+SA
+23
+23.0
+17
+50
+0.74
+1.54
+0.34
+John Wall
+WSH
+11
+38.2
+8
+29
+0.73
+0.91
+0.28
+Klay Thompson
+GS
+7
+36.7
+5
+24
+0.71
+0.93
+0.21
+Mason Plumlee
+BKN
+10
+11.4
+7
+24
+0.70
+2.95
+0.29
+Omer Asik
+HOU
+6
+27.2
+4
+29
+0.67
+1.18
+0.14
+Bismack Biyombo
+CHA
+3
+16.0
+2
+4
+0.67
+2.00
+0.50
+Bradley Beal
+WSH
+11
+41.6
+7
+31
+0.64
+0.73
+0.23
+Kawhi Leonard
+SA
+23
+32.0
+14
+66
+0.61
+0.91
+0.21
+Amir Johnson
+TOR
+7
+27.3
+4
+29
+0.57
+1.01
+0.14
