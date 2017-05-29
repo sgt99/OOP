@@ -1,0 +1,360 @@
+Dana Barros
+BOS
+1
+1.0
+0
+0.0
+0.0
+0.00
+0.00
+Ryan Bowen
+DEN
+4
+1.5
+0
+0.0
+0.0
+0.00
+0.00
+Shawn Bradley
+DAL
+2
+1.5
+0
+0.0
+0.0
+0.00
+0.00
+Rodney Buford
+SAC
+5
+6.4
+0
+0.0
+0.0
+0.00
+0.00
+Tony Delk
+DAL
+1
+5.0
+0
+0.0
+0.0
+0.00
+0.00
+DerMarr Johnson
+NY
+3
+5.7
+0
+0.0
+0.0
+0.00
+0.00
+Jumaine Jones
+BOS
+2
+14.0
+0
+0.0
+0.0
+0.00
+0.00
+Eric Piatkowski
+HOU
+1
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Scot Pollard
+IND
+3
+4.3
+0
+0.0
+0.0
+0.00
+0.00
+Bryon Russell
+LAL
+6
+2.7
+0
+0.0
+0.0
+0.00
+0.00
+Daniel Santiago
+MIL
+1
+1.0
+0
+0.0
+0.0
+0.00
+0.00
+Jabari Smith
+SAC
+4
+2.5
+0
+0.0
+0.0
+0.00
+0.00
+Michael Stewart
+BOS
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Samaki Walker
+MIA
+4
+2.8
+0
+0.0
+0.0
+0.00
+0.00
+Clarence Weatherspoon
+HOU
+2
+11.0
+0
+0.0
+0.0
+0.00
+0.00
+Scott Williams
+DAL
+3
+3.7
+0
+0.0
+0.0
+0.00
+0.00
+Kevin Willis
+SA
+7
+3.6
+0
+0.0
+0.0
+0.00
+0.00
+Brandon Armstrong
+NJ
+8
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Loren Woods
+MIA
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Dan Gadzuric
+MIL
+1
+9.0
+0
+0.0
+0.0
+0.00
+0.00
+Marcus Haislip
+MIL
+1
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Ryan Humphrey
+MEM
+3
+1.7
+0
+0.0
+0.0
+0.00
+0.00
+Tamar Slay
+NJ
+6
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Maurice Carter
+NO
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Michael Sweetney
+NY
+4
+14.3
+0
+0.0
+0.0
+0.00
+0.00
+Rasual Butler
+MIA
+10
+5.8
+1
+0.1
+0.8
+2.00
+1.00
+Jason Hart
+SA
+7
+8.9
+1
+0.1
+0.8
+1.00
+5.00
+Michael Doleac
+DEN
+5
+9.8
+1
+0.2
+1.0
+3.00
+0.00
+Gary Trent
+MIN
+13
+5.5
+3
+0.2
+2.0
+0.67
+0.00
+Brian Cook
+LAL
+13
+3.5
+3
+0.2
+3.1
+0.33
+0.33
+Udonis Haslem
+MIA
+13
+15.3
+3
+0.2
+0.7
+1.00
+1.67
+Slava Medvedenko
+LAL
+21
+11.3
+5
+0.2
+1.0
+2.00
+0.80
+Scott Padgett
+HOU
+4
+3.5
+1
+0.3
+3.4
+0.00
+1.00
+ZhiZhi Wang
+MIA
+3
+2.3
+1
+0.3
+6.9
+1.00
+0.00
+Brandon Hunter
+BOS
+3
+3.3
+1
+0.3
+4.8
+1.00
+0.00
+Zoran Planinic
+NJ
+6
+2.5
+2
+0.3
+6.4
+1.00
+0.00
+Ervin Johnson
+MIN
+18
+19.8
+6
+0.3
+0.8
+2.17
+1.83
+Darvin Ham
+DET
+22
+4.9
+8
+0.4
+3.6
+0.13
+0.38
+Oliver Miller
+MIN
+8
+3.9
+3
+0.4
+4.6
+0.33
+0.00
+Darko Milicic
+DET
+8
+1.8
+3
+0.4
+10.3
+0.33
+0.33
