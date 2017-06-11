@@ -18,20 +18,28 @@ public class CrawlerIndividualStats extends Crawler{
 	
 	public void setAnos(Stack<String> pilha) throws IOException{
 		setPagina(pilha.pop());
-		Elements anos = pagina.getElementsByClass("js-goto");
+		Elements anos = null;
+		try{
+			anos = pagina.getElementsByClass("tablesm");
+			if(anos == null || anos.isEmpty())
+				throw new IOException();
+		
+		
 			
-		for(Element x : anos){
-			for(Node y : x.childNodes()){
-				for(Node z: y.childNodes())
-					for(Attribute atributo : z.attributes()){
-						String link = "http:" + atributo.getValue();
-						if(link.contains("statistics"))
-							pilha.push(link);
+			for(Node y : anos.first().childNodes()){
+				for(Attribute atributo : y.attributes()){
+					String link = "http:" + atributo.getValue();
+					if(link.contains("statistics")){
+						pilha.push(link);
 					}
-				break;
+				}
 			}
-			break;
+			
+		}catch(IOException e){
+			System.out.println("Erro ao encontrar os elementos.");
 		}
+		
+		
 	}
 	
 	
