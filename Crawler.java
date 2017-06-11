@@ -6,7 +6,7 @@ import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 import java.util.LinkedList;
 
-
+//classe molde para os demais crawlers
 
 public abstract class Crawler {
 	
@@ -15,15 +15,18 @@ public abstract class Crawler {
 		protected Document pagina = null;
 		protected LinkedList<String> urls = new LinkedList<String>();
 		
-		Crawler(){
-		}
+		Crawler(){}
 		
 		Crawler(String url){
 			urls.add(url);
 		}
 		
 		public void setPagina(String url) throws IOException{
-			this.pagina = Jsoup.connect(url).get();
+			try{
+				this.pagina = Jsoup.connect(url).get();
+			}catch(IOException e){
+				System.out.println("Erro de conexão. " + e.toString());
+			}
 		}
 		
 		
@@ -44,12 +47,16 @@ public abstract class Crawler {
 		public void iterarColunasPares(String url, LinkedList<Player> rankings) throws IOException{
 			
 			if(url != null){
-				this.pagina = Jsoup.connect(url).get();
-				Elements colunasPares = pagina.select(".tablehead .evenRow");
-				
-				for(Element elemento : colunasPares){
-					Player temp = extrair(elemento);
-					rankings.add(temp);
+				try{
+					this.pagina = Jsoup.connect(url).get();
+					Elements colunasPares = pagina.select(".tablehead .evenRow");
+					
+					for(Element elemento : colunasPares){
+						Player temp = extrair(elemento);
+						rankings.add(temp);
+					}
+				}catch(IOException e){
+					System.out.println("Erro de conexão: " + e.toString());
 				}
 					
 			}
@@ -58,13 +65,16 @@ public abstract class Crawler {
 		
 		public void iterarColunasImpares(String url, LinkedList<Player> rankings) throws IOException{
 			if(url != null){
-				//System.out.println(url);
-				this.pagina = Jsoup.connect(url).get();
-				Elements colunasImpares = pagina.select(".tablehead .oddRow");
+				try{
+					this.pagina = Jsoup.connect(url).get();
+					Elements colunasImpares = pagina.select(".tablehead .oddRow");
 				
-				for(Element elemento : colunasImpares){
-					Player temp = extrair(elemento);
-					rankings.add(temp);
+					for(Element elemento : colunasImpares){
+						Player temp = extrair(elemento);
+						rankings.add(temp);
+					}
+				}catch(IOException e){
+					System.out.println("Erro de conexão: " + e.toString());
 				}
 			}
 		}
