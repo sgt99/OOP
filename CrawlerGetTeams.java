@@ -16,13 +16,21 @@ public class CrawlerGetTeams extends Crawler{
 
 		setPagina(urls.get(0));
 		urls.remove(0);
-		Elements teste = pagina.getElementsByAttribute("href");
+		Elements teste = null;
 		
-		for(Element x : teste){
-			String http = x.attr("href").toString();
-			if(http.contains("roster"))
-				urls.add(beginning + http);
+		try{
+			teste = pagina.getElementsByAttribute("href");
+			if(teste == null || teste.isEmpty()){
+				throw new IOException();
+			}
+			for(Element x : teste){
+				String http = x.attr("href").toString();
+				if(http.contains("roster"))
+					urls.add(beginning + http);
+			}
+		}catch(IOException e){
+			System.out.println("Erro ao capturar os atributos.");
 		}
-	
 	}
 }
+
