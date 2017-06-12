@@ -68,7 +68,7 @@ public class GetIndividualStats {
 				
 				for(Player x : total){	
 					String nome = x.getNome();
-					writer.println(nome);	//Salva o nome dos jogadores
+					writer.println(nome);	
 					
 					for(int i = 4; i < 20; i++){
 						String stat = x.getStats(i);	
