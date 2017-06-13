@@ -1,102 +1,57 @@
+import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.Map.Entry;
+import java.util.Stack;
 import java.util.HashMap;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
-import org.jsoup.select.Elements;
 
-public class CrawlerGetNomes extends CrawlerIndividualStats {
-	
-	public String[] extrairNomeEId(Element elemento){
-		int cont = 36;		
-		String[] idENome = new String[2];
 
-		Node jogadorNode = elemento.childNode(1);
-				
-		while(jogadorNode.childNode(0).attr("href").toString().charAt(cont) != '/')
-			cont++;
-			
-		idENome[0] = jogadorNode.childNode(0).attr("href").substring(36, cont).toString();
-		idENome[1] = jogadorNode.childNode(0).childNode(0).toString();				
-			
-		return idENome;
-	}
-	
-	public void getFoto(String idENome[], Element elemento){
-		try{
-			Document doc = null;
-			Node jogadorNode = elemento.childNode(1);
-			doc = Jsoup.connect(jogadorNode.childNode(0).attr("href").toString()).get();
-			Elements classe = doc.getElementsByClass("main-headshot");
+public class GetNomes {
+
+	public static void main(String[] args) throws IOException{
+		final String Url = "http://www.espn.com/nba/statistics/_/seasontype/2";
+
+		CrawlerGetNomes craw = new CrawlerGetNomes();
+		HashMap<String, String> HashJogadores = new HashMap<String, String>();
+		Stack<String> linksAnos = new Stack<String>();
+		PrintWriter writer = new PrintWriter("nomes.txt");
 		
-			if(!classe.isEmpty()){
-				Element foto = classe.get(0);
-				String link = foto.child(0).attr("src").toString();
-				int x = link.indexOf("&");
-				link = link.substring(0, x);
-				idENome[1] += "\n" + (link);
-			}
-			
-			if(classe.toString().isEmpty()){
-				classe = doc.getElementsByClass("main-headshot-65 floatleft");
-				if(classe.toString().isEmpty()){
-					throw new IOException();
-				}
-				Element foto = classe.get(0);
-				idENome[1] += "\n" + (foto.child(0).attr("src").toString());
-			}
-					
-		}catch(IOException e){
-			idENome[1] += "\n" + null;
-			System.out.println("Foto não existente");
-		}
-		System.out.println(idENome[1] + "\n" + idENome[0]);
-	}
-
-	public void iterarColunasPares(String url, HashMap<String, String> hashJogadores) throws IOException{
+		File check = new File(System.getProperty("user.dir") + "/nomes.txt");
 		
-		if(url != null){
-			try{
-				String[] idENome = new String[2];
-				setPagina(url);
-				Elements colunasPares = pagina.select(".tablehead .evenRow");
-			
-				for(Element elemento : colunasPares){
-					idENome = extrairNomeEId(elemento);
-					
-					if(! (hashJogadores.containsKey(idENome[0])) ){	//Se a chave do jogador, retornada por (extrair), não existir na hash
-						getFoto(idENome, elemento);
-						hashJogadores.put(idENome[0], idENome[1]);
-					}
-				}
-			}catch(IOException e){
-				System.out.println("Erro de conexão: " + e.toString());
+		linksAnos.push(Url);
+		craw.setAnos(linksAnos);	//Pega os anos 2002-2017 para serem iterados e os coloca em linksanos
+		
+		while(!linksAnos.isEmpty()){
+			String SeasonOrPlayoffs = linksAnos.peek();
+			if(SeasonOrPlayoffs.contains("seasontype")){
+				craw.urls.add(linksAnos.pop());
+				System.out.println("Visitando: " + SeasonOrPlayoffs);
+				craw.setUrls();											//pra cada ano pontos, rebotes, assistencias são colocados nas listas
 			}
-		}
-																	
-	}
-	
-	public void iterarColunasImpares(String url, HashMap<String, String> hashJogadores) throws IOException{
-		if(url != null){
-			try{
-				String[] idENome = new String[2];
-				setPagina(url);
-				Elements colunasImpares = pagina.select(".tablehead .oddRow");
-			
-				for(Element elemento : colunasImpares){
-					idENome = extrairNomeEId(elemento);		
-					
-					if(! (hashJogadores.containsKey(idENome[0])) ){	//Se a chave do jogador, retornada por (extrair), não existir na hash
-						getFoto(idENome, elemento);
-						hashJogadores.put(idENome[0], idENome[1]);
-					}
-				}
-			}catch(IOException e){
-				System.out.println("Erro de conexão: " + e.toString());
+			else{
+				linksAnos.pop();
 			}
+			while(!craw.listaVazia()){			//Enquanto não houver iterado por pontos, rebotes etc...
+
+				String url = craw.getUrl();
+				System.out.println(url);
+				craw.setPagina(url);							
+				craw.iterarColunasImpares(url, HashJogadores);	//	itera pelas colunas dos links ^ .
+				craw.iterarColunasPares(url, HashJogadores);
+			}		
+		
 		}
-	}
+		
+		if(check.exists() && check.length() == 0)	
+			for(Entry<String, String> dado : HashJogadores.entrySet()){
+				System.out.println(dado.getValue() + " " + dado.getKey());
+				writer.println(dado.getValue());
+				writer.println(dado.getKey());
+			}
+
+		writer.close();
 	
+
+	}
 }
