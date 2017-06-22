@@ -10,7 +10,7 @@ public class CrawlerInfoPessoais{
 	protected Document pagina;
 	
 	
-	public void getDadosPessoais(String link)throws IOException{
+	public void getDadosPessoais(String link){
 		//pega dados pessoais, idade peso faculdade
 		try{
 			pagina = Jsoup.connect(link).get();
@@ -40,7 +40,7 @@ public class CrawlerInfoPessoais{
 		
 	}
 	
-	public void iterarColunasImpares(String url) throws IOException{
+	public void iterarColunasImpares(String url){
 		//pega as estatisticas da carreira
 		if(url != null){
 			try{
