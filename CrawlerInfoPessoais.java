@@ -12,6 +12,8 @@ public class CrawlerInfoPessoais{
 	
 	public void getDadosPessoais(String link){
 		//pega dados pessoais, idade peso faculdade
+		String[] traducao = new String[]{"Nascimento", "Draftado", "Faculdade", "Experiência"};
+		int cont = 0;
 		try{
 			pagina = Jsoup.connect(link).get();
 			Elements generalInfo;
@@ -21,16 +23,22 @@ public class CrawlerInfoPessoais{
 			generalInfo = pagina.getElementsByClass("general-info");
 			nome = pagina.getElementsByTag("h1");
 			metaData = pagina.getElementsByClass("player-metadata floatleft");
-			
+	
 			System.out.println(nome.text().replace("ESPN", ""));
 			System.out.println(generalInfo.text());
 			for(Element data : metaData){
 				for(Node nos : data.childNodes()){
 					for(Node n : nos.childNodes()){
-						if(!n.childNodes().isEmpty())
-							System.out.print(n.childNode(0).toString()+" ");
-						else
-							System.out.println(n.toString());
+						if(!n.childNodes().isEmpty()){
+							System.out.print(traducao[cont]+ ": ");
+							cont++;
+						}
+						else{
+							if(cont == 1)
+								System.out.println(n.toString().replace("Age", "Idade"));
+							else
+								System.out.println(n.toString());
+						}
 					}
 				}
 			}
