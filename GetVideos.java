@@ -30,7 +30,4 @@ public class GetVideos {
 			e.printStackTrace();
 		} 
 	}
-	public static void main(String[] args) {
-		GetVideo();
-	}
 }
