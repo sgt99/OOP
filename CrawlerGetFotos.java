@@ -5,10 +5,10 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class CrawlerGetFotos {
-	String resp = null;
+	private String resp = null;
 	public void runShellCommand(String command) {
 	    try {
-	        String[] cmd = {"/bin/sh", "-c" , command };  // you have to input an string array your command will be executed in a new shell.
+	        String[] cmd = {"/bin/sh", "-c" , command };
 	        Process p = Runtime.getRuntime().exec(cmd);
 	        BufferedReader in = new BufferedReader(
 	                            new InputStreamReader(p.getInputStream()));
@@ -18,7 +18,6 @@ public class CrawlerGetFotos {
 	        		resp = line;
 	        	else
 	        		resp.concat(line);
-	            System.out.println(line);
 	        }
 	        
 	    } catch (IOException e) {
@@ -28,22 +27,22 @@ public class CrawlerGetFotos {
 	public void getPictures(String nome, int quantidadeFotos){
 		nome = nome.replace(" ", "_");
 		String command = "curl -X GET -H \"Api-Key: 8r9vcxpp7444u8qg8b7hpuvn\" https://api.gettyimages.com/v3/search/images?phrase="+nome;
-        System.out.println(command);
    
-        runShellCommand(command);
-        JSONObject obj = new JSONObject(resp);
-        JSONArray x = obj.getJSONArray("images");
-        System.out.println(x.length());
-        //JSONArray y = (JSONArray) x.get(0);
-        for(int i = 0; i < quantidadeFotos; i++){
-        	JSONObject a1 = x.getJSONObject(i);
-        	JSONArray b1 = a1.getJSONArray("display_sizes");
-        	JSONObject z = b1.getJSONObject(0);
-        	String foto = (String) z.get("uri");
-        	int ponto = foto.indexOf("?");
-        	foto = foto.substring(0, ponto);
-        	System.out.println(foto);
-        }
+		runShellCommand(command);
+		JSONObject obj = new JSONObject(resp);
+		JSONArray x = obj.getJSONArray("images");
+		
+		for(int i = 0; i < quantidadeFotos; i++){
+			JSONObject a1 = x.getJSONObject(i);
+			JSONArray b1 = a1.getJSONArray("display_sizes");
+			JSONObject z = b1.getJSONObject(0);
+			
+			String foto = (String) z.get("uri");
+			int ponto = foto.indexOf("?");
+			foto = foto.substring(0, ponto);
+			
+			System.out.println(foto);
+		}
 	}
 	
 }
