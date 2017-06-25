@@ -14,13 +14,13 @@ public class CrawlerGetTeams extends Crawler{
 
 	}
 
-	public void setUrls() throws IOException{		//Captura as urls relativas data
-
-		setPagina(urls.get(0));
-		urls.remove(0);
-		Elements linkTimes = null;
-		
+	public void setUrls() {		//Captura as urls relativas data
 		try{
+			
+			setPagina(urls.get(0));
+			urls.remove(0);
+			Elements linkTimes = null;
+			
 			linkTimes = pagina.getElementsByClass("bi");
 			if(linkTimes == null || linkTimes.isEmpty()){
 				throw new IOException();
@@ -58,7 +58,7 @@ public class CrawlerGetTeams extends Crawler{
 		return links;
 	}
 	
-	public Team getData() throws IOException{
+	public Team getData(){
 		Team time = new Team();
 		int cont = 1;
 		try{
