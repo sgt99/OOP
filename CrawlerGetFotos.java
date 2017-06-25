@@ -5,7 +5,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class CrawlerGetFotos {
-	static String resp = null;
+	String resp = null;
 	public void runShellCommand(String command) {
 	    try {
 	        String[] cmd = {"/bin/sh", "-c" , command };  // you have to input an string array your command will be executed in a new shell.
