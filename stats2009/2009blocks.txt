@@ -1,0 +1,360 @@
+Dwight Howard
+ORL
+79
+35.7
+231
+270
+2.92
+3.93
+0.86
+Chris Andersen
+DEN
+71
+20.6
+175
+174
+2.46
+5.75
+1.01
+Marcus Camby
+LAC
+62
+31.0
+132
+129
+2.13
+3.29
+1.02
+Ronny Turiaf
+GS
+79
+21.5
+168
+243
+2.13
+4.75
+0.69
+Jermaine O'Neal
+MIA/TOR
+68
+29.8
+136
+211
+2.00
+3.22
+0.64
+Kendrick Perkins
+BOS
+76
+29.6
+150
+253
+1.97
+3.20
+0.59
+Yao Ming
+HOU
+77
+33.6
+150
+257
+1.95
+2.78
+0.58
+Tyrus Thomas
+CHI
+79
+27.5
+151
+220
+1.91
+3.33
+0.69
+Brook Lopez
+NJ
+82
+30.5
+151
+257
+1.84
+2.90
+0.59
+Samuel Dalembert
+PHI
+82
+24.8
+146
+248
+1.78
+3.44
+0.59
+Tim Duncan
+SA
+75
+33.6
+126
+173
+1.68
+2.40
+0.73
+Emeka Okafor
+CHA
+82
+32.8
+136
+247
+1.66
+2.43
+0.55
+Josh Smith
+ATL
+69
+35.1
+111
+184
+1.61
+2.20
+0.60
+Shaquille O'Neal
+PHX
+75
+30.0
+108
+253
+1.44
+2.30
+0.43
+Joakim Noah
+CHI
+80
+24.2
+110
+238
+1.38
+2.72
+0.46
+Dwyane Wade
+MIA
+79
+38.6
+106
+178
+1.34
+1.67
+0.60
+Nene Hilario
+DEN
+77
+32.6
+101
+278
+1.31
+1.93
+0.36
+Lamar Odom
+LAL
+78
+29.7
+98
+235
+1.26
+2.03
+0.42
+Andrea Bargnani
+TOR
+78
+31.4
+97
+242
+1.24
+1.90
+0.40
+Spencer Hawes
+SAC
+77
+29.3
+93
+249
+1.21
+1.98
+0.37
+Erick Dampier
+DAL
+80
+23.0
+95
+191
+1.19
+2.48
+0.50
+Joel Przybilla
+POR
+82
+23.8
+97
+215
+1.18
+2.39
+0.45
+LeBron James
+CLE
+81
+37.7
+93
+139
+1.15
+1.46
+0.67
+Marc Gasol
+MEM
+82
+30.7
+90
+265
+1.10
+1.71
+0.34
+Roy Hibbert
+IND
+70
+14.4
+76
+215
+1.09
+3.62
+0.35
+Andray Blatche
+WSH
+71
+24.0
+74
+211
+1.04
+2.09
+0.35
+Pau Gasol
+LAL
+81
+37.0
+81
+172
+1.00
+1.30
+0.47
+Chris Bosh
+TOR
+77
+38.0
+77
+189
+1.00
+1.26
+0.41
+JaVale McGee
+WSH
+75
+15.2
+75
+155
+1.00
+3.15
+0.48
+Paul Millsap
+UTAH
+76
+30.1
+73
+288
+0.96
+1.53
+0.25
+LaMarcus Aldridge
+POR
+81
+37.1
+77
+207
+0.95
+1.23
+0.37
+Gerald Wallace
+CHA
+71
+37.6
+67
+210
+0.94
+1.20
+0.32
+Dominic McGuire
+WSH
+79
+26.2
+74
+153
+0.94
+1.71
+0.48
+Wilson Chandler
+NY
+82
+33.4
+75
+250
+0.91
+1.32
+0.30
+David West
+NO
+76
+39.2
+68
+207
+0.89
+1.09
+0.33
+Al Thornton
+LAC
+71
+37.4
+62
+227
+0.87
+1.12
+0.27
+Lou Amundson
+PHX
+76
+13.7
+65
+154
+0.86
+2.99
+0.42
+Anderson Varejao
+CLE
+81
+28.5
+66
+239
+0.81
+1.37
+0.28
+Jason Maxiell
+DET
+78
+18.1
+63
+157
+0.81
+2.15
+0.40
+Dirk Nowitzki
+DAL
+81
+37.7
+63
+176
+0.78
+0.99
+0.36

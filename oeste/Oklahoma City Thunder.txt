@@ -1,0 +1,151 @@
+Oklahoma City Thunder
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png
+47-35
+106.6 21.0 46.6 105.8
+Russell Westbrook, PG 31.6 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3468.png
+Russell Westbrook, PG 10.4 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3468.png
+Steven Adams, C 57.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991235.png
+Russell Westbrook, PG 10.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3468.png
+Russell Westbrook, PG 1.6 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3468.png
+Andre Roberson, SF 1.0 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2530596.png
+Alex Abrines
+8
+<a href="http://www.espn.com/nba/player/_/id/2995702/alex-abrines">Alex Abrines</a>
+SG
+23
+6-6
+190
+&nbsp;
+$5,994,764
+Steven Adams
+12
+<a href="http://www.espn.com/nba/player/_/id/2991235/steven-adams">Steven Adams</a>
+C
+23
+7-0
+255
+Pittsburgh
+$3,140,517
+Semaj Christon
+6
+<a href="http://www.espn.com/nba/player/_/id/2983526/semaj-christon">Semaj Christon</a>
+PG
+24
+6-3
+190
+Xavier
+$543,471
+Norris Cole
+30
+<a href="http://www.espn.com/nba/player/_/id/6431/norris-cole">Norris Cole</a>
+PG
+28
+6-2
+175
+Cleveland State
+$247,991
+Nick Collison
+4
+<a href="http://www.espn.com/nba/player/_/id/1978/nick-collison">Nick Collison</a>
+PF
+36
+6-10
+255
+Kansas
+$3,750,000
+Taj Gibson
+22
+<a href="http://www.espn.com/nba/player/_/id/3986/taj-gibson">Taj Gibson</a>
+PF
+31
+6-9
+236
+USC
+$8,950,000
+Jerami Grant
+9
+<a href="http://www.espn.com/nba/player/_/id/2991070/jerami-grant">Jerami Grant</a>
+SF
+23
+6-9
+210
+Syracuse
+$980,431
+Josh Huestis
+34
+<a href="http://www.espn.com/nba/player/_/id/2531364/josh-huestis">Josh Huestis</a>
+SF
+25
+6-7
+230
+Stanford
+$1,191,480
+Enes Kanter
+11
+<a href="http://www.espn.com/nba/player/_/id/6447/enes-kanter">Enes Kanter</a>
+C
+25
+6-11
+245
+Kentucky
+$17,145,838
+Doug McDermott
+25
+<a href="http://www.espn.com/nba/player/_/id/2528588/doug-mcdermott">Doug McDermott</a>
+SF
+25
+6-8
+219
+Creighton
+$2,483,040
+Victor Oladipo
+5
+<a href="http://www.espn.com/nba/player/_/id/2527963/victor-oladipo">Victor Oladipo</a>
+SG
+25
+6-4
+210
+Indiana
+$6,552,961
+Andre Roberson
+21
+<a href="http://www.espn.com/nba/player/_/id/2530596/andre-roberson">Andre Roberson</a>
+SF
+25
+6-7
+210
+Colorado
+$2,183,072
+Domantas Sabonis
+3
+<a href="http://www.espn.com/nba/player/_/id/3155942/domantas-sabonis">Domantas Sabonis</a>
+PF
+21
+6-11
+240
+Gonzaga
+$2,440,200
+Kyle Singler
+15
+<a href="http://www.espn.com/nba/player/_/id/6469/kyle-singler">Kyle Singler</a>
+SF
+29
+6-8
+228
+Duke
+$4,837,500
+Russell Westbrook
+0
+<a href="http://www.espn.com/nba/player/_/id/3468/russell-westbrook">Russell Westbrook</a>
+PG
+28
+6-3
+200
+UCLA
+$26,540,100

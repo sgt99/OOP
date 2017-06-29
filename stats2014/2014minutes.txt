@@ -1,0 +1,200 @@
+Carmelo Anthony
+NY
+77
+2982
+38.7
+Jimmy Butler
+CHI
+67
+2591
+38.7
+Kevin Durant
+OKC
+81
+3122
+38.5
+DeMar DeRozan
+TOR
+79
+3017
+38.2
+James Harden
+HOU
+73
+2777
+38.0
+LeBron James
+MIA
+77
+2902
+37.7
+Chandler Parsons
+HOU
+74
+2783
+37.6
+Monta Ellis
+DAL
+82
+3023
+36.9
+Stephen Curry
+GS
+78
+2846
+36.5
+Gordon Hayward
+UTAH
+77
+2800
+36.4
+John Wall
+WSH
+82
+2980
+36.3
+Kevin Love
+MIN
+77
+2797
+36.3
+Kyle Lowry
+TOR
+79
+2862
+36.2
+Paul George
+IND
+80
+2898
+36.2
+LaMarcus Aldridge
+POR
+69
+2499
+36.2
+Nicolas Batum
+POR
+82
+2956
+36.0
+Ty Lawson
+DEN
+62
+2222
+35.8
+Damian Lillard
+POR
+82
+2937
+35.8
+Kemba Walker
+CHA
+73
+2614
+35.8
+Blake Griffin
+LAC
+80
+2863
+35.8
+Josh Smith
+DET
+77
+2730
+35.5
+Klay Thompson
+GS
+81
+2868
+35.4
+Trevor Ariza
+WSH
+77
+2723
+35.4
+Lance Stephenson
+IND
+78
+2752
+35.3
+Joakim Noah
+CHI
+80
+2820
+35.3
+Anthony Davis
+NO
+67
+2358
+35.2
+Kyrie Irving
+CLE
+71
+2496
+35.2
+Luol Deng
+CHI/CLE
+63
+2213
+35.1
+Goran Dragic
+PHX
+76
+2668
+35.1
+Chris Paul
+LAC
+62
+2171
+35.0
+DeAndre Jordan
+LAC
+82
+2870
+35.0
+Al Jefferson
+CHA
+73
+2553
+35.0
+Arron Afflalo
+ORL
+73
+2552
+35.0
+Isaiah Thomas
+SAC
+72
+2497
+34.7
+Rudy Gay
+SAC/TOR
+73
+2531
+34.7
+Bradley Beal
+WSH
+73
+2530
+34.7
+Michael Carter-Williams
+PHI
+70
+2414
+34.5
+Thaddeus Young
+PHI
+79
+2718
+34.4
+Zach Randolph
+MEM
+79
+2705
+34.2
+Jeff Green
+BOS
+82
+2805
+34.2

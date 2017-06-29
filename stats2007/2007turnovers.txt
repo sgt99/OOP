@@ -1,0 +1,360 @@
+Sean Marks
+PHX
+3
+5.7
+0
+0.0
+0.0
+0.00
+0.00
+Von Wafer
+DEN/LAC
+1
+1.0
+0
+0.0
+0.0
+0.00
+0.00
+James Augustine
+ORL
+2
+3.5
+0
+0.0
+0.0
+0.00
+0.00
+Mike Hall
+WSH
+2
+6.5
+0
+0.0
+0.0
+0.00
+0.00
+Ivan McFarlin
+PHI
+11
+3.7
+1
+0.1
+1.2
+1.00
+0.00
+Yaroslav Korolev
+LAC
+10
+4.1
+1
+0.1
+1.2
+4.00
+3.00
+Steve Novak
+HOU
+35
+5.5
+4
+0.1
+1.0
+1.50
+1.25
+Desmon Farmer
+SEA
+8
+4.0
+1
+0.1
+1.5
+9.00
+1.00
+Pape Sow
+TOR
+7
+4.9
+1
+0.1
+1.4
+2.00
+1.00
+Ronald Dupree
+DET
+19
+4.9
+3
+0.2
+1.5
+1.67
+1.67
+Matt Freije
+ATL
+19
+7.7
+3
+0.2
+1.0
+2.33
+1.00
+Dijon Thompson
+ATL
+6
+8.3
+1
+0.2
+1.0
+2.00
+0.00
+Jeremy Richardson
+ATL/POR
+6
+3.3
+1
+0.2
+2.4
+0.00
+1.00
+Scot Pollard
+CLE
+24
+4.5
+4
+0.2
+1.8
+0.75
+1.00
+James Lang
+WSH
+11
+5.0
+2
+0.2
+1.7
+1.00
+0.00
+Ira Newble
+CLE
+15
+8.6
+3
+0.2
+1.1
+0.67
+2.00
+Calvin Booth
+WSH
+44
+8.6
+9
+0.2
+1.1
+2.00
+0.44
+Didier Ilunga-Mbenga
+DAL
+21
+3.8
+5
+0.2
+3.0
+1.20
+0.60
+Randy Livingston
+SEA
+4
+6.5
+1
+0.3
+1.8
+4.00
+0.00
+Steven Smith
+PHI
+8
+3.5
+2
+0.3
+3.4
+0.00
+0.50
+Paul Davis
+LAC
+31
+5.8
+8
+0.3
+2.1
+0.88
+0.75
+Will Conroy
+LAC/MEM
+7
+7.4
+2
+0.3
+1.8
+4.50
+0.00
+Scott Padgett
+HOU/MEM
+31
+7.5
+9
+0.3
+1.9
+0.89
+0.56
+Pat Burke
+PHX
+23
+7.1
+7
+0.3
+2.0
+0.71
+0.43
+Roger Mason Jr.
+WSH
+62
+7.9
+19
+0.3
+1.9
+1.84
+0.68
+Esteban Batista
+ATL
+13
+6.2
+4
+0.3
+2.4
+1.00
+0.75
+Jalen Rose
+PHX
+29
+8.5
+9
+0.3
+1.8
+1.78
+0.56
+Bracey Wright
+MIN
+19
+10.0
+6
+0.3
+1.5
+2.50
+1.50
+Alan Henderson
+PHI/UTAH
+38
+11.0
+12
+0.3
+1.4
+0.83
+0.75
+John Lucas III
+HOU
+47
+8.1
+15
+0.3
+1.9
+2.20
+1.13
+James Singleton
+LAC
+53
+7.1
+17
+0.3
+2.2
+1.00
+0.88
+Dale Davis
+DET
+46
+10.1
+15
+0.3
+1.6
+0.80
+0.67
+Julius Hodge
+DEN/MIL
+9
+7.2
+3
+0.3
+2.2
+4.00
+1.33
+Kelvin Cato
+NY
+18
+5.3
+6
+0.3
+3.0
+0.00
+0.50
+Eric Williams
+SA/CHA
+21
+5.8
+7
+0.3
+2.8
+1.00
+0.43
+Malik Allen
+CHI
+60
+10.6
+21
+0.4
+1.6
+0.76
+0.81
+PJ Tucker
+TOR
+17
+4.9
+6
+0.4
+3.5
+0.50
+0.33
+Slava Medvedenko
+ATL
+14
+5.8
+5
+0.4
+3.0
+0.40
+0.00
+Quincy Douby
+SAC
+42
+8.5
+15
+0.4
+2.0
+1.00
+1.00
+Hassan Adams
+NJ
+61
+8.1
+22
+0.4
+2.1
+0.59
+0.77

@@ -1,0 +1,151 @@
+Houston Rockets
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png
+55-27
+115.3 25.2 44.4 109.6
+James Harden, SG 29.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png
+James Harden, SG 11.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png
+Clint Capela, C 64.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102529.png
+James Harden, SG 8.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png
+Trevor Ariza, SF 1.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2426.png
+Clint Capela, C 1.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102529.png
+Ryan Anderson
+3
+<a href="http://www.espn.com/nba/player/_/id/3412/ryan-anderson">Ryan Anderson</a>
+PF
+29
+6-10
+240
+California
+$18,735,364
+Trevor Ariza
+1
+<a href="http://www.espn.com/nba/player/_/id/2426/trevor-ariza">Trevor Ariza</a>
+SF
+31
+6-8
+215
+UCLA
+$7,806,971
+Patrick Beverley
+2
+<a href="http://www.espn.com/nba/player/_/id/3964/patrick-beverley">Patrick Beverley</a>
+PG
+28
+6-1
+185
+Arkansas
+$6,000,000
+Bobby Brown
+8
+<a href="http://www.espn.com/nba/player/_/id/3472/bobby-brown">Bobby Brown</a>
+PG
+32
+6-2
+175
+Cal State Fullerton
+$680,534
+Clint Capela
+15
+<a href="http://www.espn.com/nba/player/_/id/3102529/clint-capela">Clint Capela</a>
+C
+23
+6-10
+240
+&nbsp;
+$1,296,240
+Sam Dekker
+7
+<a href="http://www.espn.com/nba/player/_/id/2991184/sam-dekker">Sam Dekker</a>
+SF
+23
+6-9
+230
+Wisconsin
+$1,720,560
+Eric Gordon
+10
+<a href="http://www.espn.com/nba/player/_/id/3431/eric-gordon">Eric Gordon</a>
+SG
+28
+6-4
+215
+Indiana
+$12,385,364
+James Harden
+13
+<a href="http://www.espn.com/nba/player/_/id/3992/james-harden">James Harden</a>
+SG
+27
+6-5
+220
+Arizona State
+$26,540,100
+Montrezl Harrell
+5
+<a href="http://www.espn.com/nba/player/_/id/2991055/montrezl-harrell">Montrezl Harrell</a>
+PF
+23
+6-8
+240
+Louisville
+$1,045,000
+Nene Hilario
+42
+<a href="http://www.espn.com/nba/player/_/id/1713/nene-hilario">Nene Hilario</a>
+C
+34
+6-11
+250
+&nbsp;
+$2,898,000
+Chinanu Onuaku
+21
+<a href="http://www.espn.com/nba/player/_/id/3147366/chinanu-onuaku">Chinanu Onuaku</a>
+PF
+20
+6-10
+245
+Louisville
+$543,471
+Isaiah Taylor
+17
+<a href="http://www.espn.com/nba/player/_/id/3059336/isaiah-taylor">Isaiah Taylor</a>
+PG
+22
+6-3
+170
+Texas
+$255,000
+Lou Williams
+12
+<a href="http://www.espn.com/nba/player/_/id/2799/lou-williams">Lou Williams</a>
+SG
+30
+6-1
+175
+&nbsp;
+$7,000,000
+Troy Williams
+14
+<a href="http://www.espn.com/nba/player/_/id/3078286/troy-williams">Troy Williams</a>
+SF
+22
+6-7
+210
+Indiana
+$76,725
+Kyle Wiltjer
+30
+<a href="http://www.espn.com/nba/player/_/id/2581029/kyle-wiltjer">Kyle Wiltjer</a>
+F
+24
+6-10
+240
+Gonzaga
+$543,471

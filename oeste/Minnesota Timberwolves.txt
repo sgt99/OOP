@@ -1,0 +1,151 @@
+Minnesota Timberwolves
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png
+31-51
+105.6 23.7 42.4 106.7
+Karl-Anthony Towns, C 25.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136195.png
+Ricky Rubio, PG 9.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4011.png
+Karl-Anthony Towns, C 54.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136195.png
+Karl-Anthony Towns, C 12.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136195.png
+Ricky Rubio, PG 1.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4011.png
+Karl-Anthony Towns, C 1.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136195.png
+Cole Aldrich
+45
+<a href="http://www.espn.com/nba/player/_/id/4267/cole-aldrich">Cole Aldrich</a>
+C
+28
+6-11
+250
+Kansas
+$7,643,979
+Nemanja Bjelica
+88
+<a href="http://www.espn.com/nba/player/_/id/4269/nemanja-bjelica">Nemanja Bjelica</a>
+PF
+29
+6-10
+225
+&nbsp;
+$3,800,000
+Omri Casspi
+18
+<a href="http://www.espn.com/nba/player/_/id/3554/omri-casspi">Omri Casspi</a>
+SF
+28
+6-9
+225
+&nbsp;
+$138,414
+Gorgui Dieng
+5
+<a href="http://www.espn.com/nba/player/_/id/2534781/gorgui-dieng">Gorgui Dieng</a>
+PF
+27
+6-11
+240
+Louisville
+$2,348,783
+Kris Dunn
+3
+<a href="http://www.espn.com/nba/player/_/id/2991139/kris-dunn">Kris Dunn</a>
+PG
+23
+6-4
+205
+Providence
+$3,872,520
+Jordan Hill
+27
+<a href="http://www.espn.com/nba/player/_/id/3994/jordan-hill">Jordan Hill</a>
+PF
+29
+6-10
+240
+Arizona
+$4,000,000
+Tyus Jones
+1
+<a href="http://www.espn.com/nba/player/_/id/3135046/tyus-jones">Tyus Jones</a>
+PG
+21
+6-2
+195
+Duke
+$1,339,680
+Zach LaVine
+8
+<a href="http://www.espn.com/nba/player/_/id/3064440/zach-lavine">Zach LaVine</a>
+PG
+22
+6-5
+185
+UCLA
+$2,240,880
+Shabazz Muhammad
+15
+<a href="http://www.espn.com/nba/player/_/id/2993875/shabazz-muhammad">Shabazz Muhammad</a>
+SF
+24
+6-6
+223
+UCLA
+$3,046,299
+Adreian Payne
+33
+<a href="http://www.espn.com/nba/player/_/id/2531100/adreian-payne">Adreian Payne</a>
+PF
+26
+6-10
+237
+Michigan State
+$2,022,240
+Nikola Pekovic
+14
+<a href="http://www.espn.com/nba/player/_/id/3453/nikola-pekovic">Nikola Pekovic</a>
+C
+31
+6-11
+307
+&nbsp;
+$12,100,000
+Ricky Rubio
+9
+<a href="http://www.espn.com/nba/player/_/id/4011/ricky-rubio">Ricky Rubio</a>
+PG
+26
+6-4
+190
+&nbsp;
+$13,550,000
+Brandon Rush
+4
+<a href="http://www.espn.com/nba/player/_/id/3457/brandon-rush">Brandon Rush</a>
+SG
+31
+6-6
+225
+Kansas
+$3,500,000
+Karl-Anthony Towns
+32
+<a href="http://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns">Karl-Anthony Towns</a>
+C
+21
+7-0
+244
+Kentucky
+$5,960,160
+Andrew Wiggins
+22
+<a href="http://www.espn.com/nba/player/_/id/3059319/andrew-wiggins">Andrew Wiggins</a>
+SF
+22
+6-8
+199
+Kansas
+$6,006,600

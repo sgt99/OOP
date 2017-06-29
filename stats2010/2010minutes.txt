@@ -1,0 +1,200 @@
+Monta Ellis
+GS
+64
+2647
+41.4
+Gerald Wallace
+CHA
+76
+3119
+41.0
+Rudy Gay
+MEM
+80
+3175
+39.7
+Kevin Durant
+OKC
+82
+3239
+39.5
+LeBron James
+CLE
+76
+2966
+39.0
+Andre Iguodala
+PHI
+82
+3193
+38.9
+Kobe Bryant
+LAL
+73
+2835
+38.8
+Stephen Jackson
+GS/CHA
+81
+3129
+38.6
+Carmelo Anthony
+DEN
+69
+2634
+38.2
+Joe Johnson
+ATL
+76
+2886
+38.0
+O.J. Mayo
+MEM
+82
+3113
+38.0
+Luol Deng
+CHI
+70
+2651
+37.9
+Zach Randolph
+MEM
+81
+3051
+37.7
+Caron Butler
+DAL/WSH
+74
+2783
+37.6
+Dirk Nowitzki
+DAL
+81
+3039
+37.5
+LaMarcus Aldridge
+POR
+78
+2922
+37.5
+David Lee
+NY
+81
+3019
+37.3
+Brandon Roy
+POR
+65
+2419
+37.2
+Tyreke Evans
+SAC
+72
+2677
+37.2
+Jeff Green
+OKC
+82
+3043
+37.1
+Pau Gasol
+LAL
+65
+2403
+37.0
+Brook Lopez
+NJ
+82
+3027
+36.9
+Deron Williams
+UTAH
+76
+2802
+36.9
+Derrick Rose
+CHI
+78
+2871
+36.8
+Danny Granger
+IND
+62
+2278
+36.7
+Rajon Rondo
+BOS
+81
+2963
+36.6
+Trevor Ariza
+HOU
+72
+2629
+36.5
+Antawn Jamison
+CLE/WSH
+66
+2406
+36.5
+David West
+NO
+81
+2949
+36.4
+Dwyane Wade
+MIA
+77
+2792
+36.3
+Stephen Curry
+GS
+80
+2896
+36.2
+Chris Bosh
+TOR
+70
+2526
+36.1
+Jason Kidd
+DAL
+80
+2881
+36.0
+Eric Gordon
+LAC
+62
+2229
+36.0
+Marc Gasol
+MEM
+69
+2469
+35.8
+Wilson Chandler
+NY
+65
+2320
+35.7
+Aaron Brooks
+HOU
+82
+2919
+35.6
+Josh Smith
+ATL
+81
+2871
+35.4
+Boris Diaw
+CHA
+82
+2906
+35.4
+Ray Allen
+BOS
+80
+2819
+35.2

@@ -1,0 +1,200 @@
+Luol Deng
+CHI
+5
+224
+44.8
+Kevin Durant
+OKC
+11
+485
+44.1
+Jeff Green
+BOS
+6
+258
+43.0
+Paul Pierce
+BOS
+6
+255
+42.5
+LeBron James
+MIA
+23
+960
+41.7
+Deron Williams
+BKN
+7
+292
+41.7
+Stephen Curry
+GS
+12
+497
+41.4
+Klay Thompson
+GS
+12
+495
+41.3
+Paul George
+IND
+19
+780
+41.1
+Jimmy Butler
+CHI
+12
+490
+40.8
+Marc Gasol
+MEM
+15
+609
+40.6
+Andre Iguodala
+DEN
+6
+243
+40.5
+James Harden
+HOU
+6
+243
+40.5
+Kirk Hinrich
+CHI
+4
+162
+40.5
+Carmelo Anthony
+NY
+12
+481
+40.1
+Chandler Parsons
+HOU
+6
+238
+39.7
+Ty Lawson
+DEN
+6
+236
+39.3
+Joe Johnson
+BKN
+7
+271
+38.7
+Harrison Barnes
+GS
+12
+461
+38.4
+Mike Conley
+MEM
+15
+575
+38.3
+George Hill
+IND
+18
+685
+38.1
+Monta Ellis
+MIL
+4
+152
+38.0
+Raymond Felton
+NY
+12
+454
+37.8
+Brook Lopez
+BKN
+7
+263
+37.6
+Devin Harris
+ATL
+6
+225
+37.5
+Steve Blake
+LAL
+2
+75
+37.5
+Chris Paul
+LAC
+6
+224
+37.3
+Zach Randolph
+MEM
+15
+554
+36.9
+Kawhi Leonard
+SA
+21
+775
+36.9
+Roy Hibbert
+IND
+19
+694
+36.5
+Pau Gasol
+LAL
+4
+146
+36.5
+Tony Parker
+SA
+21
+765
+36.4
+Al Horford
+ATL
+6
+218
+36.3
+David West
+IND
+19
+689
+36.3
+Carlos Boozer
+CHI
+12
+431
+35.9
+Dwyane Wade
+MIA
+22
+782
+35.5
+Jarrett Jack
+GS
+12
+426
+35.5
+Jeff Teague
+ATL
+6
+213
+35.5
+Lance Stephenson
+IND
+19
+673
+35.4
+Kevin Garnett
+BOS
+6
+212
+35.3

@@ -1,0 +1,200 @@
+Shawn Marion
+PHX
+6
+282
+47.0
+Allen Iverson
+PHI
+12
+557
+46.4
+Stephon Marbury
+PHX
+6
+272
+45.3
+Jermaine O'Neal
+IND
+6
+272
+45.3
+Paul Pierce
+BOS
+10
+445
+44.5
+Kobe Bryant
+LAL
+12
+531
+44.3
+Kevin Garnett
+MIN
+6
+265
+44.2
+Antoine Walker
+BOS
+10
+440
+44.0
+Tracy McGrady
+ORL
+7
+308
+44.0
+Jason Kidd
+NJ
+20
+852
+42.6
+Tim Duncan
+SA
+24
+1021
+42.5
+Dirk Nowitzki
+DAL
+17
+722
+42.5
+Ben Wallace
+DET
+17
+722
+42.5
+Metta World Peace
+IND
+6
+252
+42.0
+Wally Szczerbiak
+MIN
+6
+252
+42.0
+Gary Payton
+MIL
+6
+251
+41.8
+Michael Finley
+DAL
+20
+822
+41.1
+Penny Hardaway
+PHX
+6
+244
+40.7
+Peja Stojakovic
+SAC
+12
+486
+40.5
+Jamal Mashburn
+NO
+4
+162
+40.5
+Shaquille O'Neal
+LAL
+12
+481
+40.1
+Kenyon Martin
+NJ
+20
+777
+38.9
+Baron Davis
+NO
+5
+194
+38.8
+Richard Hamilton
+DET
+17
+659
+38.8
+Bonzi Wells
+POR
+7
+268
+38.3
+Karl Malone
+UTAH
+5
+191
+38.2
+Derrick Coleman
+PHI
+12
+449
+37.4
+Rasheed Wallace
+POR
+7
+260
+37.1
+Troy Hudson
+MIN
+6
+221
+36.8
+Tony Delk
+BOS
+10
+368
+36.8
+Steve Nash
+DAL
+20
+729
+36.5
+Sam Cassell
+MIL
+6
+217
+36.2
+Richard Jefferson
+NJ
+20
+711
+35.6
+Derek Fisher
+LAL
+12
+424
+35.3
+Walter McCarty
+BOS
+10
+352
+35.2
+Chris Webber
+SAC
+7
+246
+35.1
+Chauncey Billups
+DET
+14
+485
+34.6
+Eric Snow
+PHI
+12
+415
+34.6
+Desmond Mason
+MIL
+6
+204
+34.0
+Tony Parker
+SA
+24
+814
+33.9

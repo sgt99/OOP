@@ -1,0 +1,360 @@
+Marcus Camby
+DEN
+5
+35.0
+14
+14
+2.80
+3.84
+1.00
+Elton Brand
+LAC
+12
+43.1
+31
+34
+2.58
+2.88
+0.91
+Jermaine O'Neal
+IND
+6
+36.0
+14
+28
+2.33
+3.11
+0.50
+Zydrunas Ilgauskas
+CLE
+13
+27.2
+27
+46
+2.08
+3.66
+0.59
+Tim Duncan
+SA
+13
+37.9
+25
+50
+1.92
+2.43
+0.50
+Brendan Haywood
+WSH
+6
+25.8
+11
+22
+1.83
+3.41
+0.50
+Shaquille O'Neal
+MIA
+23
+33.0
+34
+84
+1.48
+2.15
+0.40
+DeSagana Diop
+DAL
+22
+18.5
+28
+81
+1.27
+3.30
+0.35
+Erick Dampier
+DAL
+19
+23.9
+24
+75
+1.26
+2.54
+0.32
+Pau Gasol
+MEM
+4
+39.5
+5
+11
+1.25
+1.52
+0.45
+Ben Wallace
+DET
+18
+35.7
+22
+41
+1.22
+1.64
+0.54
+Jamaal Magloire
+MIL
+5
+27.0
+6
+14
+1.20
+2.13
+0.43
+Jared Jeffries
+WSH
+6
+35.8
+7
+19
+1.17
+1.56
+0.37
+Danny Granger
+IND
+6
+27.0
+7
+20
+1.17
+2.07
+0.35
+Shawn Marion
+PHX
+20
+42.5
+23
+65
+1.15
+1.30
+0.35
+Alonzo Mourning
+MIA
+21
+10.8
+24
+49
+1.14
+5.10
+0.49
+Lamar Odom
+LAL
+7
+44.9
+8
+23
+1.14
+1.22
+0.35
+Dwyane Wade
+MIA
+23
+41.7
+26
+71
+1.13
+1.30
+0.37
+Boris Diaw
+PHX
+20
+39.8
+22
+64
+1.10
+1.33
+0.34
+Malik Allen
+CHI
+6
+19.3
+6
+16
+1.00
+2.48
+0.38
+Michael Sweetney
+CHI
+6
+20.0
+6
+24
+1.00
+2.40
+0.25
+Lorenzen Wright
+MEM
+4
+21.5
+4
+9
+1.00
+2.23
+0.44
+Kenyon Martin
+DEN
+2
+17.5
+2
+5
+1.00
+2.74
+0.40
+Nenad Krstic
+NJ
+11
+33.3
+10
+46
+0.91
+1.31
+0.22
+James Jones
+PHX
+20
+17.7
+18
+25
+0.90
+2.45
+0.72
+Kwame Brown
+LAL
+7
+32.1
+6
+21
+0.86
+1.28
+0.29
+Rasheed Wallace
+DET
+18
+34.9
+15
+65
+0.83
+1.15
+0.23
+Tayshaun Prince
+DET
+18
+41.4
+15
+23
+0.83
+0.97
+0.65
+Brad Miller
+SAC
+6
+27.7
+5
+20
+0.83
+1.45
+0.25
+Chris Kaman
+LAC
+11
+29.5
+9
+38
+0.82
+1.33
+0.24
+Metta World Peace
+SAC
+5
+39.6
+4
+15
+0.80
+0.97
+0.27
+Nazr Mohammed
+SA
+8
+11.8
+6
+17
+0.75
+3.06
+0.35
+Antonio McDyess
+DET
+18
+20.6
+13
+54
+0.72
+1.69
+0.24
+Robert Horry
+SA
+13
+17.2
+9
+31
+0.69
+1.93
+0.29
+Donyell Marshall
+CLE
+13
+26.5
+9
+24
+0.69
+1.25
+0.38
+LeBron James
+CLE
+13
+46.5
+9
+44
+0.69
+0.72
+0.20
+Quinton Ross
+LAC
+12
+24.5
+8
+36
+0.67
+1.31
+0.22
+Gilbert Arenas
+WSH
+6
+47.3
+4
+21
+0.67
+0.68
+0.19
+Caron Butler
+WSH
+6
+43.7
+4
+31
+0.67
+0.73
+0.13
+Luol Deng
+CHI
+6
+30.0
+4
+13
+0.67
+1.07
+0.31
