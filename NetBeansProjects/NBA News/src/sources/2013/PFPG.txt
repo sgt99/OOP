@@ -1,0 +1,400 @@
+Grant Hill
+LAC
+1
+20.0
+5
+5.0
+12.0
+0
+0
+0
+Larry Sanders
+MIL
+4
+28.3
+18
+4.5
+7.6
+0
+0
+0
+Kenneth Faried
+DEN
+5
+29.0
+22
+4.4
+7.3
+0
+0
+0
+Dwight Howard
+LAL
+4
+31.5
+17
+4.3
+6.5
+0
+4
+1
+Wilson Chandler
+DEN
+6
+34.2
+25
+4.2
+5.9
+0
+0
+0
+Tyson Chandler
+NY
+12
+29.2
+48
+4.0
+6.6
+0
+4
+0
+Patrick Beverley
+HOU
+6
+33.3
+24
+4.0
+5.8
+0
+1
+0
+Blake Griffin
+LAC
+6
+26.3
+24
+4.0
+7.3
+0
+3
+0
+Steve Blake
+LAL
+2
+37.5
+8
+4.0
+5.1
+0
+0
+0
+Roy Hibbert
+IND
+19
+36.5
+74
+3.9
+5.1
+0
+0
+0
+Carmelo Anthony
+NY
+12
+40.1
+46
+3.8
+4.6
+0
+1
+0
+Kevin Garnett
+BOS
+6
+35.3
+23
+3.8
+5.2
+0
+0
+0
+Matt Barnes
+LAC
+6
+27.0
+23
+3.8
+6.8
+1
+1
+0
+Ivan Johnson
+ATL
+6
+18.0
+23
+3.8
+10.2
+0
+3
+0
+Paul George
+IND
+19
+41.1
+72
+3.8
+4.4
+0
+0
+0
+Klay Thompson
+GS
+12
+41.3
+44
+3.7
+4.3
+0
+0
+0
+Jeff Green
+BOS
+6
+43.0
+22
+3.7
+4.1
+0
+0
+0
+Omer Asik
+HOU
+6
+34.7
+22
+3.7
+5.1
+0
+1
+0
+Joakim Noah
+CHI
+12
+34.1
+43
+3.6
+5.0
+0
+4
+1
+Kendrick Perkins
+OKC
+11
+19.1
+39
+3.5
+8.9
+0
+2
+0
+Marc Gasol
+MEM
+15
+40.6
+53
+3.5
+4.2
+0
+1
+0
+Kenyon Martin
+NY
+12
+21.1
+42
+3.5
+8.0
+0
+0
+0
+Paul Pierce
+BOS
+6
+42.5
+21
+3.5
+4.0
+0
+0
+0
+Josh Smith
+ATL
+6
+33.2
+21
+3.5
+5.1
+0
+1
+0
+Francisco Garcia
+HOU
+6
+27.3
+21
+3.5
+6.1
+0
+2
+0
+Kirk Hinrich
+CHI
+4
+40.5
+14
+3.5
+4.1
+0
+0
+0
+Zach Randolph
+MEM
+15
+36.9
+52
+3.5
+4.5
+0
+2
+1
+Serge Ibaka
+OKC
+11
+33.3
+38
+3.5
+5.0
+0
+1
+0
+Nick Collison
+OKC
+11
+16.2
+37
+3.4
+10.0
+1
+0
+0
+Andrew Bogut
+GS
+12
+27.3
+39
+3.3
+5.7
+1
+2
+0
+Tony Allen
+MEM
+15
+28.1
+48
+3.2
+5.5
+0
+1
+0
+Nate Robinson
+CHI
+12
+33.7
+38
+3.2
+4.5
+0
+2
+0
+Corey Brewer
+DEN
+6
+24.3
+19
+3.2
+6.2
+0
+0
+0
+Chandler Parsons
+HOU
+6
+39.7
+19
+3.2
+3.8
+0
+0
+0
+Reggie Jackson
+OKC
+11
+33.5
+34
+3.1
+4.4
+0
+0
+0
+Taj Gibson
+CHI
+12
+17.2
+37
+3.1
+8.6
+0
+2
+1
+Mario Chalmers
+MIA
+23
+28.3
+70
+3.0
+5.2
+0
+1
+0
+Carlos Boozer
+CHI
+12
+35.9
+36
+3.0
+4.0
+0
+2
+0
+Iman Shumpert
+NY
+12
+28.1
+36
+3.0
+5.1
+0
+1
+0
+Derek Fisher
+OKC
+11
+23.7
+33
+3.0
+6.1
+0
+0
+0

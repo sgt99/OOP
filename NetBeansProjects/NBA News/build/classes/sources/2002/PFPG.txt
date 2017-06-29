@@ -1,0 +1,400 @@
+Dale Davis
+POR
+3
+23.3
+16
+5.3
+11.0
+0
+2
+1
+Raef LaFrentz
+DAL
+8
+30.6
+39
+4.9
+7.6
+0
+0
+0
+Jermaine O'Neal
+IND
+5
+38.4
+24
+4.8
+6.0
+0
+2
+0
+Vlade Divac
+SAC
+16
+33.4
+76
+4.8
+6.8
+0
+8
+0
+Chauncey Billups
+MIN
+3
+44.7
+14
+4.7
+5.0
+0
+0
+0
+Scottie Pippen
+POR
+3
+33.0
+14
+4.7
+6.8
+0
+0
+0
+Vin Baker
+SEA
+5
+28.8
+23
+4.6
+7.7
+0
+1
+0
+Pat Garrity
+ORL
+4
+36.8
+18
+4.5
+5.9
+0
+0
+0
+Kenyon Martin
+NJ
+20
+37.5
+86
+4.3
+5.5
+0
+3
+0
+P.J. Brown
+CHA
+9
+36.8
+37
+4.1
+5.4
+0
+1
+0
+Doug Christie
+SAC
+16
+40.3
+64
+4.0
+4.8
+0
+4
+0
+Chris Webber
+SAC
+16
+41.7
+64
+4.0
+4.6
+0
+6
+0
+Baron Davis
+CHA
+9
+44.6
+36
+4.0
+4.3
+0
+2
+0
+John Stockton
+UTAH
+4
+35.3
+16
+4.0
+5.4
+0
+0
+0
+Rasheed Wallace
+POR
+3
+41.7
+12
+4.0
+4.6
+0
+1
+0
+Aaron Williams
+NJ
+20
+20.8
+78
+3.9
+9.0
+1
+0
+0
+Metta World Peace
+IND
+5
+33.4
+19
+3.8
+5.5
+0
+0
+0
+Keon Clark
+TOR
+5
+34.8
+19
+3.8
+5.2
+0
+0
+0
+Jerome Williams
+TOR
+5
+28.6
+19
+3.8
+6.4
+0
+0
+0
+Elden Campbell
+CHA
+9
+28.2
+34
+3.8
+6.4
+0
+0
+0
+Jamaal Magloire
+CHA
+8
+21.0
+30
+3.8
+8.6
+1
+2
+1
+Don Reid
+ORL
+4
+9.5
+15
+3.8
+18.9
+0
+0
+0
+Bryon Russell
+UTAH
+4
+30.0
+15
+3.8
+6.0
+0
+0
+0
+Rick Fox
+LAL
+19
+34.3
+70
+3.7
+5.2
+1
+2
+0
+Kevin Garnett
+MIN
+3
+43.3
+11
+3.7
+4.1
+0
+1
+0
+Bonzi Wells
+POR
+3
+35.3
+11
+3.7
+5.0
+0
+1
+0
+Kenny Anderson
+BOS
+16
+35.0
+58
+3.6
+5.0
+0
+0
+0
+Jerome James
+SEA
+5
+14.0
+18
+3.6
+12.3
+0
+0
+0
+Antoine Walker
+BOS
+16
+43.9
+56
+3.5
+3.8
+1
+5
+0
+Darrell Armstrong
+ORL
+4
+39.5
+14
+3.5
+4.3
+0
+1
+0
+Greg Ostertag
+UTAH
+4
+21.8
+14
+3.5
+7.7
+0
+2
+0
+David Robinson
+SA
+4
+20.3
+14
+3.5
+8.3
+0
+1
+0
+Robert Horry
+LAL
+19
+37.0
+66
+3.5
+4.5
+0
+3
+0
+Kobe Bryant
+LAL
+19
+43.8
+65
+3.4
+3.7
+0
+1
+0
+Antonio Davis
+TOR
+5
+40.4
+17
+3.4
+4.0
+0
+1
+0
+Morris Peterson
+TOR
+5
+30.8
+17
+3.4
+5.3
+0
+1
+0
+Dirk Nowitzki
+DAL
+8
+44.6
+27
+3.4
+3.6
+0
+2
+0
+David Wesley
+CHA
+9
+41.9
+30
+3.3
+3.8
+0
+0
+0
+Rashard Lewis
+SEA
+3
+26.3
+10
+3.3
+6.1
+0
+1
+0
+Rasho Nesterovic
+MIN
+3
+30.7
+10
+3.3
+5.2
+0
+0
+0

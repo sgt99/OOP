@@ -1,0 +1,360 @@
+Bonzi Wells
+MEM
+2
+7.0
+3.0
+3.0
+6
+6
+1.000
+Mike Miller
+MEM
+4
+12.0
+1.0
+1.0
+4
+4
+1.000
+Brian Scalabrine
+NJ
+4
+2.3
+1.0
+1.0
+4
+4
+1.000
+Bobby Jackson
+SAC
+5
+5.2
+0.6
+0.6
+3
+3
+1.000
+DerMarr Johnson
+DEN
+4
+7.3
+0.8
+0.8
+3
+3
+1.000
+Bryon Russell
+DEN
+3
+1.0
+1.0
+1.0
+3
+3
+1.000
+Shandon Anderson
+MIA
+8
+1.0
+0.3
+0.3
+2
+2
+1.000
+Michael Doleac
+MIA
+9
+1.8
+0.2
+0.2
+2
+2
+1.000
+Darvin Ham
+DET
+14
+0.3
+0.1
+0.1
+2
+2
+1.000
+Alan Henderson
+DAL
+9
+2.0
+0.2
+0.2
+2
+2
+1.000
+Eddie House
+SAC
+3
+3.0
+0.7
+0.7
+2
+2
+1.000
+Scott Padgett
+HOU
+7
+3.6
+0.3
+0.3
+2
+2
+1.000
+Anthony Peeler
+WSH
+7
+0.6
+0.3
+0.3
+2
+2
+1.000
+Clifford Robinson
+NJ
+4
+7.0
+0.5
+0.5
+2
+2
+1.000
+Jason Williams
+MEM
+4
+17.0
+0.5
+0.5
+2
+2
+1.000
+Earl Watson
+MEM
+4
+4.8
+0.5
+0.5
+2
+2
+1.000
+Kyle Korver
+PHI
+5
+5.0
+0.4
+0.4
+2
+2
+1.000
+Darko Milicic
+DET
+9
+0.6
+0.1
+0.1
+1
+1
+1.000
+Mike James
+HOU
+7
+11.6
+3.3
+3.4
+23
+24
+.958
+Peja Stojakovic
+SAC
+5
+22.0
+4.2
+4.4
+21
+22
+.955
+Luke Ridnour
+SEA
+11
+9.7
+1.7
+1.8
+19
+20
+.950
+Reggie Miller
+IND
+13
+14.8
+3.7
+3.9
+48
+51
+.941
+Fred Jones
+IND
+13
+4.1
+0.9
+1.0
+12
+13
+.923
+Steve Nash
+PHX
+15
+23.9
+3.8
+4.1
+57
+62
+.919
+Willie Green
+PHI
+5
+5.4
+1.8
+2.0
+9
+10
+.900
+Allen Iverson
+PHI
+5
+31.2
+5.2
+5.8
+26
+29
+.897
+Earl Boykins
+DEN
+5
+14.2
+3.4
+3.8
+17
+19
+.895
+Chauncey Billups
+DET
+25
+18.7
+5.3
+6.0
+133
+149
+.893
+Ray Allen
+SEA
+11
+26.5
+5.1
+5.7
+56
+63
+.889
+Michael Finley
+DAL
+13
+13.1
+1.2
+1.4
+16
+18
+.889
+Travis Best
+NJ
+4
+6.8
+2.0
+2.3
+8
+9
+.889
+Keith Van Horn
+DAL
+3
+7.3
+2.7
+3.0
+8
+9
+.889
+Jason Terry
+DAL
+13
+17.5
+2.9
+3.3
+38
+43
+.884
+Glenn Robinson
+SA
+13
+3.8
+1.2
+1.3
+15
+17
+.882
+Rashard Lewis
+SEA
+8
+16.9
+5.5
+6.3
+44
+50
+.880
+Jon Barry
+HOU
+7
+8.6
+1.0
+1.1
+7
+8
+.875
+Jim Jackson
+PHX
+15
+11.0
+0.5
+0.5
+7
+8
+.875
+Paul Pierce
+BOS
+7
+22.9
+8.4
+9.7
+59
+68
+.868
+Eddie Gill
+IND
+7
+3.4
+1.9
+2.1
+13
+15
+.867
+Jerry Stackhouse
+DAL
+13
+16.1
+4.4
+5.1
+57
+66
+.864

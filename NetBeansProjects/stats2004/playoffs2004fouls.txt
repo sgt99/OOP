@@ -1,0 +1,400 @@
+Tim Thomas
+NY
+1
+22.0
+5
+5.0
+10.9
+0
+0
+0
+Shandon Anderson
+NY
+4
+29.3
+19
+4.8
+7.8
+1
+0
+0
+Kenyon Martin
+NJ
+11
+37.2
+50
+4.5
+5.9
+0
+2
+0
+Nazr Mohammed
+NY
+4
+24.3
+18
+4.5
+8.9
+0
+0
+0
+Lamar Odom
+MIA
+13
+39.4
+58
+4.5
+5.4
+0
+2
+0
+Jason Collins
+NJ
+11
+24.2
+49
+4.5
+8.8
+1
+1
+0
+Nene Hilario
+DEN
+5
+26.4
+22
+4.4
+8.0
+1
+0
+0
+Mark Blount
+BOS
+4
+36.3
+17
+4.3
+5.6
+0
+0
+0
+Kurt Thomas
+NY
+4
+34.8
+17
+4.3
+5.9
+0
+2
+0
+Shane Battier
+MEM
+4
+17.3
+17
+4.3
+11.8
+0
+0
+0
+Marcus Camby
+DEN
+5
+38.8
+21
+4.2
+5.2
+0
+1
+0
+Shaquille O'Neal
+LAL
+22
+41.7
+90
+4.1
+4.7
+0
+1
+0
+Brian Grant
+MIA
+13
+30.7
+52
+4.0
+6.3
+0
+3
+0
+Maurice Taylor
+HOU
+5
+23.0
+20
+4.0
+8.3
+0
+0
+0
+Yao Ming
+HOU
+5
+37.0
+20
+4.0
+5.2
+0
+0
+0
+Brad Miller
+SAC
+12
+30.5
+46
+3.8
+6.0
+1
+2
+1
+Rasho Nesterovic
+SA
+10
+26.1
+38
+3.8
+7.0
+0
+0
+0
+Lorenzen Wright
+MEM
+4
+25.0
+15
+3.8
+7.2
+0
+1
+0
+Aaron Williams
+NJ
+11
+13.5
+41
+3.7
+13.2
+0
+0
+0
+Kelvin Cato
+HOU
+5
+29.6
+18
+3.6
+5.8
+0
+0
+0
+Steve Francis
+HOU
+5
+44.4
+18
+3.6
+3.9
+0
+3
+0
+Al Harrington
+IND
+16
+26.7
+56
+3.5
+6.3
+0
+1
+0
+Jamaal Tinsley
+IND
+16
+26.4
+56
+3.5
+6.4
+1
+2
+1
+Francisco Elson
+DEN
+4
+15.0
+14
+3.5
+11.2
+0
+0
+0
+Caron Butler
+MIA
+13
+39.3
+45
+3.5
+4.2
+0
+0
+0
+Dwyane Wade
+MIA
+13
+39.2
+45
+3.5
+4.2
+0
+0
+0
+Tim Duncan
+SA
+10
+40.5
+34
+3.4
+4.0
+0
+2
+0
+Rasheed Wallace
+DET
+23
+34.9
+78
+3.4
+4.7
+0
+2
+0
+Michael Olowokandi
+MIN
+15
+14.9
+50
+3.3
+10.7
+0
+1
+0
+Mike Bibby
+SAC
+12
+41.4
+40
+3.3
+3.9
+0
+1
+0
+Sam Cassell
+MIN
+16
+31.1
+53
+3.3
+5.1
+0
+2
+0
+Jermaine O'Neal
+IND
+16
+37.8
+53
+3.3
+4.2
+0
+4
+0
+James Posey
+MEM
+4
+32.5
+13
+3.3
+4.8
+1
+0
+0
+Frank Williams
+NY
+4
+18.5
+13
+3.3
+8.4
+0
+1
+0
+Desmond Mason
+MIL
+5
+39.6
+16
+3.2
+3.9
+0
+3
+0
+Andre Miller
+DEN
+5
+34.8
+16
+3.2
+4.4
+0
+1
+0
+Dirk Nowitzki
+DAL
+5
+42.4
+16
+3.2
+3.6
+0
+1
+0
+Michael Redd
+MIL
+5
+38.4
+16
+3.2
+4.0
+0
+0
+0
+Richard Jefferson
+NJ
+11
+41.8
+35
+3.2
+3.7
+0
+1
+0
+Kevin Garnett
+MIN
+18
+43.5
+57
+3.2
+3.5
+1
+0
+0

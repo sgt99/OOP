@@ -1,0 +1,151 @@
+Detroit Pistons
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png
+37-45
+101.3 21.1 45.7 102.5
+Tobias Harris, SF 16.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6440.png
+Ish Smith, PG 5.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4305.png
+Andre Drummond, C 53.0 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6585.png
+Andre Drummond, C 13.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6585.png
+Andre Drummond, C 1.5 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6585.png
+Andre Drummond, C 1.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6585.png
+Aron Baynes
+12
+<a href="http://www.espn.com/nba/player/_/id/2968439/aron-baynes">Aron Baynes</a>
+C
+30
+6-10
+260
+Washington State
+$6,500,000
+Reggie Bullock
+25
+<a href="http://www.espn.com/nba/player/_/id/2528779/reggie-bullock">Reggie Bullock</a>
+SF
+26
+6-7
+205
+North Carolina
+$2,255,644
+Kentavious Caldwell-Pope
+5
+<a href="http://www.espn.com/nba/player/_/id/2581018/kentavious-caldwell-pope">Kentavious Caldwell-Pope</a>
+SG
+24
+6-5
+205
+Georgia
+$3,678,319
+Andre Drummond
+0
+<a href="http://www.espn.com/nba/player/_/id/6585/andre-drummond">Andre Drummond</a>
+C
+23
+6-11
+279
+Connecticut
+$22,116,750
+Henry Ellenson
+8
+<a href="http://www.espn.com/nba/player/_/id/3906522/henry-ellenson">Henry Ellenson</a>
+PF
+20
+6-11
+245
+Marquette
+$1,704,120
+Michael Gbinije
+9
+<a href="http://www.espn.com/nba/player/_/id/2566747/michael-gbinije">Michael Gbinije</a>
+SG
+25
+6-7
+200
+Syracuse
+$650,000
+Tobias Harris
+34
+<a href="http://www.espn.com/nba/player/_/id/6440/tobias-harris">Tobias Harris</a>
+SF
+24
+6-9
+235
+Tennessee
+$17,200,000
+Darrun Hilliard
+6
+<a href="http://www.espn.com/nba/player/_/id/2578259/darrun-hilliard">Darrun Hilliard</a>
+SG
+24
+6-6
+205
+Villanova
+$874,636
+Reggie Jackson
+1
+<a href="http://www.espn.com/nba/player/_/id/6443/reggie-jackson">Reggie Jackson</a>
+PG
+27
+6-3
+208
+Boston College
+$14,956,522
+Stanley Johnson
+7
+<a href="http://www.espn.com/nba/player/_/id/3134881/stanley-johnson">Stanley Johnson</a>
+SF
+21
+6-7
+245
+Arizona
+$2,969,880
+Jon Leuer
+30
+<a href="http://www.espn.com/nba/player/_/id/6452/jon-leuer">Jon Leuer</a>
+PF
+28
+6-10
+228
+Wisconsin
+$10,991,957
+Boban Marjanovic
+51
+<a href="http://www.espn.com/nba/player/_/id/4376/boban-marjanovic">Boban Marjanovic</a>
+C
+28
+7-3
+290
+&nbsp;
+$7,000,000
+Marcus Morris
+13
+<a href="http://www.espn.com/nba/player/_/id/6462/marcus-morris">Marcus Morris</a>
+PF
+27
+6-9
+235
+Kansas
+$4,625,000
+Ish Smith
+14
+<a href="http://www.espn.com/nba/player/_/id/4305/ish-smith">Ish Smith</a>
+PG
+28
+6-0
+175
+Wake Forest
+$6,000,000
+Beno Udrih
+19
+<a href="http://www.espn.com/nba/player/_/id/2448/beno-udrih">Beno Udrih</a>
+PG
+34
+6-3
+205
+&nbsp;
+$980,431

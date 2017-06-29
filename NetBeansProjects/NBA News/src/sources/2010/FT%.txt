@@ -1,0 +1,360 @@
+Robin Lopez
+PHX
+6
+7.8
+1.5
+1.5
+9
+9
+1.000
+Ronald Murray
+CHI
+5
+8.4
+1.6
+1.6
+8
+8
+1.000
+Brad Miller
+CHI
+5
+5.4
+1.4
+1.4
+7
+7
+1.000
+Marquis Daniels
+BOS
+11
+1.5
+0.5
+0.5
+6
+6
+1.000
+Jason Williams
+ORL
+14
+2.6
+0.4
+0.4
+5
+5
+1.000
+Dorell Wright
+MIA
+5
+5.0
+1.0
+1.0
+5
+5
+1.000
+Michael Finley
+BOS
+18
+0.8
+0.1
+0.1
+2
+2
+1.000
+Antonio McDyess
+SA
+10
+6.8
+0.2
+0.2
+2
+2
+1.000
+Etan Thomas
+OKC
+2
+6.0
+1.0
+1.0
+2
+2
+1.000
+Jarron Collins
+PHX
+11
+1.1
+0.2
+0.2
+2
+2
+1.000
+Mehmet Okur
+UTAH
+1
+7.0
+2.0
+2.0
+2
+2
+1.000
+Carlos Arroyo
+MIA
+5
+5.2
+0.4
+0.4
+2
+2
+1.000
+Matt Bonner
+SA
+10
+5.0
+0.2
+0.2
+2
+2
+1.000
+James Jones
+MIA
+1
+2.0
+2.0
+2.0
+2
+2
+1.000
+Daniel Gibson
+CLE
+5
+1.4
+0.4
+0.4
+2
+2
+1.000
+Earl Clark
+PHX
+3
+1.3
+0.7
+0.7
+2
+2
+1.000
+Andrei Kirilenko
+UTAH
+2
+5.5
+0.5
+0.5
+1
+1
+1.000
+Didier Ilunga-Mbenga
+LAL
+3
+1.7
+0.3
+0.3
+1
+1
+1.000
+Randolph Morris
+ATL
+3
+1.0
+0.3
+0.3
+1
+1
+1.000
+Ryan Anderson
+ORL
+9
+2.6
+0.1
+0.1
+1
+1
+1.000
+Patty Mills
+POR
+3
+2.0
+0.3
+0.3
+1
+1
+1.000
+Garrett Temple
+SA
+6
+0.7
+0.2
+0.2
+1
+1
+1.000
+John Salmons
+MIL
+7
+17.0
+3.9
+4.0
+27
+28
+.964
+Dirk Nowitzki
+DAL
+6
+26.7
+6.7
+7.0
+40
+42
+.952
+Joakim Noah
+CHI
+5
+14.8
+3.6
+3.8
+18
+19
+.947
+Delonte West
+CLE
+11
+6.7
+1.4
+1.5
+15
+16
+.938
+Channing Frye
+PHX
+16
+8.2
+0.9
+1.0
+15
+16
+.938
+Nenad Krstic
+OKC
+6
+7.2
+2.2
+2.3
+13
+14
+.929
+Caron Butler
+DAL
+6
+19.7
+4.2
+4.5
+25
+27
+.926
+Jason Kidd
+DAL
+6
+8.0
+1.8
+2.0
+11
+12
+.917
+Marvin Williams
+ATL
+11
+8.4
+2.6
+2.9
+29
+32
+.906
+Jerry Stackhouse
+MIL
+7
+7.3
+2.6
+2.9
+18
+20
+.900
+CJ Miles
+UTAH
+10
+14.4
+3.5
+3.9
+35
+39
+.897
+Steve Nash
+PHX
+16
+17.8
+4.2
+4.7
+67
+75
+.893
+Kyle Korver
+UTAH
+10
+8.3
+0.8
+0.9
+8
+9
+.889
+Thabo Sefolosha
+OKC
+6
+4.5
+1.3
+1.5
+8
+9
+.889
+Chauncey Billups
+DEN
+6
+20.3
+6.2
+7.0
+37
+42
+.881
+Carmelo Anthony
+DEN
+6
+30.7
+8.3
+9.5
+50
+57
+.877
+JR Smith
+DEN
+6
+11.2
+2.3
+2.7
+14
+16
+.875
+Kevin Durant
+OKC
+6
+25.0
+9.0
+10.3
+54
+62
+.871

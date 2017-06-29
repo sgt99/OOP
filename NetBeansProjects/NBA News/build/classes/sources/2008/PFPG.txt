@@ -1,0 +1,400 @@
+Luis Scola
+HOU
+6
+36.7
+30
+5.0
+6.5
+0
+0
+0
+Kenyon Martin
+DEN
+4
+29.5
+20
+5.0
+8.1
+0
+1
+0
+Boris Diaw
+PHX
+5
+35.6
+22
+4.4
+5.9
+0
+0
+0
+Jameer Nelson
+ORL
+10
+33.3
+43
+4.3
+6.2
+0
+0
+0
+Carmelo Anthony
+DEN
+4
+36.5
+17
+4.3
+5.6
+0
+1
+0
+Shaquille O'Neal
+PHX
+5
+30.0
+21
+4.2
+6.7
+1
+1
+0
+Brendan Haywood
+WSH
+6
+29.7
+25
+4.2
+6.7
+1
+2
+1
+Rasheed Wallace
+DET
+17
+34.4
+67
+3.9
+5.5
+0
+6
+0
+Carlos Boozer
+UTAH
+12
+36.8
+47
+3.9
+5.1
+0
+1
+0
+Andrei Kirilenko
+UTAH
+12
+32.3
+46
+3.8
+5.7
+0
+0
+0
+Antonio McDyess
+DET
+17
+27.5
+65
+3.8
+6.7
+0
+1
+0
+Dwight Howard
+ORL
+10
+42.1
+38
+3.8
+4.3
+0
+3
+0
+Raja Bell
+PHX
+5
+43.0
+19
+3.8
+4.2
+0
+0
+0
+Amar'e Stoudemire
+PHX
+5
+40.8
+19
+3.8
+4.5
+0
+1
+0
+Chris Bosh
+TOR
+5
+39.8
+19
+3.8
+4.6
+0
+1
+0
+Eduardo Najera
+DEN
+4
+19.5
+15
+3.8
+9.2
+1
+0
+0
+Josh Smith
+ATL
+7
+33.9
+26
+3.7
+5.3
+0
+1
+0
+Al Horford
+ATL
+7
+39.6
+26
+3.7
+4.5
+1
+0
+0
+Kendrick Perkins
+BOS
+25
+25.2
+91
+3.6
+6.9
+0
+2
+0
+Darius Songaila
+WSH
+5
+15.4
+18
+3.6
+11.2
+0
+1
+0
+Tyson Chandler
+NO
+12
+34.3
+43
+3.6
+5.0
+0
+3
+0
+Chris Paul
+NO
+12
+40.5
+43
+3.6
+4.2
+0
+1
+0
+Hedo Turkoglu
+ORL
+10
+39.9
+35
+3.5
+4.2
+1
+2
+0
+Paul Pierce
+BOS
+26
+38.1
+90
+3.5
+4.4
+0
+1
+0
+Lamar Odom
+LAL
+21
+37.4
+72
+3.4
+4.4
+0
+0
+0
+Reggie Evans
+PHI
+6
+24.7
+20
+3.3
+6.5
+0
+1
+0
+Gilbert Arenas
+WSH
+4
+23.5
+13
+3.3
+6.6
+0
+1
+0
+Shane Battier
+HOU
+6
+41.0
+19
+3.2
+3.7
+0
+0
+0
+Caron Butler
+WSH
+6
+41.0
+19
+3.2
+3.7
+0
+1
+0
+Willie Green
+PHI
+6
+23.7
+19
+3.2
+6.4
+0
+0
+0
+Joe Smith
+CLE
+13
+20.2
+41
+3.2
+7.5
+0
+0
+0
+Zaza Pachulia
+ATL
+7
+15.0
+22
+3.1
+10.1
+0
+1
+0
+Mehmet Okur
+UTAH
+12
+38.5
+37
+3.1
+3.8
+0
+1
+0
+Paul Millsap
+UTAH
+12
+17.5
+37
+3.1
+8.5
+0
+0
+0
+Delonte West
+CLE
+13
+34.8
+40
+3.1
+4.2
+0
+2
+0
+Marvin Williams
+ATL
+7
+28.4
+21
+3.0
+5.1
+1
+0
+1
+Chuck Hayes
+HOU
+6
+18.0
+18
+3.0
+8.0
+0
+0
+0
+Erick Dampier
+DAL
+5
+19.0
+15
+3.0
+7.6
+1
+2
+0
+Jason Terry
+DAL
+5
+36.0
+15
+3.0
+4.0
+0
+0
+0
+Jose Calderon
+TOR
+5
+24.0
+15
+3.0
+6.0
+0
+0
+0

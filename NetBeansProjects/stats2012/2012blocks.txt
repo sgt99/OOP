@@ -1,0 +1,360 @@
+Serge Ibaka
+OKC
+66
+27.2
+241
+179
+3.65
+6.46
+1.35
+JaVale McGee
+DEN/WSH
+61
+25.2
+132
+166
+2.16
+4.13
+0.80
+Dwight Howard
+ORL
+54
+38.3
+116
+159
+2.15
+2.69
+0.73
+DeAndre Jordan
+LAC
+66
+27.2
+135
+189
+2.05
+3.60
+0.71
+Roy Hibbert
+IND
+65
+29.8
+128
+195
+1.97
+3.17
+0.66
+Andrew Bynum
+LAL
+60
+35.2
+116
+104
+1.93
+2.64
+1.12
+Marc Gasol
+MEM
+65
+36.5
+121
+201
+1.86
+2.45
+0.60
+Bismack Biyombo
+CHA
+63
+23.1
+115
+145
+1.83
+3.79
+0.79
+Josh Smith
+ATL
+66
+35.3
+115
+172
+1.74
+2.37
+0.67
+Samuel Dalembert
+HOU
+65
+22.2
+111
+162
+1.71
+3.68
+0.69
+Ekpe Udoh
+GS/MIL
+61
+21.1
+102
+174
+1.67
+3.80
+0.59
+Al Jefferson
+UTAH
+61
+34.0
+101
+155
+1.66
+2.34
+0.65
+Elton Brand
+PHI
+60
+28.9
+97
+176
+1.62
+2.69
+0.55
+Greg Stiemsma
+BOS
+55
+13.9
+85
+144
+1.55
+5.33
+0.59
+Tim Duncan
+SA
+58
+28.2
+88
+98
+1.52
+2.59
+0.90
+Marcin Gortat
+PHX
+66
+32.0
+99
+142
+1.50
+2.25
+0.70
+Marcus Camby
+HOU/POR
+59
+22.9
+85
+126
+1.44
+3.02
+0.67
+Joakim Noah
+CHI
+64
+30.4
+92
+162
+1.44
+2.27
+0.57
+Tyson Chandler
+NY
+62
+33.2
+89
+186
+1.44
+2.07
+0.48
+James Johnson
+TOR
+62
+25.2
+84
+177
+1.35
+2.58
+0.47
+Pau Gasol
+LAL
+65
+37.4
+88
+127
+1.35
+1.74
+0.69
+Kevin Seraphin
+WSH
+57
+20.6
+76
+133
+1.33
+3.10
+0.57
+Joel Anthony
+MIA
+64
+21.1
+84
+126
+1.31
+2.99
+0.67
+Taj Gibson
+CHI
+63
+20.4
+81
+131
+1.29
+3.03
+0.62
+Kris Humphries
+NJ
+62
+34.9
+74
+173
+1.19
+1.64
+0.43
+DeMarcus Cousins
+SAC
+64
+30.5
+75
+257
+1.17
+1.85
+0.29
+Kevin Durant
+OKC
+66
+38.6
+77
+133
+1.17
+1.45
+0.58
+Kendrick Perkins
+OKC
+65
+26.8
+73
+189
+1.12
+2.01
+0.39
+Channing Frye
+PHX
+64
+26.1
+70
+176
+1.09
+2.01
+0.40
+Amir Johnson
+TOR
+64
+24.3
+69
+209
+1.08
+2.13
+0.33
+Tristan Thompson
+CLE
+60
+23.7
+62
+134
+1.03
+2.09
+0.46
+Omer Asik
+CHI
+66
+14.7
+68
+121
+1.03
+3.36
+0.56
+Nicolas Batum
+POR
+59
+30.4
+60
+105
+1.02
+1.61
+0.57
+Kevin Garnett
+BOS
+60
+31.1
+61
+141
+1.02
+1.57
+0.43
+Derrick Favors
+UTAH
+65
+21.3
+65
+145
+1.00
+2.25
+0.45
+Ed Davis
+TOR
+66
+23.2
+63
+156
+0.95
+1.97
+0.40
+Robin Lopez
+PHX
+64
+14.0
+60
+128
+0.94
+3.22
+0.47
+Brandon Bass
+BOS
+59
+31.7
+54
+135
+0.92
+1.39
+0.40
+Brandon Rush
+GS
+65
+26.4
+58
+64
+0.89
+1.62
+0.91
+John Wall
+WSH
+66
+36.2
+57
+137
+0.86
+1.15
+0.42

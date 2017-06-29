@@ -1,0 +1,200 @@
+LeBron James
+MIA
+21
+922
+43.9
+Dwight Howard
+ORL
+6
+258
+43.0
+LaMarcus Aldridge
+POR
+6
+258
+43.0
+Luol Deng
+CHI
+16
+687
+42.9
+Kevin Durant
+OKC
+17
+722
+42.5
+Chris Paul
+NO
+6
+250
+41.7
+Joe Johnson
+ATL
+12
+497
+41.4
+Derrick Rose
+CHI
+16
+649
+40.6
+Trevor Ariza
+NO
+6
+241
+40.2
+Ray Allen
+BOS
+9
+361
+40.1
+Marc Gasol
+MEM
+13
+519
+39.9
+Chris Bosh
+MIA
+21
+834
+39.7
+Zach Randolph
+MEM
+13
+515
+39.6
+Dwyane Wade
+MIA
+21
+828
+39.4
+Dirk Nowitzki
+DAL
+21
+826
+39.3
+Mike Conley
+MEM
+13
+507
+39.0
+Al Horford
+ATL
+12
+468
+39.0
+Carmelo Anthony
+NY
+4
+156
+39.0
+Rajon Rondo
+BOS
+9
+345
+38.3
+Paul Pierce
+BOS
+9
+343
+38.1
+Gerald Wallace
+POR
+6
+226
+37.7
+Jrue Holiday
+PHI
+5
+188
+37.6
+Russell Westbrook
+OKC
+17
+638
+37.5
+Elton Brand
+PHI
+5
+185
+37.0
+Tony Parker
+SA
+6
+221
+36.8
+Danny Granger
+IND
+5
+183
+36.6
+Josh Smith
+ATL
+12
+438
+36.5
+Kevin Garnett
+BOS
+9
+328
+36.4
+Andre Iguodala
+PHI
+5
+182
+36.4
+Jameer Nelson
+ORL
+6
+216
+36.0
+Pau Gasol
+LAL
+10
+358
+35.8
+Carl Landry
+NO
+6
+213
+35.5
+Jason Kidd
+DAL
+21
+744
+35.4
+Kobe Bryant
+LAL
+10
+354
+35.4
+Tim Duncan
+SA
+6
+212
+35.3
+Chauncey Billups
+NY
+1
+35
+35.0
+Hedo Turkoglu
+ORL
+6
+209
+34.8
+Manu Ginobili
+SA
+5
+174
+34.8
+Wesley Matthews
+POR
+6
+202
+33.7
+Amar'e Stoudemire
+NY
+4
+134
+33.5

@@ -1,0 +1,200 @@
+Raja Bell
+PHX
+5
+215
+43.0
+Deron Williams
+UTAH
+12
+513
+42.8
+LeBron James
+CLE
+13
+552
+42.5
+Dirk Nowitzki
+DAL
+5
+211
+42.2
+Dwight Howard
+ORL
+10
+421
+42.1
+Rashard Lewis
+ORL
+10
+417
+41.7
+Tracy McGrady
+HOU
+6
+247
+41.2
+Kobe Bryant
+LAL
+21
+863
+41.1
+Shane Battier
+HOU
+6
+246
+41.0
+Caron Butler
+WSH
+6
+246
+41.0
+Amar'e Stoudemire
+PHX
+5
+204
+40.8
+Chris Paul
+NO
+12
+486
+40.5
+David West
+NO
+12
+485
+40.4
+Hedo Turkoglu
+ORL
+10
+399
+39.9
+Pau Gasol
+LAL
+21
+836
+39.8
+Chris Bosh
+TOR
+5
+199
+39.8
+Al Horford
+ATL
+7
+277
+39.6
+Antawn Jamison
+WSH
+6
+237
+39.5
+Allen Iverson
+DEN
+4
+158
+39.5
+Tayshaun Prince
+DET
+17
+671
+39.5
+Joe Johnson
+ATL
+7
+275
+39.3
+Anthony Parker
+TOR
+5
+196
+39.2
+Tim Duncan
+SA
+17
+666
+39.2
+Andre Iguodala
+PHI
+6
+234
+39.0
+Richard Hamilton
+DET
+17
+656
+38.6
+Mehmet Okur
+UTAH
+12
+462
+38.5
+Tony Parker
+SA
+17
+654
+38.5
+Andre Miller
+PHI
+6
+229
+38.2
+Paul Pierce
+BOS
+26
+990
+38.1
+Ray Allen
+BOS
+26
+987
+38.0
+Kevin Garnett
+BOS
+26
+987
+38.0
+Peja Stojakovic
+NO
+12
+455
+37.9
+Lamar Odom
+LAL
+21
+786
+37.4
+Carlos Boozer
+UTAH
+12
+441
+36.8
+Luis Scola
+HOU
+6
+220
+36.7
+Steve Nash
+PHX
+5
+183
+36.6
+Carmelo Anthony
+DEN
+4
+146
+36.5
+Mike Bibby
+ATL
+7
+252
+36.0
+Jason Kidd
+DAL
+5
+180
+36.0
+Jason Terry
+DAL
+5
+180
+36.0

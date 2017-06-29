@@ -1,0 +1,360 @@
+Kevin Durant
+OKC
+81
+28.1
+8.4
+9.3
+679
+750
+.905
+Stephen Curry
+GS
+78
+22.9
+3.4
+3.7
+262
+291
+.900
+JJ Redick
+MIL/ORL
+78
+14.1
+2.2
+2.4
+171
+190
+.900
+Kevin Martin
+OKC
+77
+14.0
+2.8
+3.2
+219
+246
+.890
+Ray Allen
+MIA
+79
+10.9
+1.8
+2.0
+140
+158
+.886
+Chris Paul
+LAC
+70
+16.9
+4.1
+4.6
+286
+323
+.885
+Isaiah Thomas
+SAC
+79
+13.9
+3.2
+3.6
+253
+287
+.882
+Jeff Teague
+ATL
+80
+14.6
+2.5
+2.8
+199
+226
+.881
+Darren Collison
+DAL
+81
+12.0
+3.0
+3.4
+242
+275
+.880
+Jamal Crawford
+LAC
+76
+16.5
+2.8
+3.3
+216
+248
+.871
+Dirk Nowitzki
+DAL
+53
+17.3
+3.1
+3.6
+166
+193
+.860
+Brandon Bass
+BOS
+81
+8.7
+1.6
+1.9
+129
+150
+.860
+Deron Williams
+BKN
+78
+18.9
+4.1
+4.7
+317
+369
+.859
+Alan Anderson
+TOR
+65
+10.7
+1.9
+2.3
+126
+147
+.857
+Arron Afflalo
+ORL
+64
+16.5
+3.0
+3.5
+191
+223
+.857
+Kyrie Irving
+CLE
+59
+22.5
+4.2
+4.9
+248
+290
+.855
+James Harden
+HOU
+78
+25.9
+8.6
+10.2
+674
+792
+.851
+Martell Webster
+WSH
+76
+11.4
+2.2
+2.6
+168
+198
+.848
+Marc Gasol
+MEM
+80
+14.1
+3.4
+4.0
+268
+316
+.848
+Nicolas Batum
+POR
+73
+14.3
+2.4
+2.9
+178
+210
+.848
+Luke Ridnour
+MIN
+82
+11.5
+1.7
+2.0
+139
+164
+.848
+Tony Parker
+SA
+66
+20.3
+4.2
+5.0
+279
+330
+.845
+Ryan Anderson
+NO
+81
+16.2
+1.9
+2.2
+152
+180
+.844
+Damian Lillard
+POR
+82
+19.0
+3.3
+3.9
+271
+321
+.844
+Jarrett Jack
+GS
+79
+12.9
+2.1
+2.5
+167
+198
+.843
+Eric Gordon
+NO
+42
+17.0
+4.5
+5.3
+187
+222
+.842
+Klay Thompson
+GS
+82
+16.6
+1.6
+1.9
+132
+157
+.841
+Andre Miller
+DEN
+82
+9.6
+2.0
+2.4
+163
+194
+.840
+Marco Belinelli
+CHI
+73
+9.6
+1.9
+2.3
+141
+168
+.839
+Kobe Bryant
+LAL
+78
+27.3
+6.7
+8.0
+525
+626
+.839
+Ramon Sessions
+CHA
+61
+14.4
+4.8
+5.7
+291
+347
+.839
+DeMar DeRozan
+TOR
+82
+18.1
+4.3
+5.2
+355
+427
+.831
+Carmelo Anthony
+NY
+67
+28.7
+6.3
+7.6
+425
+512
+.830
+Mike Conley
+MEM
+80
+14.6
+2.9
+3.5
+234
+282
+.830
+Gordon Hayward
+UTAH
+72
+14.1
+3.4
+4.1
+243
+294
+.827
+Gerald Henderson
+CHA
+68
+15.5
+3.8
+4.6
+258
+313
+.824
+Danilo Gallinari
+DEN
+71
+16.2
+4.0
+4.9
+286
+348
+.822
+Joe Johnson
+BKN
+72
+16.3
+1.8
+2.2
+132
+161
+.820
+O.J. Mayo
+DAL
+82
+15.3
+2.3
+2.8
+191
+233
+.820
+Brandon Jennings
+MIL
+80
+17.5
+2.9
+3.5
+230
+281
+.819

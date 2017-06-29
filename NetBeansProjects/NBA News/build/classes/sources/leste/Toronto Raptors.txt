@@ -1,0 +1,151 @@
+Toronto Raptors
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png
+51-31
+106.9 18.5 43.3 102.6
+DeMar DeRozan, SG 27.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3978.png
+Kyle Lowry, PG 6.9 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3012.png
+Jonas Valanciunas, C 55.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6477.png
+Jonas Valanciunas, C 9.5 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6477.png
+Kyle Lowry, PG 1.5 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3012.png
+Jonas Valanciunas, C 0.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6477.png
+Bruno Caboclo
+20
+<a href="http://www.espn.com/nba/player/_/id/3113297/bruno-caboclo">Bruno Caboclo</a>
+SF
+21
+6-9
+205
+&nbsp;
+$1,589,640
+DeMarre Carroll
+5
+<a href="http://www.espn.com/nba/player/_/id/3970/demarre-carroll">DeMarre Carroll</a>
+SF
+30
+6-8
+212
+Missouri
+$14,200,000
+DeMar DeRozan
+10
+<a href="http://www.espn.com/nba/player/_/id/3978/demar-derozan">DeMar DeRozan</a>
+SG
+27
+6-7
+220
+USC
+$26,540,100
+Serge Ibaka
+9
+<a href="http://www.espn.com/nba/player/_/id/3439/serge-ibaka">Serge Ibaka</a>
+PF
+27
+6-10
+235
+&nbsp;
+$12,250,000
+Cory Joseph
+6
+<a href="http://www.espn.com/nba/player/_/id/6446/cory-joseph">Cory Joseph</a>
+PG
+25
+6-3
+190
+Texas
+$7,315,000
+Kyle Lowry
+7
+<a href="http://www.espn.com/nba/player/_/id/3012/kyle-lowry">Kyle Lowry</a>
+PG
+31
+6-0
+205
+Villanova
+$12,000,000
+Lucas Nogueira
+92
+<a href="http://www.espn.com/nba/player/_/id/3032980/lucas-nogueira">Lucas Nogueira</a>
+C
+24
+7-0
+220
+&nbsp;
+$1,921,320
+Patrick Patterson
+54
+<a href="http://www.espn.com/nba/player/_/id/4264/patrick-patterson">Patrick Patterson</a>
+PF
+28
+6-9
+235
+Kentucky
+$6,050,000
+Jakob Poeltl
+42
+<a href="http://www.espn.com/nba/player/_/id/3134908/jakob-poeltl">Jakob Poeltl</a>
+C
+21
+7-0
+230
+Utah
+$2,703,960
+Norman Powell
+24
+<a href="http://www.espn.com/nba/player/_/id/2595516/norman-powell">Norman Powell</a>
+SG
+24
+6-4
+215
+UCLA
+$874,636
+Pascal Siakam
+43
+<a href="http://www.espn.com/nba/player/_/id/3149673/pascal-siakam">Pascal Siakam</a>
+PF
+23
+6-9
+230
+New Mexico State
+$1,196,040
+PJ Tucker
+2
+<a href="http://www.espn.com/nba/player/_/id/3033/pj-tucker">PJ Tucker</a>
+SF
+32
+6-6
+245
+Texas
+$5,300,000
+Jonas Valanciunas
+17
+<a href="http://www.espn.com/nba/player/_/id/6477/jonas-valanciunas">Jonas Valanciunas</a>
+C
+25
+7-0
+255
+&nbsp;
+$14,382,023
+Fred VanVleet
+23
+<a href="http://www.espn.com/nba/player/_/id/2991230/fred-vanvleet">Fred VanVleet</a>
+PG
+23
+6-0
+195
+Wichita State
+$543,471
+Delon Wright
+55
+<a href="http://www.espn.com/nba/player/_/id/3064447/delon-wright">Delon Wright</a>
+PG
+25
+6-5
+190
+Utah
+$1,577,280

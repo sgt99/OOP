@@ -1,0 +1,360 @@
+Stephen Curry
+GS
+74
+18.6
+2.9
+3.1
+212
+227
+.934
+Chauncey Billups
+DEN/NY
+72
+16.8
+5.3
+5.8
+384
+419
+.916
+Steve Nash
+PHX
+75
+14.7
+3.0
+3.3
+227
+249
+.912
+D.J. Augustin
+CHA
+82
+14.4
+3.3
+3.6
+269
+297
+.906
+Jodie Meeks
+PHI
+74
+10.5
+2.1
+2.3
+152
+170
+.894
+Randy Foye
+LAC
+63
+9.8
+2.1
+2.4
+133
+149
+.893
+Dirk Nowitzki
+DAL
+73
+23.0
+5.4
+6.1
+395
+443
+.892
+Kevin Martin
+HOU
+80
+23.5
+7.4
+8.4
+594
+669
+.888
+Ray Allen
+BOS
+80
+16.5
+2.4
+2.7
+193
+219
+.881
+Kevin Durant
+OKC
+78
+27.7
+7.6
+8.7
+594
+675
+.880
+Chris Paul
+NO
+80
+15.9
+4.2
+4.8
+337
+384
+.878
+Manu Ginobili
+SA
+80
+17.4
+4.5
+5.1
+357
+410
+.871
+Darren Collison
+IND
+79
+13.2
+2.6
+2.9
+202
+232
+.871
+Rodney Stuckey
+DET
+70
+15.5
+4.7
+5.4
+330
+381
+.866
+Beno Udrih
+SAC
+79
+13.7
+2.5
+2.9
+197
+228
+.864
+Rudy Fernandez
+POR
+78
+8.6
+1.6
+1.9
+126
+146
+.863
+George Hill
+SA
+76
+11.6
+3.1
+3.6
+233
+270
+.863
+Danilo Gallinari
+DEN/NY
+62
+15.6
+5.4
+6.3
+337
+391
+.862
+Kevin Garnett
+BOS
+71
+14.9
+2.6
+3.1
+187
+217
+.862
+Paul Pierce
+BOS
+80
+18.9
+4.8
+5.6
+386
+449
+.860
+Derrick Rose
+CHI
+81
+25.0
+5.9
+6.9
+476
+555
+.858
+Jamal Crawford
+ATL
+76
+14.2
+2.9
+3.4
+222
+260
+.854
+Mo Williams
+CLE/LAC
+58
+14.0
+2.6
+3.1
+151
+177
+.853
+Andre Miller
+POR
+81
+12.7
+3.1
+3.6
+249
+292
+.853
+Jason Terry
+DAL
+82
+15.8
+2.2
+2.6
+182
+214
+.850
+Jarrett Jack
+NO/TOR
+83
+8.9
+2.2
+2.6
+182
+214
+.850
+Ben Gordon
+DET
+82
+11.2
+1.7
+2.0
+136
+160
+.850
+Kevin Love
+MIN
+73
+20.2
+5.8
+6.8
+424
+499
+.850
+Richard Hamilton
+DET
+55
+14.1
+2.7
+3.1
+146
+172
+.849
+Danny Granger
+IND
+79
+20.5
+5.0
+5.9
+395
+466
+.848
+J.J. Barea
+DAL
+81
+9.5
+1.6
+1.9
+133
+157
+.847
+Arron Afflalo
+DEN
+69
+12.6
+2.0
+2.4
+138
+163
+.847
+Marvin Williams
+ATL
+65
+10.4
+2.3
+2.7
+147
+174
+.845
+Deron Williams
+NJ/UTAH
+65
+20.1
+5.4
+6.3
+348
+412
+.845
+Wesley Matthews
+POR
+82
+15.9
+3.2
+3.8
+266
+315
+.844
+James Harden
+OKC
+82
+12.2
+3.5
+4.2
+289
+343
+.843
+Russell Westbrook
+OKC
+82
+21.9
+6.5
+7.7
+531
+631
+.842
+Nicolas Batum
+POR
+80
+12.4
+1.7
+2.1
+138
+164
+.841
+Carmelo Anthony
+DEN/NY
+77
+25.6
+6.6
+7.9
+507
+605
+.838
+Corey Maggette
+MIL
+67
+12.0
+4.0
+4.9
+271
+325
+.834

@@ -1,0 +1,360 @@
+Peja Stojakovic
+NO
+77
+16.4
+1.7
+1.8
+130
+140
+.929
+Chauncey Billups
+DET
+78
+17.0
+5.1
+5.6
+401
+437
+.918
+Ben Gordon
+CHI
+72
+18.6
+3.7
+4.1
+266
+293
+.908
+Ray Allen
+BOS
+73
+17.4
+2.9
+3.2
+215
+237
+.907
+Steve Nash
+PHX
+81
+16.9
+2.7
+3.0
+222
+245
+.906
+Caron Butler
+WSH
+58
+20.3
+4.1
+4.5
+236
+262
+.901
+Jerry Stackhouse
+DAL
+58
+10.7
+2.3
+2.6
+132
+148
+.892
+Derek Fisher
+LAL
+82
+11.7
+2.0
+2.3
+166
+188
+.883
+Sam Cassell
+BOS/LAC
+55
+11.2
+2.3
+2.6
+127
+144
+.882
+Dirk Nowitzki
+DAL
+77
+23.6
+6.2
+7.1
+478
+544
+.879
+Kevin Durant
+SEA
+80
+20.3
+4.9
+5.6
+391
+448
+.873
+Kevin Martin
+SAC
+61
+23.7
+8.2
+9.5
+502
+578
+.869
+Grant Hill
+PHX
+70
+13.1
+2.4
+2.8
+170
+196
+.867
+Jarrett Jack
+POR
+82
+9.9
+2.6
+3.0
+215
+248
+.867
+Jamal Crawford
+NY
+80
+20.6
+4.1
+4.8
+329
+381
+.864
+Manu Ginobili
+SA
+74
+19.5
+5.1
+6.0
+380
+442
+.860
+Jason Terry
+DAL
+82
+15.5
+2.3
+2.7
+191
+223
+.857
+Mo Williams
+MIL
+66
+17.2
+2.5
+2.9
+166
+194
+.856
+Danny Granger
+IND
+80
+19.6
+4.0
+4.7
+322
+378
+.852
+Wally Szczerbiak
+CLE/SEA
+75
+11.5
+2.0
+2.3
+149
+175
+.851
+Chris Paul
+NO
+80
+21.1
+4.2
+4.9
+332
+390
+.851
+Beno Udrih
+SAC
+65
+12.8
+1.9
+2.3
+125
+147
+.850
+David West
+NO
+76
+20.6
+3.9
+4.6
+300
+353
+.850
+Yao Ming
+HOU
+55
+22.0
+6.3
+7.4
+345
+406
+.850
+Brad Miller
+SAC
+72
+13.4
+3.6
+4.3
+262
+309
+.848
+Keyon Dooling
+ORL
+72
+8.1
+2.3
+2.7
+163
+193
+.845
+Chris Bosh
+TOR
+67
+22.3
+7.0
+8.3
+472
+559
+.844
+Paul Pierce
+BOS
+80
+19.6
+5.1
+6.1
+409
+485
+.843
+Andrea Bargnani
+TOR
+78
+10.2
+1.8
+2.2
+142
+169
+.840
+Kobe Bryant
+LAL
+82
+28.3
+7.6
+9.0
+623
+742
+.840
+Rashard Lewis
+ORL
+81
+18.2
+2.7
+3.2
+218
+260
+.838
+Joe Johnson
+ATL
+82
+21.7
+3.9
+4.6
+316
+379
+.834
+Mike Dunleavy
+IND
+82
+19.1
+4.1
+4.9
+336
+403
+.834
+Richard Hamilton
+DET
+72
+17.3
+2.6
+3.1
+184
+221
+.833
+Stephen Jackson
+GS
+73
+20.1
+4.2
+5.1
+308
+370
+.832
+Ryan Gomes
+MIN
+82
+12.6
+2.3
+2.8
+190
+229
+.830
+Hedo Turkoglu
+ORL
+82
+19.5
+4.0
+4.8
+324
+391
+.829
+Jameer Nelson
+ORL
+69
+10.9
+1.8
+2.2
+125
+151
+.828
+Devin Harris
+DAL/NJ
+64
+14.8
+3.9
+4.7
+248
+301
+.824
+John Salmons
+SAC
+81
+12.5
+2.6
+3.2
+214
+260
+.823

@@ -1,0 +1,151 @@
+Los Angeles Lakers
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png
+26-56
+104.6 20.9 43.5 111.5
+Lou Williams, SG 18.6 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2799.png
+D'Angelo Russell, PG 4.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136776.png
+Julius Randle, PF 48.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064514.png
+Julius Randle, PF 8.6 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064514.png
+D'Angelo Russell, PG 1.4 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136776.png
+Tarik Black, C 0.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528393.png
+Tarik Black
+28
+<a href="http://www.espn.com/nba/player/_/id/2528393/tarik-black">Tarik Black</a>
+C
+25
+6-9
+250
+Kansas
+$6,191,000
+Corey Brewer
+3
+<a href="http://www.espn.com/nba/player/_/id/3191/corey-brewer">Corey Brewer</a>
+SF
+31
+6-9
+186
+Florida
+$7,612,172
+Jordan Clarkson
+6
+<a href="http://www.espn.com/nba/player/_/id/2528426/jordan-clarkson">Jordan Clarkson</a>
+PG
+25
+6-5
+194
+Missouri
+$12,500,000
+Luol Deng
+9
+<a href="http://www.espn.com/nba/player/_/id/2429/luol-deng">Luol Deng</a>
+SF
+32
+6-9
+220
+Duke
+$18,000,000
+Tyler Ennis
+11
+<a href="http://www.espn.com/nba/player/_/id/3059281/tyler-ennis">Tyler Ennis</a>
+PG
+22
+6-3
+194
+Syracuse
+$1,733,880
+Brandon Ingram
+14
+<a href="http://www.espn.com/nba/player/_/id/3913176/brandon-ingram">Brandon Ingram</a>
+SF
+19
+6-9
+190
+Duke
+$5,281,680
+Timofey Mozgov
+20
+<a href="http://www.espn.com/nba/player/_/id/4298/timofey-mozgov">Timofey Mozgov</a>
+C
+30
+7-1
+275
+&nbsp;
+$16,000,000
+Larry Nance Jr.
+7
+<a href="http://www.espn.com/nba/player/_/id/2580365/larry-nance-jr.">Larry Nance Jr.</a>
+PF
+24
+6-9
+230
+Wyoming
+$1,207,680
+David Nwaba
+10
+<a href="http://www.espn.com/nba/player/_/id/3062744/david-nwaba">David Nwaba</a>
+PG
+24
+6-4
+209
+Cal Poly
+$73,528
+Julius Randle
+30
+<a href="http://www.espn.com/nba/player/_/id/3064514/julius-randle">Julius Randle</a>
+PF
+22
+6-9
+250
+Kentucky
+$3,267,120
+Thomas Robinson
+15
+<a href="http://www.espn.com/nba/player/_/id/6618/thomas-robinson">Thomas Robinson</a>
+PF
+26
+6-10
+237
+Kansas
+$980,431
+D'Angelo Russell
+1
+<a href="http://www.espn.com/nba/player/_/id/3136776/d'angelo-russell">D'Angelo Russell</a>
+PG
+21
+6-5
+195
+Ohio State
+$5,332,800
+Metta World Peace
+37
+<a href="http://www.espn.com/nba/player/_/id/25/metta-world-peace">Metta World Peace</a>
+SF
+37
+6-7
+260
+St. John's
+$980,431
+Nick Young
+0
+<a href="http://www.espn.com/nba/player/_/id/3243/nick-young">Nick Young</a>
+SG
+32
+6-7
+210
+USC
+$5,443,918
+Ivica Zubac
+40
+<a href="http://www.espn.com/nba/player/_/id/4017837/ivica-zubac">Ivica Zubac</a>
+C
+20
+7-1
+240
+&nbsp;
+$1,034,956
