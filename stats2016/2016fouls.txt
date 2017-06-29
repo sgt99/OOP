@@ -1,0 +1,400 @@
+Dahntay Jones
+CLE
+1
+42.0
+6
+6.0
+6.9
+0
+0
+0
+DeMarcus Cousins
+SAC
+65
+34.6
+236
+3.6
+5.0
+0
+17
+1
+Robert Covington
+PHI
+67
+28.4
+232
+3.5
+5.9
+0
+1
+0
+Patrick Beverley
+HOU
+71
+28.7
+234
+3.3
+5.5
+0
+8
+0
+Giannis Antetokounmpo
+MIL
+80
+35.3
+258
+3.2
+4.4
+1
+3
+1
+Andrew Bogut
+GS
+70
+20.7
+221
+3.2
+7.3
+1
+1
+0
+Roy Hibbert
+LAL
+81
+23.2
+252
+3.1
+6.4
+2
+3
+0
+Ian Mahinmi
+IND
+71
+25.6
+220
+3.1
+5.8
+0
+1
+0
+Mason Plumlee
+POR
+82
+25.4
+253
+3.1
+5.8
+2
+1
+0
+Dwight Howard
+HOU
+71
+32.1
+219
+3.1
+4.6
+4
+11
+2
+Matt Barnes
+MEM
+76
+28.8
+234
+3.1
+5.1
+3
+8
+1
+O.J. Mayo
+MIL
+41
+26.6
+126
+3.1
+5.5
+2
+6
+1
+Andre Drummond
+DET
+81
+32.9
+245
+3.0
+4.4
+0
+10
+0
+Meyers Leonard
+POR
+61
+21.9
+183
+3.0
+6.6
+1
+2
+0
+Marcus Smart
+BOS
+61
+27.3
+183
+3.0
+5.3
+0
+6
+0
+Michael Carter-Williams
+MIL
+54
+30.5
+162
+3.0
+4.7
+0
+3
+0
+Chuck Hayes
+HOU
+2
+12.0
+6
+3.0
+12.0
+0
+0
+0
+Karl-Anthony Towns
+MIN
+82
+32.0
+245
+3.0
+4.5
+0
+3
+0
+Julius Randle
+LAL
+81
+28.2
+242
+3.0
+5.1
+0
+2
+0
+Mario Chalmers
+MIA/MEM
+61
+22.5
+181
+3.0
+6.3
+1
+5
+2
+Draymond Green
+GS
+81
+34.7
+240
+3.0
+4.1
+1
+13
+0
+Devin Booker
+PHX
+76
+27.7
+225
+3.0
+5.1
+0
+4
+0
+Alex Len
+PHX
+78
+23.3
+230
+2.9
+6.1
+0
+2
+0
+Brook Lopez
+BKN
+73
+33.7
+215
+2.9
+4.2
+0
+1
+0
+Paul Millsap
+ATL
+81
+32.7
+237
+2.9
+4.3
+0
+5
+0
+Markieff Morris
+PHX/WSH
+64
+25.5
+184
+2.9
+5.4
+2
+11
+1
+Nerlens Noel
+PHI
+67
+29.3
+192
+2.9
+4.7
+1
+1
+1
+Kristaps Porzingis
+NY
+72
+28.4
+205
+2.8
+4.8
+0
+2
+0
+Jusuf Nurkic
+DEN
+32
+17.1
+91
+2.8
+8.0
+0
+4
+0
+Paul George
+IND
+81
+34.8
+230
+2.8
+3.9
+0
+7
+0
+Cody Zeller
+CHA
+73
+24.3
+204
+2.8
+5.5
+0
+0
+0
+James Harden
+HOU
+82
+38.1
+229
+2.8
+3.5
+3
+4
+0
+Jerami Grant
+PHI
+77
+26.8
+215
+2.8
+5.0
+0
+2
+0
+Steven Adams
+OKC
+80
+25.2
+223
+2.8
+5.3
+0
+2
+0
+Hassan Whiteside
+MIA
+73
+29.1
+201
+2.8
+4.5
+1
+4
+1
+Bismack Biyombo
+TOR
+82
+22.0
+225
+2.7
+6.0
+0
+3
+0
+Kyle Lowry
+TOR
+77
+37.0
+211
+2.7
+3.6
+1
+11
+2
+Nene Hilario
+WSH
+57
+19.2
+156
+2.7
+6.8
+1
+4
+1
+Tony Allen
+MEM
+64
+25.3
+175
+2.7
+5.2
+1
+2
+0
+Blake Griffin
+LAC
+35
+33.4
+95
+2.7
+3.9
+1
+7
+2

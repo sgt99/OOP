@@ -1,0 +1,400 @@
+Al Harrington
+ATL
+76
+36.6
+301
+4.0
+5.2
+0
+0
+0
+Shaquille O'Neal
+MIA
+59
+30.6
+230
+3.9
+6.1
+2
+6
+0
+Tyson Chandler
+CHI
+79
+26.8
+298
+3.8
+6.7
+1
+8
+0
+Nenad Krstic
+NJ
+80
+30.9
+297
+3.7
+5.8
+0
+2
+0
+Samuel Dalembert
+PHI
+66
+26.7
+244
+3.7
+6.7
+1
+2
+0
+Zaza Pachulia
+ATL
+78
+31.4
+286
+3.7
+5.6
+3
+9
+1
+Kurt Thomas
+PHX
+53
+26.6
+193
+3.6
+6.6
+1
+0
+0
+Chris Mihm
+LAL
+59
+26.1
+214
+3.6
+6.7
+0
+1
+0
+Zydrunas Ilgauskas
+CLE
+78
+29.3
+280
+3.6
+5.9
+0
+6
+1
+Gilbert Arenas
+WSH
+80
+42.3
+286
+3.6
+4.1
+0
+3
+0
+Jason Collins
+NJ
+71
+26.7
+251
+3.5
+6.4
+1
+1
+0
+Mehmet Okur
+UTAH
+82
+35.9
+285
+3.5
+4.6
+0
+6
+0
+Jermaine O'Neal
+IND
+51
+35.3
+177
+3.5
+4.7
+0
+8
+0
+Chris Kaman
+LAC
+78
+32.8
+269
+3.4
+5.0
+1
+3
+0
+Yao Ming
+HOU
+57
+34.2
+195
+3.4
+4.8
+0
+4
+0
+Bobby Simmons
+MIL
+75
+33.8
+254
+3.4
+4.8
+1
+1
+0
+Emeka Okafor
+CHA
+26
+33.6
+88
+3.4
+4.8
+0
+0
+0
+Dwight Howard
+ORL
+82
+36.8
+277
+3.4
+4.4
+0
+2
+0
+Jamaal Magloire
+MIL
+82
+30.1
+276
+3.4
+5.4
+0
+8
+0
+Raef LaFrentz
+BOS
+82
+24.8
+273
+3.3
+6.4
+1
+0
+0
+Eddy Curry
+NY
+72
+25.9
+239
+3.3
+6.2
+0
+3
+0
+Danny Fortson
+SEA
+23
+12.0
+76
+3.3
+13.2
+1
+7
+2
+Josh Smith
+ATL
+80
+32.0
+260
+3.3
+4.9
+1
+5
+0
+Larry Hughes
+CLE
+36
+35.6
+117
+3.3
+4.4
+0
+2
+0
+Nick Collison
+SEA
+66
+21.9
+213
+3.2
+7.1
+0
+2
+0
+Boris Diaw
+PHX
+81
+35.5
+260
+3.2
+4.3
+0
+0
+0
+Erick Dampier
+DAL
+82
+23.6
+263
+3.2
+6.5
+2
+1
+0
+Lamar Odom
+LAL
+80
+40.3
+256
+3.2
+3.8
+1
+7
+0
+Jarron Collins
+UTAH
+79
+21.9
+252
+3.2
+7.0
+0
+2
+0
+Carlos Boozer
+UTAH
+33
+31.1
+105
+3.2
+4.9
+0
+0
+0
+Caron Butler
+WSH
+75
+36.1
+238
+3.2
+4.2
+0
+2
+0
+Michael Sweetney
+CHI
+66
+18.5
+209
+3.2
+8.2
+0
+1
+0
+Andrew Bogut
+MIL
+82
+28.6
+259
+3.2
+5.3
+1
+6
+0
+Shareef Abdur-Rahim
+SAC
+72
+27.2
+227
+3.2
+5.6
+1
+9
+1
+Raja Bell
+PHX
+79
+37.5
+248
+3.1
+4.0
+2
+7
+0
+Mark Blount
+BOS/MIN
+81
+27.7
+254
+3.1
+5.4
+1
+1
+0
+Johan Petro
+SEA
+68
+18.9
+213
+3.1
+8.0
+1
+1
+0
+DeSagana Diop
+DAL
+81
+18.6
+253
+3.1
+8.0
+0
+2
+0
+Kirk Hinrich
+CHI
+81
+36.5
+251
+3.1
+4.1
+0
+6
+0
+Rafer Alston
+HOU
+63
+38.6
+194
+3.1
+3.8
+1
+4
+0

@@ -1,0 +1,151 @@
+Washington Wizards
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png
+49-33
+109.2 23.9 42.9 107.4
+John Wall, PG 23.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4237.png
+John Wall, PG 10.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4237.png
+Marcin Gortat, C 57.9 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2758.png
+Marcin Gortat, C 10.4 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2758.png
+John Wall, PG 2.0 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4237.png
+Marcin Gortat, C 0.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2758.png
+Bradley Beal
+3
+<a href="http://www.espn.com/nba/player/_/id/6580/bradley-beal">Bradley Beal</a>
+SG
+23
+6-5
+207
+Florida
+$22,116,750
+Bojan Bogdanovic
+44
+<a href="http://www.espn.com/nba/player/_/id/3593/bojan-bogdanovic">Bojan Bogdanovic</a>
+SG
+28
+6-8
+225
+&nbsp;
+$3,730,653
+Trey Burke
+33
+<a href="http://www.espn.com/nba/player/_/id/2579260/trey-burke">Trey Burke</a>
+PG
+24
+6-1
+191
+Michigan
+$3,386,598
+Marcin Gortat
+13
+<a href="http://www.espn.com/nba/player/_/id/2758/marcin-gortat">Marcin Gortat</a>
+C
+33
+6-11
+240
+&nbsp;
+$12,000,000
+Brandon Jennings
+7
+<a href="http://www.espn.com/nba/player/_/id/3997/brandon-jennings">Brandon Jennings</a>
+PG
+27
+6-1
+170
+&nbsp;
+$5,000,000
+Ian Mahinmi
+28
+<a href="http://www.espn.com/nba/player/_/id/2774/ian-mahinmi">Ian Mahinmi</a>
+C
+30
+6-11
+262
+&nbsp;
+$15,944,154
+Sheldon McClellan
+9
+<a href="http://www.espn.com/nba/player/_/id/2594885/sheldon-mcclellan">Sheldon McClellan</a>
+SG
+24
+6-6
+200
+Miami (FL)
+$543,471
+Chris McCullough
+1
+<a href="http://www.espn.com/nba/player/_/id/3153165/chris-mccullough">Chris McCullough</a>
+PF
+22
+6-9
+215
+Syracuse
+$1,191,480
+Markieff Morris
+5
+<a href="http://www.espn.com/nba/player/_/id/6461/markieff-morris">Markieff Morris</a>
+PF
+27
+6-10
+245
+Kansas
+$7,400,000
+Daniel Ochefu
+32
+<a href="http://www.espn.com/nba/player/_/id/2991050/daniel-ochefu">Daniel Ochefu</a>
+PF
+23
+6-11
+245
+Villanova
+$543,471
+Kelly Oubre Jr.
+12
+<a href="http://www.espn.com/nba/player/_/id/3133603/kelly-oubre-jr.">Kelly Oubre Jr.</a>
+SF
+21
+6-7
+205
+Kansas
+$2,006,640
+Otto Porter Jr.
+22
+<a href="http://www.espn.com/nba/player/_/id/2594922/otto-porter-jr.">Otto Porter Jr.</a>
+SF
+24
+6-8
+198
+Georgetown
+$5,893,981
+Tomas Satoransky
+31
+<a href="http://www.espn.com/nba/player/_/id/6621/tomas-satoransky">Tomas Satoransky</a>
+SG
+25
+6-7
+210
+&nbsp;
+$2,870,813
+Jason Smith
+14
+<a href="http://www.espn.com/nba/player/_/id/3232/jason-smith">Jason Smith</a>
+PF
+31
+7-0
+240
+Colorado State
+$5,000,000
+John Wall
+2
+<a href="http://www.espn.com/nba/player/_/id/4237/john-wall">John Wall</a>
+PG
+26
+6-4
+210
+Kentucky
+$16,957,900

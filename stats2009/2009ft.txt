@@ -1,0 +1,360 @@
+Jose Calderon
+TOR
+68
+12.8
+2.2
+2.3
+151
+154
+.981
+Ray Allen
+BOS
+79
+18.2
+3.0
+3.2
+237
+249
+.952
+Steve Nash
+PHX
+74
+15.7
+2.6
+2.8
+196
+210
+.933
+Chauncey Billups
+DEN/DET
+79
+17.7
+5.3
+5.8
+418
+458
+.913
+Mo Williams
+CLE
+81
+17.8
+2.6
+2.8
+208
+228
+.912
+D.J. Augustin
+CHA
+72
+11.8
+2.9
+3.2
+208
+233
+.893
+Dirk Nowitzki
+DAL
+81
+25.9
+6.0
+6.7
+485
+545
+.890
+David West
+NO
+76
+21.0
+4.8
+5.5
+367
+415
+.884
+Manu Ginobili
+SA
+44
+15.5
+3.8
+4.3
+168
+190
+.884
+Leandro Barbosa
+PHX
+70
+14.2
+2.4
+2.8
+171
+194
+.881
+Jason Terry
+DAL
+74
+19.6
+2.7
+3.0
+198
+225
+.880
+O.J. Mayo
+MEM
+82
+18.5
+3.0
+3.4
+247
+281
+.879
+Danny Granger
+IND
+67
+25.8
+6.0
+6.9
+404
+460
+.878
+Jamal Crawford
+GS/NY
+65
+19.7
+4.6
+5.3
+300
+344
+.872
+T.J. Ford
+IND
+74
+14.9
+3.3
+3.8
+245
+281
+.872
+C.J. Watson
+GS
+77
+9.5
+2.2
+2.5
+168
+193
+.870
+Luke Ridnour
+MIL
+72
+9.6
+1.8
+2.1
+133
+153
+.869
+Chris Paul
+NO
+78
+22.8
+5.8
+6.7
+455
+524
+.868
+Kevin Martin
+SAC
+51
+24.6
+9.0
+10.3
+457
+527
+.867
+Brandon Bass
+DAL
+81
+8.5
+2.2
+2.6
+182
+210
+.867
+Aaron Brooks
+HOU
+80
+11.2
+1.9
+2.2
+149
+172
+.866
+Yao Ming
+HOU
+77
+19.7
+4.9
+5.7
+381
+440
+.866
+Ben Gordon
+CHI
+82
+20.7
+4.0
+4.7
+330
+382
+.864
+Kevin Durant
+OKC
+74
+25.3
+6.1
+7.1
+452
+524
+.863
+Caron Butler
+WSH
+67
+20.8
+5.1
+6.0
+345
+402
+.858
+Chris Duhon
+NY
+79
+11.1
+2.3
+2.6
+179
+209
+.856
+Kobe Bryant
+LAL
+82
+26.8
+5.9
+6.9
+483
+564
+.856
+Eric Gordon
+LAC
+78
+16.1
+3.8
+4.5
+299
+350
+.854
+Jarrett Jack
+IND
+82
+13.1
+2.7
+3.2
+224
+263
+.852
+Nick Young
+WSH
+82
+10.9
+2.0
+2.4
+164
+193
+.850
+Deron Williams
+UTAH
+68
+19.4
+4.8
+5.6
+326
+384
+.849
+Richard Hamilton
+DET
+67
+18.3
+3.3
+3.9
+223
+263
+.848
+Randy Foye
+MIN
+70
+16.3
+3.3
+3.9
+230
+272
+.846
+Nate Robinson
+NY
+74
+17.2
+3.4
+4.0
+249
+296
+.841
+Drew Gooden
+CHI/SAC/SA
+51
+11.9
+2.6
+3.1
+131
+156
+.840
+Charlie Villanueva
+MIL
+78
+16.2
+2.6
+3.1
+201
+240
+.838
+Rashard Lewis
+ORL
+79
+17.7
+2.8
+3.4
+225
+269
+.836
+Amar'e Stoudemire
+PHX
+53
+21.4
+6.1
+7.3
+323
+387
+.835
+Andrea Bargnani
+TOR
+78
+15.4
+2.8
+3.4
+221
+266
+.831
+Paul Pierce
+BOS
+81
+20.5
+5.7
+6.8
+459
+553
+.830

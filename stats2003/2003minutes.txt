@@ -1,0 +1,200 @@
+Allen Iverson
+PHI
+82
+3485
+42.5
+Cuttino Mobley
+HOU
+73
+3044
+41.7
+Shawn Marion
+PHX
+81
+3373
+41.6
+Kobe Bryant
+LAL
+82
+3401
+41.5
+Antoine Walker
+BOS
+78
+3235
+41.5
+Steve Francis
+HOU
+81
+3318
+41.0
+Jalen Rose
+CHI
+82
+3351
+40.9
+Kevin Garnett
+MIN
+82
+3321
+40.5
+Jamal Mashburn
+NO
+82
+3321
+40.5
+Gary Payton
+MIL/SEA
+80
+3208
+40.1
+Stephon Marbury
+PHX
+81
+3240
+40.0
+Ricky Davis
+CLE
+79
+3131
+39.6
+Elton Brand
+LAC
+62
+2454
+39.6
+Rashard Lewis
+SEA
+77
+3044
+39.5
+Tracy McGrady
+ORL
+75
+2954
+39.4
+Ben Wallace
+DET
+73
+2873
+39.4
+Antawn Jamison
+GS
+82
+3226
+39.3
+Tim Duncan
+SA
+81
+3181
+39.3
+Jerry Stackhouse
+WSH
+70
+2747
+39.2
+Paul Pierce
+BOS
+79
+3096
+39.2
+Chris Webber
+SAC
+67
+2622
+39.1
+Dirk Nowitzki
+DAL
+80
+3117
+39.0
+Latrell Sprewell
+NY
+74
+2859
+38.6
+Michael Finley
+DAL
+69
+2642
+38.3
+Shareef Abdur-Rahim
+ATL
+81
+3087
+38.1
+Jason Terry
+ATL
+81
+3081
+38.0
+Allan Houston
+NY
+82
+3108
+37.9
+Eric Snow
+PHI
+82
+3108
+37.9
+Ray Allen
+MIL/SEA
+76
+2880
+37.9
+Shaquille O'Neal
+LAL
+67
+2535
+37.8
+Glenn Robinson
+ATL
+69
+2591
+37.6
+Jason Kidd
+NJ
+80
+2989
+37.4
+Jermaine O'Neal
+IND
+77
+2864
+37.2
+David Wesley
+NO
+73
+2710
+37.1
+Michael Jordan
+WSH
+82
+3031
+37.0
+Caron Butler
+MIA
+78
+2858
+36.6
+Andre Miller
+LAC
+80
+2913
+36.4
+Rasheed Wallace
+POR
+74
+2684
+36.3
+Karl Malone
+UTAH
+81
+2936
+36.2
+Richard Jefferson
+NJ
+80
+2879
+36.0

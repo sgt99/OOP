@@ -1,0 +1,360 @@
+Elton Brand
+ATL
+3
+1.3
+0
+0.0
+0.0
+0.00
+0.00
+Shawn Marion
+CLE
+6
+4.2
+0
+0.0
+0.0
+0.00
+0.00
+Nazr Mohammed
+CHI
+3
+4.7
+0
+0.0
+0.0
+0.00
+0.00
+Brendan Haywood
+CLE
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Gerald Wallace
+BOS
+1
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Rasual Butler
+WSH
+2
+3.5
+0
+0.0
+0.0
+0.00
+0.00
+Dahntay Jones
+LAC
+11
+1.6
+0
+0.0
+0.0
+0.00
+0.00
+Kris Humphries
+WSH
+1
+5.0
+0
+0.0
+0.0
+0.00
+0.00
+Raymond Felton
+DAL
+3
+12.0
+0
+0.0
+0.0
+0.00
+0.00
+Charlie Villanueva
+DAL
+5
+8.6
+0
+0.0
+0.0
+0.00
+0.00
+Martell Webster
+WSH
+1
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Joel Freeland
+POR
+2
+3.5
+0
+0.0
+0.0
+0.00
+0.00
+Alexis Ajinca
+NO
+3
+3.3
+0
+0.0
+0.0
+0.00
+0.00
+Brandon Rush
+GS
+3
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+Earl Clark
+BKN
+2
+6.5
+0
+0.0
+0.0
+0.00
+0.00
+Dante Cunningham
+NO
+4
+18.8
+0
+0.0
+0.0
+0.00
+0.00
+James Johnson
+TOR
+2
+6.0
+0
+0.0
+0.0
+0.00
+0.00
+Jeff Ayres
+SA
+3
+4.0
+0
+0.0
+0.0
+0.00
+0.00
+Alonzo Gee
+POR
+1
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Greg Stiemsma
+TOR
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+Ekpe Udoh
+LAC
+4
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Jon Leuer
+MEM
+4
+2.3
+0
+0.0
+0.0
+0.00
+0.00
+E'Twaun Moore
+CHI
+3
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Darius Morris
+BKN
+1
+5.0
+0
+0.0
+0.0
+0.00
+0.00
+Greg Smith
+DAL
+1
+1.0
+0
+0.0
+0.0
+0.00
+0.00
+Bernard James
+DAL
+1
+2.0
+0
+0.0
+0.0
+0.00
+0.00
+John Jenkins
+ATL
+4
+5.3
+0
+0.0
+0.0
+0.00
+0.00
+Jorge Gutierrez
+MIL
+1
+12.0
+0
+0.0
+0.0
+0.00
+0.00
+JaMychal Green
+MEM
+5
+1.6
+0
+0.0
+0.0
+0.00
+0.00
+Phil Pressey
+BOS
+2
+2.5
+0
+0.0
+0.0
+0.00
+0.00
+Russ Smith
+MEM
+2
+1.5
+0
+0.0
+0.0
+0.00
+0.00
+Dwight Powell
+DAL
+2
+1.5
+0
+0.0
+0.0
+0.00
+0.00
+Johnny O'Bryant III
+MIL
+1
+12.0
+0
+0.0
+0.0
+0.00
+0.00
+Luigi Datome
+BOS
+3
+4.7
+0
+0.0
+0.0
+0.00
+0.00
+Jordan Adams
+MEM
+4
+2.5
+0
+0.0
+0.0
+0.00
+0.00
+Tyler Ennis
+MIL
+1
+16.0
+0
+0.0
+0.0
+0.00
+0.00
+Kosta Koufos
+MEM
+11
+11.5
+1
+0.1
+0.4
+4.00
+4.00
+Kirk Hinrich
+CHI
+10
+12.6
+1
+0.1
+0.4
+11.00
+3.00
+Mike Miller
+CLE
+9
+7.2
+1
+0.1
+0.7
+0.00
+1.00
+Spencer Hawes
+LAC
+8
+7.1
+1
+0.1
+0.8
+5.00
+2.00

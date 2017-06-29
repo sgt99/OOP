@@ -1,0 +1,360 @@
+Luke Jackson
+TOR
+3
+2.0
+2.0
+2.0
+6
+6
+1.000
+JR Smith
+DEN
+4
+4.5
+1.5
+1.5
+6
+6
+1.000
+Lindsey Hunter
+DET
+13
+1.8
+0.4
+0.4
+5
+5
+1.000
+James Posey
+MIA
+4
+7.8
+1.3
+1.3
+5
+5
+1.000
+Austin Croshere
+DAL
+3
+5.0
+1.3
+1.3
+4
+4
+1.000
+Smush Parker
+LAL
+5
+1.8
+0.8
+0.8
+4
+4
+1.000
+Damon Jones
+CLE
+11
+2.4
+0.3
+0.3
+3
+3
+1.000
+Nazr Mohammed
+DET
+2
+2.5
+1.5
+1.5
+3
+3
+1.000
+Dikembe Mutombo
+HOU
+7
+1.3
+0.4
+0.4
+3
+3
+1.000
+Rasho Nesterovic
+TOR
+5
+3.4
+0.6
+0.6
+3
+3
+1.000
+Darius Songaila
+WSH
+4
+10.8
+0.8
+0.8
+3
+3
+1.000
+Brian Cook
+LAL
+5
+3.6
+0.6
+0.6
+3
+3
+1.000
+Brent Barry
+SA
+19
+3.1
+0.1
+0.1
+2
+2
+1.000
+Darrick Martin
+TOR
+2
+1.0
+1.0
+1.0
+2
+2
+1.000
+Jake Tsakalidis
+HOU
+1
+2.0
+2.0
+2.0
+2
+2
+1.000
+Carlos Arroyo
+ORL
+3
+4.0
+0.7
+0.7
+2
+2
+1.000
+Matt Bonner
+SA
+9
+0.8
+0.2
+0.2
+2
+2
+1.000
+Jason Kapono
+MIA
+4
+5.0
+0.5
+0.5
+2
+2
+1.000
+Marcus Banks
+PHX
+2
+1.0
+1.0
+1.0
+2
+2
+1.000
+Vassilis Spanoulis
+HOU
+1
+4.0
+2.0
+2.0
+2
+2
+1.000
+Beno Udrih
+SA
+8
+0.3
+0.3
+0.3
+2
+2
+1.000
+Kelenna Azubuike
+GS
+6
+0.7
+0.3
+0.3
+2
+2
+1.000
+Andray Blatche
+WSH
+2
+4.5
+0.5
+0.5
+1
+1
+1.000
+Donell Taylor
+WSH
+2
+1.5
+0.5
+0.5
+1
+1
+1.000
+Bostjan Nachbar
+NJ
+12
+9.9
+1.8
+1.8
+21
+22
+.955
+Derek Fisher
+UTAH
+16
+9.5
+2.6
+2.8
+42
+45
+.933
+Richard Jefferson
+NJ
+12
+19.7
+5.1
+5.5
+61
+66
+.924
+Ben Gordon
+CHI
+10
+20.4
+5.8
+6.3
+58
+63
+.921
+Kobe Bryant
+LAL
+5
+32.8
+6.8
+7.4
+34
+37
+.919
+Jameer Nelson
+ORL
+4
+14.3
+2.5
+2.8
+10
+11
+.909
+Antoine Wright
+NJ
+12
+3.8
+0.8
+0.8
+9
+10
+.900
+Michael Finley
+SA
+20
+11.3
+1.8
+2.0
+35
+39
+.897
+Steve Nash
+PHX
+11
+18.9
+3.7
+4.2
+41
+46
+.891
+Daniel Gibson
+CLE
+20
+8.3
+1.9
+2.2
+38
+43
+.884
+Kurt Thomas
+PHX
+11
+7.5
+1.4
+1.5
+15
+17
+.882
+Yao Ming
+HOU
+7
+25.1
+9.4
+10.7
+66
+75
+.880
+Jerry Stackhouse
+DAL
+6
+14.3
+4.8
+5.5
+29
+33
+.879
+Gordan Giricek
+UTAH
+17
+6.1
+0.8
+0.9
+14
+16
+.875
+Shane Battier
+HOU
+7
+10.3
+1.0
+1.1
+7
+8
+.875
+Richard Hamilton
+DET
+16
+18.8
+4.8
+5.6
+77
+89
+.865
