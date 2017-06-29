@@ -1,0 +1,200 @@
+Steve Francis
+HOU
+5
+222
+44.4
+Kobe Bryant
+LAL
+22
+973
+44.2
+Jim Jackson
+HOU
+5
+221
+44.2
+Kevin Garnett
+MIN
+18
+783
+43.5
+Stephon Marbury
+NY
+4
+174
+43.5
+Jason Kidd
+NJ
+11
+474
+43.1
+Peja Stojakovic
+SAC
+12
+517
+43.1
+Latrell Sprewell
+MIN
+18
+771
+42.8
+Dirk Nowitzki
+DAL
+5
+212
+42.4
+Cuttino Mobley
+HOU
+5
+210
+42.0
+Penny Hardaway
+NY
+4
+168
+42.0
+Richard Jefferson
+NJ
+11
+460
+41.8
+Shaquille O'Neal
+LAL
+22
+917
+41.7
+Mike Bibby
+SAC
+12
+497
+41.4
+Tim Duncan
+SA
+10
+405
+40.5
+Paul Pierce
+BOS
+4
+162
+40.5
+Richard Hamilton
+DET
+23
+924
+40.2
+Ben Wallace
+DET
+23
+924
+40.2
+Desmond Mason
+MIL
+5
+198
+39.6
+Steve Nash
+DAL
+5
+197
+39.4
+Lamar Odom
+MIA
+13
+512
+39.4
+Caron Butler
+MIA
+13
+511
+39.3
+Dwyane Wade
+MIA
+13
+510
+39.2
+Michael Finley
+DAL
+5
+196
+39.2
+Metta World Peace
+IND
+15
+584
+38.9
+Marcus Camby
+DEN
+5
+194
+38.8
+Tony Parker
+SA
+10
+386
+38.6
+Doug Christie
+SAC
+12
+461
+38.4
+Michael Redd
+MIL
+5
+192
+38.4
+Chauncey Billups
+DET
+23
+881
+38.3
+Karl Malone
+LAL
+21
+798
+38.0
+Jermaine O'Neal
+IND
+16
+604
+37.8
+Kerry Kittles
+NJ
+11
+415
+37.7
+Kenyon Martin
+NJ
+11
+409
+37.2
+Chris Webber
+SAC
+12
+446
+37.2
+Baron Davis
+NO
+7
+260
+37.1
+Yao Ming
+HOU
+5
+185
+37.0
+Marquis Daniels
+DAL
+5
+184
+36.8
+Eddie Jones
+MIA
+13
+478
+36.8
+P.J. Brown
+NO
+7
+256
+36.6

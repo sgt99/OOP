@@ -1,0 +1,151 @@
+Denver Nuggets
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png
+40-42
+111.7 25.3 46.4 111.2
+Danilo Gallinari, SF 18.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3428.png
+Jameer Nelson, PG 5.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2439.png
+Nikola Jokic, PF 57.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png
+Nikola Jokic, PF 9.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png
+Nikola Jokic, PF 0.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png
+Nikola Jokic, PF 0.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png
+Darrell Arthur
+00
+<a href="http://www.espn.com/nba/player/_/id/3413/darrell-arthur">Darrell Arthur</a>
+PF
+29
+6-9
+235
+Kansas
+$8,070,175
+Will Barton
+5
+<a href="http://www.espn.com/nba/player/_/id/6579/will-barton">Will Barton</a>
+SG
+26
+6-6
+175
+Memphis
+$3,533,333
+Malik Beasley
+25
+<a href="http://www.espn.com/nba/player/_/id/3907822/malik-beasley">Malik Beasley</a>
+SG
+20
+6-5
+196
+Florida State
+$1,627,320
+Wilson Chandler
+21
+<a href="http://www.espn.com/nba/player/_/id/3194/wilson-chandler">Wilson Chandler</a>
+SF
+30
+6-8
+225
+DePaul
+$11,233,146
+Kenneth Faried
+35
+<a href="http://www.espn.com/nba/player/_/id/6433/kenneth-faried">Kenneth Faried</a>
+PF
+27
+6-8
+228
+Morehead State
+$12,078,652
+Danilo Gallinari
+8
+<a href="http://www.espn.com/nba/player/_/id/3428/danilo-gallinari">Danilo Gallinari</a>
+SF
+28
+6-10
+225
+&nbsp;
+$15,050,000
+Gary Harris
+14
+<a href="http://www.espn.com/nba/player/_/id/2999547/gary-harris">Gary Harris</a>
+SG
+22
+6-4
+210
+Michigan State
+$1,655,880
+Juan Hernangomez
+41
+<a href="http://www.espn.com/nba/player/_/id/4017839/juan-hernangomez">Juan Hernangomez</a>
+PF
+21
+6-9
+230
+&nbsp;
+$1,987,440
+Roy Hibbert
+34
+<a href="http://www.espn.com/nba/player/_/id/3436/roy-hibbert">Roy Hibbert</a>
+C
+30
+7-2
+270
+Georgetown
+$5,000,000
+Nikola Jokic
+15
+<a href="http://www.espn.com/nba/player/_/id/3112335/nikola-jokic">Nikola Jokic</a>
+PF
+22
+6-10
+250
+&nbsp;
+$1,358,500
+Mike Miller
+3
+<a href="http://www.espn.com/nba/player/_/id/558/mike-miller">Mike Miller</a>
+SG
+37
+6-8
+218
+Florida
+$3,500,000
+Emmanuel Mudiay
+0
+<a href="http://www.espn.com/nba/player/_/id/3892818/emmanuel-mudiay">Emmanuel Mudiay</a>
+PG
+21
+6-5
+200
+&nbsp;
+$3,241,800
+Jamal Murray
+27
+<a href="http://www.espn.com/nba/player/_/id/3936299/jamal-murray">Jamal Murray</a>
+SG
+20
+6-4
+207
+Kentucky
+$3,210,840
+Jameer Nelson
+1
+<a href="http://www.espn.com/nba/player/_/id/2439/jameer-nelson">Jameer Nelson</a>
+PG
+35
+6-0
+190
+Saint Joseph's
+$4,540,525
+Mason Plumlee
+24
+<a href="http://www.espn.com/nba/player/_/id/2488653/mason-plumlee">Mason Plumlee</a>
+C
+27
+6-11
+255
+Duke
+$2,328,530

@@ -1,0 +1,200 @@
+Anthony Davis
+NO
+4
+172
+43.0
+LeBron James
+CLE
+20
+844
+42.2
+Jimmy Butler
+CHI
+12
+506
+42.2
+Bradley Beal
+WSH
+10
+418
+41.8
+Nicolas Batum
+POR
+5
+209
+41.8
+LaMarcus Aldridge
+POR
+5
+208
+41.6
+Joe Johnson
+BKN
+6
+249
+41.5
+Damian Lillard
+POR
+5
+201
+40.2
+Blake Griffin
+LAC
+14
+557
+39.8
+DeMar DeRozan
+TOR
+4
+159
+39.8
+Monta Ellis
+DAL
+5
+197
+39.4
+Stephen Curry
+GS
+21
+826
+39.3
+John Wall
+WSH
+7
+273
+39.0
+Brook Lopez
+BKN
+6
+234
+39.0
+Khris Middleton
+MIL
+6
+232
+38.7
+JJ Redick
+LAC
+14
+540
+38.6
+Trevor Ariza
+HOU
+17
+655
+38.5
+Derrick Rose
+CHI
+12
+454
+37.8
+Marc Gasol
+MEM
+11
+416
+37.8
+Kyle Korver
+ATL
+14
+526
+37.6
+James Harden
+HOU
+17
+636
+37.4
+Draymond Green
+GS
+21
+784
+37.3
+Chris Paul
+LAC
+12
+445
+37.1
+Chandler Parsons
+DAL
+1
+37
+37.0
+Tristan Thompson
+CLE
+20
+727
+36.4
+Klay Thompson
+GS
+21
+761
+36.2
+Dirk Nowitzki
+DAL
+5
+181
+36.2
+Eric Gordon
+NO
+4
+143
+35.8
+Tim Duncan
+SA
+7
+250
+35.7
+Kawhi Leonard
+SA
+7
+250
+35.7
+Kyrie Irving
+CLE
+13
+464
+35.7
+Paul Millsap
+ATL
+16
+566
+35.4
+DeMarre Carroll
+ATL
+16
+558
+34.9
+Iman Shumpert
+CLE
+20
+695
+34.8
+Zach Randolph
+MEM
+11
+382
+34.7
+DeAndre Jordan
+LAC
+14
+482
+34.4
+Bojan Bogdanovic
+BKN
+6
+206
+34.3
+Dwight Howard
+HOU
+17
+574
+33.8
+Giannis Antetokounmpo
+MIL
+6
+201
+33.5
+Courtney Lee
+MEM
+11
+367
+33.4

@@ -1,0 +1,360 @@
+Tim Duncan
+SA
+9
+42.2
+39
+22
+4.33
+4.93
+1.77
+Raef LaFrentz
+DAL
+8
+30.6
+22
+39
+2.75
+4.31
+0.56
+Ben Wallace
+DET
+10
+40.8
+26
+24
+2.60
+3.06
+1.08
+Elden Campbell
+CHA
+9
+28.2
+23
+34
+2.56
+4.35
+0.68
+Shaquille O'Neal
+LAL
+19
+40.8
+48
+62
+2.53
+2.97
+0.77
+Andrei Kirilenko
+UTAH
+4
+30.5
+10
+10
+2.50
+3.93
+1.00
+Clifford Robinson
+DET
+10
+40.9
+19
+28
+1.90
+2.23
+0.68
+Tony Battie
+BOS
+16
+27.7
+30
+51
+1.88
+3.25
+0.59
+Jamaal Magloire
+CHA
+8
+21.0
+15
+30
+1.88
+4.29
+0.50
+Dikembe Mutombo
+PHI
+5
+34.6
+9
+16
+1.80
+2.50
+0.56
+Tracy McGrady
+ORL
+4
+44.5
+7
+11
+1.75
+1.89
+0.64
+Kevin Garnett
+MIN
+3
+43.3
+5
+11
+1.67
+1.85
+0.45
+Keon Clark
+TOR
+5
+34.8
+8
+19
+1.60
+2.21
+0.42
+Jermaine O'Neal
+IND
+5
+38.4
+8
+24
+1.60
+2.00
+0.33
+Chris Webber
+SAC
+16
+41.7
+25
+64
+1.56
+1.80
+0.39
+Donyell Marshall
+UTAH
+4
+31.0
+6
+5
+1.50
+2.32
+1.20
+Greg Ostertag
+UTAH
+4
+21.8
+6
+14
+1.50
+3.31
+0.43
+Derrick Coleman
+PHI
+5
+38.2
+7
+10
+1.40
+1.76
+0.70
+Todd MacCulloch
+NJ
+20
+19.2
+27
+51
+1.35
+3.38
+0.53
+P.J. Brown
+CHA
+9
+36.8
+12
+37
+1.33
+1.74
+0.32
+Kenyon Martin
+NJ
+20
+37.5
+25
+86
+1.25
+1.60
+0.29
+Vlade Divac
+SAC
+16
+33.4
+20
+76
+1.25
+1.79
+0.26
+Paul Pierce
+BOS
+16
+42.0
+20
+52
+1.25
+1.43
+0.38
+Vin Baker
+SEA
+5
+28.8
+6
+23
+1.20
+2.00
+0.26
+Antonio Davis
+TOR
+5
+40.4
+5
+17
+1.00
+1.19
+0.29
+Jerome James
+SEA
+5
+14.0
+5
+18
+1.00
+3.43
+0.28
+Patrick Ewing
+ORL
+4
+16.8
+4
+12
+1.00
+2.87
+0.33
+Ansu Sesay
+SEA
+4
+15.0
+4
+8
+1.00
+3.20
+0.50
+Dale Davis
+POR
+3
+23.3
+3
+16
+1.00
+2.06
+0.19
+Michael Stewart
+TOR
+1
+8.0
+1
+2
+1.00
+6.00
+0.50
+Kobe Bryant
+LAL
+19
+43.8
+17
+65
+0.89
+0.98
+0.26
+Robert Horry
+LAL
+19
+37.0
+16
+66
+0.84
+1.09
+0.24
+Aaron Williams
+NJ
+20
+20.8
+16
+78
+0.80
+1.85
+0.21
+Brent Barry
+SEA
+5
+29.8
+4
+12
+0.80
+1.29
+0.33
+Hakeem Olajuwon
+TOR
+5
+17.2
+4
+9
+0.80
+2.23
+0.44
+Dirk Nowitzki
+DAL
+8
+44.6
+6
+27
+0.75
+0.81
+0.22
+Karl Malone
+UTAH
+4
+40.8
+3
+11
+0.75
+0.88
+0.27
+David Robinson
+SA
+4
+20.3
+3
+14
+0.75
+1.78
+0.21
+Bruce Bowen
+SA
+10
+34.5
+7
+28
+0.70
+0.97
+0.25
+George Lynch
+CHA
+9
+31.8
+6
+26
+0.67
+1.01
+0.23

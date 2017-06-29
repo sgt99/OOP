@@ -1,0 +1,151 @@
+Atlanta Hawks
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/atl.png
+43-39
+103.2 23.6 44.3 104.0
+Paul Millsap, PF 18.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3015.png
+Dennis Schroder, PG 6.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032979.png
+Dwight Howard, C 63.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2384.png
+Dwight Howard, C 12.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2384.png
+Thabo Sefolosha, SF 1.5 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3028.png
+Dwight Howard, C 1.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2384.png
+Kent Bazemore
+24
+<a href="http://www.espn.com/nba/player/_/id/6637/kent-bazemore">Kent Bazemore</a>
+SF
+27
+6-5
+201
+Old Dominion
+$15,730,338
+DeAndre' Bembry
+95
+<a href="http://www.espn.com/nba/player/_/id/3062667/deandre'-bembry">DeAndre' Bembry</a>
+SF
+22
+6-6
+210
+Saint Joseph's
+$1,499,760
+Jose Calderon
+13
+<a href="http://www.espn.com/nba/player/_/id/2806/jose-calderon">Jose Calderon</a>
+PG
+35
+6-3
+200
+&nbsp;
+$247,991
+Malcolm Delaney
+5
+<a href="http://www.espn.com/nba/player/_/id/2282205/malcolm-delaney">Malcolm Delaney</a>
+PG
+28
+6-3
+190
+Virginia Tech
+$2,500,000
+Mike Dunleavy
+34
+<a href="http://www.espn.com/nba/player/_/id/1708/mike-dunleavy">Mike Dunleavy</a>
+SG
+36
+6-9
+230
+Duke
+$4,837,500
+Tim Hardaway Jr.
+10
+<a href="http://www.espn.com/nba/player/_/id/2528210/tim-hardaway-jr.">Tim Hardaway Jr.</a>
+SG
+25
+6-6
+205
+Michigan
+$2,281,605
+Dwight Howard
+8
+<a href="http://www.espn.com/nba/player/_/id/2384/dwight-howard">Dwight Howard</a>
+C
+31
+6-11
+265
+&nbsp;
+$23,180,275
+Kris Humphries
+43
+<a href="http://www.espn.com/nba/player/_/id/2433/kris-humphries">Kris Humphries</a>
+PF
+32
+6-9
+235
+Minnesota
+$4,000,000
+Ersan Ilyasova
+7
+<a href="http://www.espn.com/nba/player/_/id/2767/ersan-ilyasova">Ersan Ilyasova</a>
+PF
+30
+6-10
+235
+&nbsp;
+$8,400,000
+Ryan Kelly
+30
+<a href="http://www.espn.com/nba/player/_/id/2488651/ryan-kelly">Ryan Kelly</a>
+PF
+26
+6-11
+230
+Duke
+$286,785
+Paul Millsap
+4
+<a href="http://www.espn.com/nba/player/_/id/3015/paul-millsap">Paul Millsap</a>
+PF
+32
+6-8
+246
+Louisiana Tech
+$20,072,033
+Mike Muscala
+31
+<a href="http://www.espn.com/nba/player/_/id/2490089/mike-muscala">Mike Muscala</a>
+PF
+25
+6-11
+240
+Bucknell
+$1,015,696
+Taurean Prince
+12
+<a href="http://www.espn.com/nba/player/_/id/2990962/taurean-prince">Taurean Prince</a>
+SF
+23
+6-8
+220
+Baylor
+$2,318,280
+Dennis Schroder
+17
+<a href="http://www.espn.com/nba/player/_/id/3032979/dennis-schroder">Dennis Schroder</a>
+PG
+23
+6-1
+172
+&nbsp;
+$2,708,582
+Thabo Sefolosha
+25
+<a href="http://www.espn.com/nba/player/_/id/3028/thabo-sefolosha">Thabo Sefolosha</a>
+SF
+33
+6-7
+220
+&nbsp;
+$3,850,000
