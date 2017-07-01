@@ -1,0 +1,360 @@
+Lawrence Funderburke
+CHI
+2
+10.5
+0
+0.0
+0.0
+0.00
+0.00
+Mamadou N'diaye
+LAC
+11
+6.5
+0
+0.0
+0.0
+0.00
+0.00
+Brandin Knight
+HOU
+1
+3.0
+0
+0.0
+0.0
+0.00
+0.00
+Tony Bobbitt
+LAL
+2
+6.0
+0
+0.0
+0.0
+0.00
+0.00
+Awvee Storey
+NJ
+9
+3.6
+0
+0.0
+0.0
+0.00
+0.00
+Ryan Bowen
+HOU
+66
+9.2
+7
+0.1
+0.6
+2.57
+3.29
+Mark Pope
+DEN
+9
+3.0
+1
+0.1
+1.8
+1.00
+1.00
+Paul Shirley
+PHX
+9
+3.3
+1
+0.1
+1.6
+3.00
+0.00
+Andrew DeClercq
+ORL
+8
+6.1
+1
+0.1
+1.0
+0.00
+2.00
+Andre Emmett
+MEM
+8
+3.5
+1
+0.1
+1.7
+0.00
+0.00
+Mateen Cleaves
+SEA
+14
+4.6
+2
+0.1
+1.5
+3.50
+1.00
+Geno Carlisle
+POR
+6
+2.7
+1
+0.2
+3.0
+1.00
+0.00
+Darvin Ham
+DET
+47
+5.9
+8
+0.2
+1.4
+0.63
+0.75
+Kaniel Dickens
+NJ
+11
+5.5
+2
+0.2
+1.6
+0.50
+1.00
+Maurice Baker
+LAC/POR
+5
+3.8
+1
+0.2
+2.5
+1.00
+1.00
+Corsley Edwards
+NO
+10
+11.0
+2
+0.2
+0.9
+1.50
+1.50
+Luke Jackson
+CLE
+10
+4.3
+2
+0.2
+2.2
+1.50
+0.00
+Bo Outlaw
+PHX
+39
+5.5
+8
+0.2
+1.8
+1.63
+0.75
+Justin Reed
+BOS
+23
+5.3
+5
+0.2
+2.0
+2.00
+0.60
+Kevin Ollie
+PHI
+26
+6.1
+6
+0.2
+1.8
+3.17
+0.83
+Yuta Tabuse
+PHX
+4
+4.3
+1
+0.3
+2.8
+3.00
+0.00
+Robert Swift
+SEA
+16
+4.5
+4
+0.3
+2.7
+0.50
+0.25
+ZhiZhi Wang
+MIA
+20
+4.6
+5
+0.3
+2.6
+1.00
+0.60
+Scott Williams
+CLE
+19
+8.0
+5
+0.3
+1.6
+1.60
+0.80
+Michael Curry
+IND
+18
+13.8
+5
+0.3
+1.0
+3.00
+1.00
+Michael Bradley
+ORL/PHI/SAC
+18
+6.6
+5
+0.3
+2.0
+1.00
+0.20
+Torraye Braggs
+HOU
+7
+3.4
+2
+0.3
+4.0
+0.00
+0.00
+Dion Glover
+SA
+7
+9.7
+2
+0.3
+1.4
+2.00
+1.50
+Bruno Sundov
+NY
+21
+3.5
+6
+0.3
+3.9
+0.33
+0.33
+Erik Daniels
+SAC
+21
+3.4
+6
+0.3
+4.0
+0.67
+0.33
+Mike Wilks
+SA
+48
+5.8
+14
+0.3
+2.4
+2.36
+1.00
+Mark Jones
+ORL
+10
+11.6
+3
+0.3
+1.2
+2.00
+1.67
+Slava Medvedenko
+LAL
+43
+9.8
+13
+0.3
+1.5
+1.00
+0.69
+DeSagana Diop
+CLE
+39
+7.8
+12
+0.3
+1.9
+1.25
+0.67
+Calvin Booth
+DAL/MIL
+51
+8.8
+16
+0.3
+1.7
+0.50
+0.94
+John Edwards
+IND
+25
+5.6
+8
+0.3
+2.8
+0.38
+0.38
+Richie Frahm
+POR
+43
+11.6
+14
+0.3
+1.3
+2.14
+1.07
+Donnell Harvey
+NJ
+3
+5.3
+1
+0.3
+3.0
+1.00
+1.00
+Jackie Butler
+NY
+3
+1.7
+1
+0.3
+9.6
+0.00
+1.00
+Frank Williams
+CHI
+9
+7.9
+3
+0.3
+2.0
+3.67
+0.67

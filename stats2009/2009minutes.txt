@@ -1,0 +1,200 @@
+Andre Iguodala
+PHI
+82
+3269
+39.9
+Stephen Jackson
+GS
+59
+2339
+39.6
+Joe Johnson
+ATL
+79
+3124
+39.5
+David West
+NO
+76
+2982
+39.2
+Kevin Durant
+OKC
+74
+2885
+39.0
+Dwyane Wade
+MIA
+79
+3048
+38.6
+Caron Butler
+WSH
+67
+2585
+38.6
+Chris Paul
+NO
+78
+3002
+38.5
+Antawn Jamison
+WSH
+81
+3096
+38.2
+Jamal Crawford
+GS/NY
+65
+2479
+38.1
+O.J. Mayo
+MEM
+82
+3120
+38.0
+Chris Bosh
+TOR
+77
+2928
+38.0
+LeBron James
+CLE
+81
+3054
+37.7
+Dirk Nowitzki
+DAL
+81
+3050
+37.7
+Raymond Felton
+CHA
+82
+3086
+37.6
+Gerald Wallace
+CHA
+71
+2669
+37.6
+Paul Pierce
+BOS
+81
+3035
+37.5
+John Salmons
+CHI/SAC
+79
+2959
+37.5
+Al Thornton
+LAC
+71
+2654
+37.4
+Tayshaun Prince
+DET
+82
+3057
+37.3
+Rudy Gay
+MEM
+79
+2945
+37.3
+Brandon Roy
+POR
+78
+2903
+37.2
+LaMarcus Aldridge
+POR
+81
+3004
+37.1
+Derrick Rose
+CHI
+81
+3000
+37.0
+Pau Gasol
+LAL
+81
+2999
+37.0
+Deron Williams
+UTAH
+68
+2505
+36.8
+Vince Carter
+NJ
+80
+2946
+36.8
+Jeff Green
+OKC
+78
+2870
+36.8
+Chris Duhon
+NY
+79
+2906
+36.8
+Allen Iverson
+DEN/DET
+57
+2093
+36.7
+Ben Gordon
+CHI
+82
+2999
+36.6
+Hedo Turkoglu
+ORL
+77
+2815
+36.6
+Ray Allen
+BOS
+79
+2876
+36.4
+Andre Miller
+PHI
+82
+2976
+36.3
+Rashard Lewis
+ORL
+79
+2859
+36.2
+Danny Granger
+IND
+67
+2424
+36.2
+Devin Harris
+NJ
+69
+2494
+36.1
+Kobe Bryant
+LAL
+82
+2960
+36.1
+Richard Jefferson
+MIL
+82
+2939
+35.8
+Shawn Marion
+MIA/TOR
+69
+2470
+35.8
