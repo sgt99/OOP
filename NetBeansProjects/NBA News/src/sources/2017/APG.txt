@@ -1,0 +1,400 @@
+Russell Westbrook
+OKC
+5
+38.8
+54
+10.8
+30
+6.0
+13.4
+1.80
+John Wall
+WSH
+13
+39.0
+134
+10.3
+55
+4.2
+12.7
+2.44
+Rajon Rondo
+CHI
+2
+33.5
+20
+10.0
+4
+2.0
+14.3
+5.00
+Chris Paul
+LAC
+7
+37.1
+69
+9.9
+19
+2.7
+12.7
+3.63
+James Harden
+HOU
+11
+37.0
+93
+8.5
+59
+5.4
+11.0
+1.58
+Dennis Schroder
+ATL
+6
+35.2
+46
+7.7
+10
+1.7
+10.5
+4.60
+Paul George
+IND
+4
+43.0
+29
+7.3
+13
+3.3
+8.1
+2.23
+Draymond Green
+GS
+12
+34.7
+86
+7.2
+24
+2.0
+9.9
+3.58
+LeBron James
+CLE
+13
+40.9
+91
+7.0
+51
+3.9
+8.2
+1.78
+Mike Conley
+MEM
+6
+37.3
+42
+7.0
+12
+2.0
+9.0
+3.50
+Isaiah Thomas
+BOS
+15
+34.7
+100
+6.7
+50
+3.3
+9.2
+2.00
+Jeff Teague
+IND
+4
+35.5
+25
+6.3
+8
+2.0
+8.5
+3.13
+Kyle Lowry
+TOR
+8
+37.5
+47
+5.9
+17
+2.1
+7.5
+2.76
+Kyrie Irving
+CLE
+13
+34.8
+73
+5.6
+32
+2.5
+7.8
+2.28
+Stephen Curry
+GS
+12
+34.3
+67
+5.6
+39
+3.3
+7.8
+1.72
+Al Horford
+BOS
+18
+33.9
+97
+5.4
+33
+1.8
+7.6
+2.94
+Khris Middleton
+MIL
+6
+38.5
+32
+5.3
+11
+1.8
+6.6
+2.91
+Marcus Smart
+BOS
+18
+29.9
+85
+4.7
+38
+2.1
+7.6
+2.24
+Kawhi Leonard
+SA
+12
+35.8
+55
+4.6
+26
+2.2
+6.2
+2.12
+Paul Millsap
+ATL
+6
+36.5
+26
+4.3
+23
+3.8
+5.7
+1.13
+Jimmy Butler
+CHI
+6
+39.8
+26
+4.3
+15
+2.5
+5.2
+1.73
+Marc Gasol
+MEM
+6
+40.0
+25
+4.2
+15
+2.5
+5.0
+1.67
+Dwyane Wade
+CHI
+6
+31.7
+24
+4.0
+10
+1.7
+6.1
+2.40
+Giannis Antetokounmpo
+MIL
+6
+40.5
+24
+4.0
+20
+3.3
+4.7
+1.20
+Jusuf Nurkic
+POR
+1
+17.0
+4
+4.0
+3
+3.0
+11.3
+1.33
+Evan Turner
+POR
+4
+31.0
+15
+3.8
+7
+1.8
+5.8
+2.14
+Kevin Durant
+GS
+10
+33.4
+37
+3.7
+27
+2.7
+5.3
+1.37
+George Hill
+UTAH
+8
+35.1
+29
+3.6
+13
+1.6
+5.0
+2.23
+Malcolm Brogdon
+MIL
+6
+30.5
+21
+3.5
+12
+2.0
+5.5
+1.75
+DeMar DeRozan
+TOR
+10
+37.3
+34
+3.4
+25
+2.5
+4.4
+1.36
+Gordon Hayward
+UTAH
+11
+37.4
+37
+3.4
+24
+2.2
+4.3
+1.54
+Kent Bazemore
+ATL
+6
+25.0
+20
+3.3
+16
+2.7
+6.4
+1.25
+Joe Ingles
+UTAH
+11
+30.3
+36
+3.3
+16
+1.5
+5.2
+2.25
+Damian Lillard
+POR
+4
+37.8
+13
+3.3
+13
+3.3
+4.1
+1.00
+Tony Parker
+SA
+8
+26.4
+25
+3.1
+12
+1.5
+5.7
+2.08
+Cory Joseph
+TOR
+10
+21.2
+31
+3.1
+14
+1.4
+7.0
+2.21
+Andre Iguodala
+GS
+11
+25.3
+34
+3.1
+11
+1.0
+5.9
+3.09
+Patrick Beverley
+HOU
+11
+29.5
+33
+3.0
+18
+1.6
+4.9
+1.83
+David West
+GS
+12
+14.3
+33
+2.8
+8
+0.7
+9.3
+4.13
+Lance Stephenson
+IND
+4
+26.8
+11
+2.8
+4
+1.0
+4.9
+2.75

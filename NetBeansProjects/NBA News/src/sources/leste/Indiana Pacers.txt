@@ -1,0 +1,151 @@
+Indiana Pacers
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png
+42-40
+105.1 22.5 42.0 105.3
+Paul George, SF 23.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4251.png
+Jeff Teague, PG 7.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4015.png
+Thaddeus Young, PF 52.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3244.png
+Myles Turner, C 7.3 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133628.png
+Paul George, SF 1.6 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4251.png
+Myles Turner, C 2.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133628.png
+Lavoy Allen
+5
+<a href="http://www.espn.com/nba/player/_/id/6424/lavoy-allen">Lavoy Allen</a>
+PF
+28
+6-9
+260
+Temple
+$4,000,000
+Aaron Brooks
+00
+<a href="http://www.espn.com/nba/player/_/id/3192/aaron-brooks">Aaron Brooks</a>
+PG
+32
+6-0
+161
+Oregon
+$2,700,000
+Rakeem Christmas
+25
+<a href="http://www.espn.com/nba/player/_/id/2596110/rakeem-christmas">Rakeem Christmas</a>
+PF
+25
+6-9
+250
+Syracuse
+$1,052,342
+Monta Ellis
+11
+<a href="http://www.espn.com/nba/player/_/id/2751/monta-ellis">Monta Ellis</a>
+SG
+31
+6-3
+185
+&nbsp;
+$10,763,500
+Paul George
+13
+<a href="http://www.espn.com/nba/player/_/id/4251/paul-george">Paul George</a>
+SF
+27
+6-9
+220
+Fresno State
+$18,314,532
+Al Jefferson
+7
+<a href="http://www.espn.com/nba/player/_/id/2389/al-jefferson">Al Jefferson</a>
+C
+32
+6-10
+289
+&nbsp;
+$10,314,532
+CJ Miles
+0
+<a href="http://www.espn.com/nba/player/_/id/2778/cj-miles">CJ Miles</a>
+SF
+30
+6-6
+225
+&nbsp;
+$4,583,450
+Georges Niang
+32
+<a href="http://www.espn.com/nba/player/_/id/2990969/georges-niang">Georges Niang</a>
+SF
+23
+6-8
+230
+Iowa State
+$650,000
+Glenn Robinson III
+40
+<a href="http://www.espn.com/nba/player/_/id/2991039/glenn-robinson-iii">Glenn Robinson III</a>
+SG
+23
+6-6
+222
+Michigan
+$1,050,500
+Kevin Seraphin
+1
+<a href="http://www.espn.com/nba/player/_/id/4289/kevin-seraphin">Kevin Seraphin</a>
+C
+27
+6-10
+278
+&nbsp;
+$1,800,000
+Lance Stephenson
+6
+<a href="http://www.espn.com/nba/player/_/id/4244/lance-stephenson">Lance Stephenson</a>
+SG
+26
+6-5
+230
+Cincinnati
+$4,000,000
+Jeff Teague
+44
+<a href="http://www.espn.com/nba/player/_/id/4015/jeff-teague">Jeff Teague</a>
+PG
+29
+6-2
+186
+Wake Forest
+$8,800,000
+Myles Turner
+33
+<a href="http://www.espn.com/nba/player/_/id/3133628/myles-turner">Myles Turner</a>
+C
+21
+6-11
+243
+Texas
+$2,463,840
+Joe Young
+3
+<a href="http://www.espn.com/nba/player/_/id/2528386/joe-young">Joe Young</a>
+PG
+24
+6-2
+180
+Oregon
+$1,052,342
+Thaddeus Young
+21
+<a href="http://www.espn.com/nba/player/_/id/3244/thaddeus-young">Thaddeus Young</a>
+PF
+28
+6-8
+221
+Georgia Tech
+$14,153,652

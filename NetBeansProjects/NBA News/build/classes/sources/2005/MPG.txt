@@ -1,0 +1,200 @@
+Allen Iverson
+PHI
+5
+238
+47.6
+Jason Kidd
+NJ
+4
+182
+45.5
+Gilbert Arenas
+WSH
+10
+450
+45.0
+Vince Carter
+NJ
+4
+179
+44.8
+Richard Hamilton
+DET
+25
+1079
+43.2
+Tracy McGrady
+HOU
+7
+301
+43.0
+Dirk Nowitzki
+DAL
+13
+551
+42.4
+Shawn Marion
+PHX
+15
+635
+42.3
+Tayshaun Prince
+DET
+25
+1023
+40.9
+Dwyane Wade
+MIA
+14
+571
+40.8
+Steve Nash
+PHX
+15
+610
+40.7
+Peja Stojakovic
+SAC
+5
+203
+40.6
+Larry Hughes
+WSH
+10
+401
+40.1
+Eddie Jones
+MIA
+15
+601
+40.1
+Amar'e Stoudemire
+PHX
+15
+601
+40.1
+David Wesley
+HOU
+7
+280
+40.0
+Mike Bibby
+SAC
+5
+200
+40.0
+Ray Allen
+SEA
+11
+436
+39.6
+Paul Pierce
+BOS
+7
+277
+39.6
+Joe Johnson
+PHX
+9
+355
+39.4
+Chauncey Billups
+DET
+25
+985
+39.4
+Ben Wallace
+DET
+25
+979
+39.2
+Rashard Lewis
+SEA
+8
+312
+39.0
+Jason Terry
+DAL
+13
+501
+38.5
+Nenad Krstic
+NJ
+4
+154
+38.5
+Samuel Dalembert
+PHI
+5
+192
+38.4
+Andre Iguodala
+PHI
+5
+192
+38.4
+Antawn Jamison
+WSH
+10
+380
+38.0
+Tim Duncan
+SA
+23
+869
+37.8
+Michael Finley
+DAL
+13
+491
+37.8
+Quentin Richardson
+PHX
+15
+564
+37.6
+Antoine Walker
+BOS
+6
+224
+37.3
+Tony Parker
+SA
+23
+858
+37.3
+Chris Webber
+PHI
+5
+186
+37.2
+Marcus Camby
+DEN
+5
+184
+36.8
+Andre Miller
+DEN
+5
+184
+36.8
+Jermaine O'Neal
+IND
+13
+476
+36.6
+Stephen Jackson
+IND
+13
+472
+36.3
+Udonis Haslem
+MIA
+15
+543
+36.2
+Carmelo Anthony
+DEN
+5
+180
+36.0

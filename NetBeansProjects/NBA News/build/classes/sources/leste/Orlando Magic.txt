@@ -1,0 +1,151 @@
+Orlando Magic
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/orl.png
+29-53
+101.1 22.2 43.2 107.6
+Evan Fournier, SG 17.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6588.png
+Elfrid Payton, PG 6.5 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2583639.png
+Serge Ibaka, PF 48.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3439.png
+Nikola Vucevic, C 10.4 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6478.png
+Elfrid Payton, PG 1.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2583639.png
+Bismack Biyombo, C 1.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6427.png
+D.J. Augustin
+14
+<a href="http://www.espn.com/nba/player/_/id/3415/d.j.-augustin">D.J. Augustin</a>
+PG
+29
+6-0
+183
+Texas
+$7,250,000
+Bismack Biyombo
+11
+<a href="http://www.espn.com/nba/player/_/id/6427/bismack-biyombo">Bismack Biyombo</a>
+C
+24
+6-9
+255
+&nbsp;
+$17,000,000
+Evan Fournier
+10
+<a href="http://www.espn.com/nba/player/_/id/6588/evan-fournier">Evan Fournier</a>
+SG
+24
+6-7
+205
+&nbsp;
+$17,000,000
+Patricio Garino
+29
+<a href="http://www.espn.com/nba/player/_/id/2982506/patricio-garino">Patricio Garino</a>
+SG
+24
+6-6
+203
+George Washington
+$31,969
+Marcus Georges-Hunt
+13
+<a href="http://www.espn.com/nba/player/_/id/2982261/marcus-georges-hunt">Marcus Georges-Hunt</a>
+SG
+23
+6-6
+220
+Georgia Tech
+$31,969
+Aaron Gordon
+00
+<a href="http://www.espn.com/nba/player/_/id/3064290/aaron-gordon">Aaron Gordon</a>
+PF
+21
+6-9
+220
+Arizona
+$4,351,320
+Jeff Green
+34
+<a href="http://www.espn.com/nba/player/_/id/3209/jeff-green">Jeff Green</a>
+SF
+30
+6-9
+235
+Georgetown
+$15,000,000
+Mario Hezonja
+8
+<a href="http://www.espn.com/nba/player/_/id/2995706/mario-hezonja">Mario Hezonja</a>
+SG
+22
+6-8
+218
+&nbsp;
+$3,909,840
+Jodie Meeks
+20
+<a href="http://www.espn.com/nba/player/_/id/4003/jodie-meeks">Jodie Meeks</a>
+SG
+29
+6-4
+210
+Kentucky
+$6,540,000
+Elfrid Payton
+4
+<a href="http://www.espn.com/nba/player/_/id/2583639/elfrid-payton">Elfrid Payton</a>
+PG
+23
+6-4
+185
+Louisiana-Lafayette
+$2,613,600
+Terrence Ross
+31
+<a href="http://www.espn.com/nba/player/_/id/6619/terrence-ross">Terrence Ross</a>
+SF
+26
+6-7
+195
+Washington
+$10,000,000
+Damjan Rudez
+3
+<a href="http://www.espn.com/nba/player/_/id/2309097/damjan-rudez">Damjan Rudez</a>
+SF
+30
+6-10
+228
+&nbsp;
+$980,431
+Nikola Vucevic
+9
+<a href="http://www.espn.com/nba/player/_/id/6478/nikola-vucevic">Nikola Vucevic</a>
+C
+26
+7-0
+260
+USC
+$11,750,000
+C.J. Watson
+32
+<a href="http://www.espn.com/nba/player/_/id/3277/c.j.-watson">C.J. Watson</a>
+PG
+33
+6-2
+175
+Tennessee
+$5,000,000
+Stephen Zimmerman
+33
+<a href="http://www.espn.com/nba/player/_/id/3936102/stephen-zimmerman">Stephen Zimmerman</a>
+C
+20
+7-0
+240
+UNLV
+$950,000

@@ -1,0 +1,151 @@
+New York Knicks
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png
+31-51
+104.3 21.8 45.2 108.0
+Carmelo Anthony, SF 22.4 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1975.png
+Brandon Jennings, PG 4.9 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3997.png
+Derrick Rose, PG 47.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3456.png
+Kristaps Porzingis, PF 7.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102531.png
+Courtney Lee, SG 1.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3445.png
+Kristaps Porzingis, PF 2.0 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102531.png
+Carmelo Anthony
+7
+<a href="http://www.espn.com/nba/player/_/id/1975/carmelo-anthony">Carmelo Anthony</a>
+SF
+33
+6-8
+240
+Syracuse
+$24,559,380
+Ron Baker
+31
+<a href="http://www.espn.com/nba/player/_/id/2580349/ron-baker">Ron Baker</a>
+SG
+24
+6-4
+220
+Wichita State
+$543,471
+Willy Hernangomez
+14
+<a href="http://www.espn.com/nba/player/_/id/2999409/willy-hernangomez">Willy Hernangomez</a>
+C
+23
+6-11
+240
+&nbsp;
+$1,350,000
+Justin Holiday
+8
+<a href="http://www.espn.com/nba/player/_/id/2284101/justin-holiday">Justin Holiday</a>
+SG
+28
+6-6
+185
+Washington
+$1,015,696
+Mindaugas Kuzminskas
+91
+<a href="http://www.espn.com/nba/player/_/id/3138120/mindaugas-kuzminskas">Mindaugas Kuzminskas</a>
+SF
+27
+6-9
+215
+&nbsp;
+$2,898,000
+Courtney Lee
+5
+<a href="http://www.espn.com/nba/player/_/id/3445/courtney-lee">Courtney Lee</a>
+SG
+31
+6-5
+200
+Western Kentucky
+$11,242,000
+Maurice Ndour
+2
+<a href="http://www.espn.com/nba/player/_/id/3063982/maurice-ndour">Maurice Ndour</a>
+SF
+24
+6-9
+200
+Ohio
+$543,471
+Joakim Noah
+13
+<a href="http://www.espn.com/nba/player/_/id/3224/joakim-noah">Joakim Noah</a>
+C
+32
+6-11
+230
+Florida
+$17,000,000
+Kyle O'Quinn
+9
+<a href="http://www.espn.com/nba/player/_/id/6615/kyle-o'quinn">Kyle O'Quinn</a>
+C
+27
+6-10
+250
+Norfolk State
+$3,918,750
+Marshall Plumlee
+40
+<a href="http://www.espn.com/nba/player/_/id/2566748/marshall-plumlee">Marshall Plumlee</a>
+C
+24
+7-0
+250
+Duke
+$543,471
+Kristaps Porzingis
+6
+<a href="http://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis">Kristaps Porzingis</a>
+PF
+21
+7-3
+240
+&nbsp;
+$4,317,720
+Chasson Randle
+4
+<a href="http://www.espn.com/nba/player/_/id/2580898/chasson-randle">Chasson Randle</a>
+PG
+24
+6-2
+185
+Stanford
+$143,860
+Derrick Rose
+25
+<a href="http://www.espn.com/nba/player/_/id/3456/derrick-rose">Derrick Rose</a>
+PG
+28
+6-3
+190
+Memphis
+$21,323,252
+Lance Thomas
+42
+<a href="http://www.espn.com/nba/player/_/id/6485/lance-thomas">Lance Thomas</a>
+SF
+29
+6-8
+235
+Duke
+$6,191,000
+Sasha Vujacic
+18
+<a href="http://www.espn.com/nba/player/_/id/2421/sasha-vujacic">Sasha Vujacic</a>
+SG
+33
+6-7
+195
+&nbsp;
+$980,431

@@ -1,0 +1,151 @@
+Cleveland Cavaliers
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png
+51-31
+110.3 22.7 43.8 107.2
+LeBron James, SF 26.4 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png
+LeBron James, SF 8.7 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png
+LeBron James, SF 54.8 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png
+Kevin Love, PF 11.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3449.png
+LeBron James, SF 1.2 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png
+Tristan Thompson, C 1.1 
+http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6474.png
+Kay Felder
+20
+<a href="http://www.espn.com/nba/player/_/id/3062892/kay-felder">Kay Felder</a>
+PG
+22
+5-9
+176
+&nbsp;
+$543,471
+Channing Frye
+8
+<a href="http://www.espn.com/nba/player/_/id/2754/channing-frye">Channing Frye</a>
+PF
+34
+6-11
+255
+Arizona
+$7,806,971
+Kyrie Irving
+2
+<a href="http://www.espn.com/nba/player/_/id/6442/kyrie-irving">Kyrie Irving</a>
+PG
+25
+6-3
+193
+Duke
+$17,638,063
+LeBron James
+23
+<a href="http://www.espn.com/nba/player/_/id/1966/lebron-james">LeBron James</a>
+SF
+32
+6-8
+250
+&nbsp;
+$30,963,450
+Richard Jefferson
+24
+<a href="http://www.espn.com/nba/player/_/id/1006/richard-jefferson">Richard Jefferson</a>
+SF
+36
+6-7
+233
+Arizona
+$2,500,000
+Dahntay Jones
+30
+<a href="http://www.espn.com/nba/player/_/id/2008/dahntay-jones">Dahntay Jones</a>
+SG
+36
+6-6
+225
+Duke
+$5,767
+James Jones
+1
+<a href="http://www.espn.com/nba/player/_/id/2009/james-jones">James Jones</a>
+SG
+36
+6-8
+218
+Miami (FL)
+$980,431
+Kyle Korver
+26
+<a href="http://www.espn.com/nba/player/_/id/2011/kyle-korver">Kyle Korver</a>
+SG
+36
+6-7
+212
+Creighton
+$5,239,437
+Kevin Love
+0
+<a href="http://www.espn.com/nba/player/_/id/3449/kevin-love">Kevin Love</a>
+PF
+28
+6-10
+251
+UCLA
+$21,165,675
+Iman Shumpert
+4
+<a href="http://www.espn.com/nba/player/_/id/6468/iman-shumpert">Iman Shumpert</a>
+SG
+26
+6-5
+220
+Georgia Tech
+$9,662,922
+JR Smith
+5
+<a href="http://www.espn.com/nba/player/_/id/2444/jr-smith">JR Smith</a>
+SG
+31
+6-6
+225
+&nbsp;
+$12,800,000
+Edy Tavares
+40
+<a href="http://www.espn.com/nba/player/_/id/3033031/edy-tavares">Edy Tavares</a>
+C
+25
+7-3
+265
+&nbsp;
+$1,000,000
+Tristan Thompson
+13
+<a href="http://www.espn.com/nba/player/_/id/6474/tristan-thompson">Tristan Thompson</a>
+C
+26
+6-9
+238
+Texas
+$15,330,435
+Deron Williams
+31
+<a href="http://www.espn.com/nba/player/_/id/2798/deron-williams">Deron Williams</a>
+PG
+32
+6-3
+200
+Illinois
+$259,526
+Derrick Williams
+3
+<a href="http://www.espn.com/nba/player/_/id/6480/derrick-williams">Derrick Williams</a>
+PF
+26
+6-8
+240
+Arizona
+$115,344
