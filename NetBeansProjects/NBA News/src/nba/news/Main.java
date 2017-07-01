@@ -186,7 +186,7 @@ public class Main extends javax.swing.JFrame {
     
      public void getVideos() throws MalformedURLException{
         CrawlerGetVideos videos = new CrawlerGetVideos();
-        videos.GetVideo(3);
+        videos.GetVideo(4);
         LinkedList<String> titles = videos.getTitles();
         LinkedList<String> thumbs = videos.getThumbs();
         LinkedList<String> links = videos.getLinks();
@@ -2867,7 +2867,8 @@ public class Main extends javax.swing.JFrame {
         try{
             File homedir = new File(System.getProperty("user.home"));
             
-            File fileToRead = new File(homedir, "/NetBeansProjects/NBA News/src/sources/"+ side +"/"+ teamName +".txt");
+            URL resource = getClass().getResource("/sources/"+ side +"/"+ teamName +".txt");
+            File fileToRead = new File(resource.toURI());
             BufferedReader br = new BufferedReader(new FileReader(fileToRead));
             String line = br.readLine();
 
@@ -2963,7 +2964,9 @@ public class Main extends javax.swing.JFrame {
          
         }catch(FileNotFoundException e){
             System.out.println(e);
-        } catch(IOException e){
+        }catch(IOException e){
+            System.out.println(e);
+        }catch(URISyntaxException e){
             System.out.println(e);
         }
     }
@@ -2978,9 +2981,8 @@ public class Main extends javax.swing.JFrame {
         tableStatistics.setColumnIdentifiers(this.columns.get(type));
 
         try{
-            File homedir = new File(System.getProperty("user.home"));
-            
-            File fileToRead = new File(homedir, "/NetBeansProjects/NBA News/src/sources/"+ year +"/"+ type +".txt");
+            URL resource = getClass().getResource("/sources/"+ year +"/"+ type +".txt");
+            File fileToRead = new File(resource.toURI());
             BufferedReader br = new BufferedReader(new FileReader(fileToRead));
             String line = br.readLine();
             int count = 0;
@@ -3011,7 +3013,9 @@ public class Main extends javax.swing.JFrame {
          
         }catch(FileNotFoundException e){
             System.out.println(e);
-        } catch(IOException e){
+        }catch(IOException e){
+            System.out.println(e);
+        }catch(URISyntaxException e){
             System.out.println(e);
         }
     }

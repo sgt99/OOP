@@ -4,8 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/victor/NetBeansProjects/NBA%20News/src/crawler/CrawlerGetVideos.java</file>
-            <file>file:/home/victor/NetBeansProjects/NBA%20News/nbproject/build-impl.xml</file>
             <file>file:/home/victor/NetBeansProjects/NBA%20News/src/nba/news/Main.java</file>
+            <file>file:/home/victor/NetBeansProjects/NBA%20News/src/crawler/CrawlerGetFotos.java</file>
+            <file>file:/home/victor/NetBeansProjects/NBA%20News/src/crawler/CrawlerInfoPessoais.java</file>
+            <file>file:/home/victor/NetBeansProjects/NBA%20News/src/crawler/CrawlerGetNoticias.java</file>
         </group>
     </open-files>
 </project-private>

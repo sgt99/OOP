@@ -26,7 +26,7 @@ public class CrawlerGetVideos {
 	public static void GetVideo(int maxVideos){
 		String url = "https://www.youtube.com/channel/UCEjOSbbaOfgnfRODEEMYlCw/videos";
                 
-		int cont = 0;
+		int cont = 1;
 		try {
 			Document pagina = Jsoup.connect(url).get();
 			Elements elementos = pagina.getElementsByClass(" spf-link  ux-thumb-wrap contains-addto");
